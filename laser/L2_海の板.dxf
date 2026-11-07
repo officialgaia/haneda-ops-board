@@ -1,0 +1,15434 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1024
+  9
+$ACADMAINTVER
+ 70
+6
+  9
+$DWGCODEPAGE
+  3
+ANSI_1252
+  9
+$LASTSAVEDBY
+  1
+ezdxf
+  9
+$INSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$EXTMIN
+ 10
+1e+20
+ 20
+1e+20
+ 30
+1e+20
+  9
+$EXTMAX
+ 10
+-1e+20
+ 20
+-1e+20
+ 30
+-1e+20
+  9
+$LIMMIN
+ 10
+0.0
+ 20
+0.0
+  9
+$LIMMAX
+ 10
+420.0
+ 20
+297.0
+  9
+$ORTHOMODE
+ 70
+0
+  9
+$REGENMODE
+ 70
+1
+  9
+$FILLMODE
+ 70
+1
+  9
+$QTEXTMODE
+ 70
+0
+  9
+$MIRRTEXT
+ 70
+1
+  9
+$LTSCALE
+ 40
+1.0
+  9
+$ATTMODE
+ 70
+1
+  9
+$TEXTSIZE
+ 40
+2.5
+  9
+$TRACEWID
+ 40
+1.0
+  9
+$TEXTSTYLE
+  7
+OpenSans
+  9
+$CLAYER
+  8
+0
+  9
+$CELTYPE
+  6
+ByLayer
+  9
+$CECOLOR
+ 62
+256
+  9
+$CELTSCALE
+ 40
+1.0
+  9
+$DISPSILH
+ 70
+0
+  9
+$DIMSCALE
+ 40
+1.0
+  9
+$DIMASZ
+ 40
+0.175
+  9
+$DIMEXO
+ 40
+0.125
+  9
+$DIMDLI
+ 40
+3.75
+  9
+$DIMRND
+ 40
+0.0
+  9
+$DIMDLE
+ 40
+0.0
+  9
+$DIMEXE
+ 40
+0.375
+  9
+$DIMTP
+ 40
+0.0
+  9
+$DIMTM
+ 40
+0.0
+  9
+$DIMTXT
+ 40
+0.25
+  9
+$DIMCEN
+ 40
+2.5
+  9
+$DIMTSZ
+ 40
+0.0
+  9
+$DIMTOL
+ 70
+0
+  9
+$DIMLIM
+ 70
+0
+  9
+$DIMTIH
+ 70
+0
+  9
+$DIMTOH
+ 70
+0
+  9
+$DIMSE1
+ 70
+0
+  9
+$DIMSE2
+ 70
+0
+  9
+$DIMTAD
+ 70
+1
+  9
+$DIMZIN
+ 70
+12
+  9
+$DIMBLK
+  1
+ARCHTICK
+  9
+$DIMASO
+ 70
+1
+  9
+$DIMSHO
+ 70
+1
+  9
+$DIMPOST
+  1
+
+  9
+$DIMAPOST
+  1
+
+  9
+$DIMALT
+ 70
+0
+  9
+$DIMALTD
+ 70
+3
+  9
+$DIMALTF
+ 40
+0.03937007874
+  9
+$DIMLFAC
+ 40
+100.0
+  9
+$DIMTOFL
+ 70
+1
+  9
+$DIMTVP
+ 40
+0.0
+  9
+$DIMTIX
+ 70
+0
+  9
+$DIMSOXD
+ 70
+0
+  9
+$DIMSAH
+ 70
+0
+  9
+$DIMBLK1
+  1
+
+  9
+$DIMBLK2
+  1
+
+  9
+$DIMSTYLE
+  2
+EZDXF
+  9
+$DIMCLRD
+ 70
+0
+  9
+$DIMCLRE
+ 70
+0
+  9
+$DIMCLRT
+ 70
+0
+  9
+$DIMTFAC
+ 40
+0.5
+  9
+$DIMGAP
+ 40
+0.1
+  9
+$DIMJUST
+ 70
+0
+  9
+$DIMSD1
+ 70
+0
+  9
+$DIMSD2
+ 70
+0
+  9
+$DIMTOLJ
+ 70
+0
+  9
+$DIMTZIN
+ 70
+8
+  9
+$DIMALTZ
+ 70
+0
+  9
+$DIMALTTZ
+ 70
+0
+  9
+$DIMUPT
+ 70
+1
+  9
+$DIMDEC
+ 70
+2
+  9
+$DIMTDEC
+ 70
+2
+  9
+$DIMALTU
+ 70
+2
+  9
+$DIMALTTD
+ 70
+3
+  9
+$DIMTXSTY
+  7
+OpenSansCondensed-Light
+  9
+$DIMAUNIT
+ 70
+0
+  9
+$DIMADEC
+ 70
+2
+  9
+$DIMALTRND
+ 40
+0.0
+  9
+$DIMAZIN
+ 70
+3
+  9
+$DIMDSEP
+ 70
+46
+  9
+$DIMATFIT
+ 70
+3
+  9
+$DIMFRAC
+ 70
+0
+  9
+$DIMLDRBLK
+  1
+
+  9
+$DIMLUNIT
+ 70
+2
+  9
+$DIMLWD
+ 70
+-2
+  9
+$DIMLWE
+ 70
+-2
+  9
+$DIMTMOVE
+ 70
+2
+  9
+$DIMFXL
+ 40
+1.0
+  9
+$DIMFXLON
+ 70
+0
+  9
+$DIMJOGANG
+ 40
+0.785398163397
+  9
+$DIMTFILL
+ 70
+0
+  9
+$DIMTFILLCLR
+ 70
+0
+  9
+$DIMARCSYM
+ 70
+0
+  9
+$DIMLTYPE
+  6
+
+  9
+$DIMLTEX1
+  6
+
+  9
+$DIMLTEX2
+  6
+
+  9
+$DIMTXTDIRECTION
+ 70
+0
+  9
+$LUNITS
+ 70
+2
+  9
+$LUPREC
+ 70
+4
+  9
+$SKETCHINC
+ 40
+1.0
+  9
+$FILLETRAD
+ 40
+10.0
+  9
+$AUNITS
+ 70
+0
+  9
+$AUPREC
+ 70
+2
+  9
+$MENU
+  1
+.
+  9
+$ELEVATION
+ 40
+0.0
+  9
+$PELEVATION
+ 40
+0.0
+  9
+$THICKNESS
+ 40
+0.0
+  9
+$LIMCHECK
+ 70
+0
+  9
+$CHAMFERA
+ 40
+0.0
+  9
+$CHAMFERB
+ 40
+0.0
+  9
+$CHAMFERC
+ 40
+0.0
+  9
+$CHAMFERD
+ 40
+0.0
+  9
+$SKPOLY
+ 70
+0
+  9
+$TDCREATE
+ 40
+2461349.541342593
+  9
+$TDUCREATE
+ 40
+2458532.153996898
+  9
+$TDUPDATE
+ 40
+2461349.541342593
+  9
+$TDUUPDATE
+ 40
+2458532.1544311
+  9
+$TDINDWG
+ 40
+0.0
+  9
+$TDUSRTIMER
+ 40
+0.0
+  9
+$USRTIMER
+ 70
+1
+  9
+$ANGBASE
+ 50
+0.0
+  9
+$ANGDIR
+ 70
+0
+  9
+$PDMODE
+ 70
+0
+  9
+$PDSIZE
+ 40
+0.0
+  9
+$PLINEWID
+ 40
+0.0
+  9
+$SPLFRAME
+ 70
+0
+  9
+$SPLINETYPE
+ 70
+6
+  9
+$SPLINESEGS
+ 70
+8
+  9
+$HANDSEED
+  5
+B7
+  9
+$SURFTAB1
+ 70
+6
+  9
+$SURFTAB2
+ 70
+6
+  9
+$SURFTYPE
+ 70
+6
+  9
+$SURFU
+ 70
+6
+  9
+$SURFV
+ 70
+6
+  9
+$UCSBASE
+  2
+
+  9
+$UCSNAME
+  2
+
+  9
+$UCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$UCSORTHOREF
+  2
+
+  9
+$UCSORTHOVIEW
+ 70
+0
+  9
+$UCSORGTOP
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGBOTTOM
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGLEFT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGRIGHT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGFRONT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGBACK
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSBASE
+  2
+
+  9
+$PUCSNAME
+  2
+
+  9
+$PUCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$PUCSORTHOREF
+  2
+
+  9
+$PUCSORTHOVIEW
+ 70
+0
+  9
+$PUCSORGTOP
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGBOTTOM
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGLEFT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGRIGHT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGFRONT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGBACK
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$USERI1
+ 70
+0
+  9
+$USERI2
+ 70
+0
+  9
+$USERI3
+ 70
+0
+  9
+$USERI4
+ 70
+0
+  9
+$USERI5
+ 70
+0
+  9
+$USERR1
+ 40
+0.0
+  9
+$USERR2
+ 40
+0.0
+  9
+$USERR3
+ 40
+0.0
+  9
+$USERR4
+ 40
+0.0
+  9
+$USERR5
+ 40
+0.0
+  9
+$WORLDVIEW
+ 70
+1
+  9
+$SHADEDGE
+ 70
+3
+  9
+$SHADEDIF
+ 70
+70
+  9
+$TILEMODE
+ 70
+1
+  9
+$MAXACTVP
+ 70
+64
+  9
+$PINSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PLIMCHECK
+ 70
+0
+  9
+$PEXTMIN
+ 10
+1e+20
+ 20
+1e+20
+ 30
+1e+20
+  9
+$PEXTMAX
+ 10
+-1e+20
+ 20
+-1e+20
+ 30
+-1e+20
+  9
+$PLIMMIN
+ 10
+0.0
+ 20
+0.0
+  9
+$PLIMMAX
+ 10
+420.0
+ 20
+297.0
+  9
+$UNITMODE
+ 70
+0
+  9
+$VISRETAIN
+ 70
+1
+  9
+$PLINEGEN
+ 70
+0
+  9
+$PSLTSCALE
+ 70
+1
+  9
+$TREEDEPTH
+ 70
+3020
+  9
+$CMLSTYLE
+  2
+Standard
+  9
+$CMLJUST
+ 70
+0
+  9
+$CMLSCALE
+ 40
+20.0
+  9
+$PROXYGRAPHICS
+ 70
+1
+  9
+$MEASUREMENT
+ 70
+1
+  9
+$CELWEIGHT
+370
+-1
+  9
+$ENDCAPS
+280
+0
+  9
+$JOINSTYLE
+280
+0
+  9
+$LWDISPLAY
+290
+0
+  9
+$INSUNITS
+ 70
+4
+  9
+$HYPERLINKBASE
+  1
+
+  9
+$STYLESHEET
+  1
+
+  9
+$XEDIT
+290
+1
+  9
+$CEPSNTYPE
+380
+0
+  9
+$PSTYLEMODE
+290
+1
+  9
+$FINGERPRINTGUID
+  2
+{60FAE7B7-CDDC-4D80-A82B-983FEC063BFA}
+  9
+$VERSIONGUID
+  2
+{D5E92066-8FCC-4ED5-9071-337304F9292E}
+  9
+$EXTNAMES
+290
+1
+  9
+$PSVPSCALE
+ 40
+0.0
+  9
+$OLESTARTUP
+290
+0
+  9
+$SORTENTS
+280
+127
+  9
+$INDEXCTL
+280
+0
+  9
+$HIDETEXT
+280
+1
+  9
+$XCLIPFRAME
+280
+1
+  9
+$HALOGAP
+280
+0
+  9
+$OBSCOLOR
+ 70
+257
+  9
+$OBSLTYPE
+280
+0
+  9
+$INTERSECTIONDISPLAY
+280
+0
+  9
+$INTERSECTIONCOLOR
+ 70
+257
+  9
+$DIMASSOC
+280
+2
+  9
+$PROJECTNAME
+  1
+
+  9
+$CAMERADISPLAY
+290
+0
+  9
+$LENSLENGTH
+ 40
+50.0
+  9
+$CAMERAHEIGHT
+ 40
+0.0
+  9
+$STEPSPERSEC
+ 40
+24.0
+  9
+$STEPSIZE
+ 40
+100.0
+  9
+$3DDWFPREC
+ 40
+2.0
+  9
+$PSOLWIDTH
+ 40
+0.005
+  9
+$PSOLHEIGHT
+ 40
+0.08
+  9
+$LOFTANG1
+ 40
+1.570796326795
+  9
+$LOFTANG2
+ 40
+1.570796326795
+  9
+$LOFTMAG1
+ 40
+0.0
+  9
+$LOFTMAG2
+ 40
+0.0
+  9
+$LOFTPARAM
+ 70
+7
+  9
+$LOFTNORMALS
+280
+1
+  9
+$LATITUDE
+ 40
+37.795
+  9
+$LONGITUDE
+ 40
+-122.394
+  9
+$NORTHDIRECTION
+ 40
+0.0
+  9
+$TIMEZONE
+ 70
+-8000
+  9
+$LIGHTGLYPHDISPLAY
+280
+1
+  9
+$TILEMODELIGHTSYNCH
+280
+1
+  9
+$CMATERIAL
+347
+20
+  9
+$SOLIDHIST
+280
+0
+  9
+$SHOWHIST
+280
+1
+  9
+$DWFFRAME
+280
+2
+  9
+$DGNFRAME
+280
+2
+  9
+$REALWORLDSCALE
+290
+1
+  9
+$INTERFERECOLOR
+ 62
+256
+  9
+$CSHADOW
+280
+0
+  9
+$SHADOWPLANELOCATION
+ 40
+0.0
+  0
+ENDSEC
+  0
+SECTION
+  2
+CLASSES
+  0
+CLASS
+  1
+ACDBDICTIONARYWDFLT
+  2
+AcDbDictionaryWithDefault
+  3
+ObjectDBX Classes
+ 90
+0
+ 91
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+SUN
+  2
+AcDbSun
+  3
+SCENEOE
+ 90
+1153
+ 91
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+VISUALSTYLE
+  2
+AcDbVisualStyle
+  3
+ObjectDBX Classes
+ 90
+4095
+ 91
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+MATERIAL
+  2
+AcDbMaterial
+  3
+ObjectDBX Classes
+ 90
+1153
+ 91
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+SCALE
+  2
+AcDbScale
+  3
+ObjectDBX Classes
+ 90
+1153
+ 91
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+TABLESTYLE
+  2
+AcDbTableStyle
+  3
+ObjectDBX Classes
+ 90
+4095
+ 91
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+MLEADERSTYLE
+  2
+AcDbMLeaderStyle
+  3
+ACDB_MLEADERSTYLE_CLASS
+ 90
+4095
+ 91
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+DICTIONARYVAR
+  2
+AcDbDictionaryVar
+  3
+ObjectDBX Classes
+ 90
+0
+ 91
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+CELLSTYLEMAP
+  2
+AcDbCellStyleMap
+  3
+ObjectDBX Classes
+ 90
+1152
+ 91
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+MENTALRAYRENDERSETTINGS
+  2
+AcDbMentalRayRenderSettings
+  3
+SCENEOE
+ 90
+1024
+ 91
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+ACDBDETAILVIEWSTYLE
+  2
+AcDbDetailViewStyle
+  3
+ObjectDBX Classes
+ 90
+1025
+ 91
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+ACDBSECTIONVIEWSTYLE
+  2
+AcDbSectionViewStyle
+  3
+ObjectDBX Classes
+ 90
+1025
+ 91
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+RASTERVARIABLES
+  2
+AcDbRasterVariables
+  3
+ISM
+ 90
+0
+ 91
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+ACDBPLACEHOLDER
+  2
+AcDbPlaceHolder
+  3
+ObjectDBX Classes
+ 90
+0
+ 91
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+LAYOUT
+  2
+AcDbLayout
+  3
+ObjectDBX Classes
+ 90
+0
+ 91
+0
+280
+0
+281
+0
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+VPORT
+  5
+8
+330
+0
+100
+AcDbSymbolTable
+ 70
+1
+  0
+VPORT
+  5
+23
+330
+8
+100
+AcDbSymbolTableRecord
+100
+AcDbViewportTableRecord
+  2
+*Active
+ 70
+0
+ 10
+0.0
+ 20
+0.0
+ 11
+1.0
+ 21
+1.0
+ 12
+0.0
+ 22
+0.0
+ 13
+0.0
+ 23
+0.0
+ 14
+0.5
+ 24
+0.5
+ 15
+0.5
+ 25
+0.5
+ 16
+0.0
+ 26
+0.0
+ 36
+1.0
+ 17
+0.0
+ 27
+0.0
+ 37
+0.0
+ 40
+1000.0
+ 41
+1.34
+ 42
+50.0
+ 43
+0.0
+ 44
+0.0
+ 50
+0.0
+ 51
+0.0
+ 71
+0
+ 72
+1000
+ 73
+1
+ 74
+3
+ 75
+0
+ 76
+0
+ 77
+0
+ 78
+0
+281
+0
+ 65
+0
+146
+0.0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LTYPE
+  5
+2
+330
+0
+100
+AcDbSymbolTable
+ 70
+21
+  0
+LTYPE
+  5
+24
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByBlock
+ 70
+0
+  3
+
+ 72
+65
+ 73
+0
+ 40
+0.0
+  0
+LTYPE
+  5
+25
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByLayer
+ 70
+0
+  3
+
+ 72
+65
+ 73
+0
+ 40
+0.0
+  0
+LTYPE
+  5
+26
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+Continuous
+ 70
+0
+  3
+
+ 72
+65
+ 73
+0
+ 40
+0.0
+  0
+LTYPE
+  5
+2F
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+CENTER
+ 70
+0
+  3
+Center ____ _ ____ _ ____ _ ____ _ ____ _ ____
+ 72
+65
+ 73
+4
+ 40
+5.08
+ 49
+3.175
+ 74
+0
+ 49
+-0.635
+ 74
+0
+ 49
+0.635
+ 74
+0
+ 49
+-0.635
+ 74
+0
+  0
+LTYPE
+  5
+30
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+CENTERX2
+ 70
+0
+  3
+Center (2x) ________  __  ________  __  ________
+ 72
+65
+ 73
+4
+ 40
+8.89
+ 49
+6.35
+ 74
+0
+ 49
+-0.635
+ 74
+0
+ 49
+1.27
+ 74
+0
+ 49
+-0.635
+ 74
+0
+  0
+LTYPE
+  5
+31
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+CENTER2
+ 70
+0
+  3
+Center (.5x) ____ _ ____ _ ____ _ ____ _ ____
+ 72
+65
+ 73
+4
+ 40
+2.54
+ 49
+1.587
+ 74
+0
+ 49
+-0.318
+ 74
+0
+ 49
+0.318
+ 74
+0
+ 49
+-0.318
+ 74
+0
+  0
+LTYPE
+  5
+32
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHED
+ 70
+0
+  3
+Dashed __ __ __ __ __ __ __ __ __ __ __ __ __ _
+ 72
+65
+ 73
+2
+ 40
+1.524
+ 49
+1.27
+ 74
+0
+ 49
+-0.254
+ 74
+0
+  0
+LTYPE
+  5
+33
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHEDX2
+ 70
+0
+  3
+Dashed (2x) ____  ____  ____  ____  ____  ____
+ 72
+65
+ 73
+2
+ 40
+3.048
+ 49
+2.54
+ 74
+0
+ 49
+-0.508
+ 74
+0
+  0
+LTYPE
+  5
+34
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHED2
+ 70
+0
+  3
+Dashed (.5x) _ _ _ _ _ _ _ _ _ _ _ _ _ _
+ 72
+65
+ 73
+2
+ 40
+0.762
+ 49
+0.635
+ 74
+0
+ 49
+-0.127
+ 74
+0
+  0
+LTYPE
+  5
+35
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+PHANTOM
+ 70
+0
+  3
+Phantom ______  __  __  ______  __  __  ______
+ 72
+65
+ 73
+6
+ 40
+6.35
+ 49
+3.175
+ 74
+0
+ 49
+-0.635
+ 74
+0
+ 49
+0.635
+ 74
+0
+ 49
+-0.635
+ 74
+0
+ 49
+0.635
+ 74
+0
+ 49
+-0.635
+ 74
+0
+  0
+LTYPE
+  5
+36
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+PHANTOMX2
+ 70
+0
+  3
+Phantom (2x)____________    ____    ____    ____________
+ 72
+65
+ 73
+6
+ 40
+10.795
+ 49
+6.35
+ 74
+0
+ 49
+-0.635
+ 74
+0
+ 49
+1.27
+ 74
+0
+ 49
+-0.635
+ 74
+0
+ 49
+1.27
+ 74
+0
+ 49
+-0.635
+ 74
+0
+  0
+LTYPE
+  5
+37
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+PHANTOM2
+ 70
+0
+  3
+Phantom (.5x) ___ _ _ ___ _ _ ___ _ _ ___ _ _ ___
+ 72
+65
+ 73
+6
+ 40
+3.175
+ 49
+1.587
+ 74
+0
+ 49
+-0.318
+ 74
+0
+ 49
+0.318
+ 74
+0
+ 49
+-0.318
+ 74
+0
+ 49
+0.318
+ 74
+0
+ 49
+-0.318
+ 74
+0
+  0
+LTYPE
+  5
+38
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHDOT
+ 70
+0
+  3
+Dash dot __ . __ . __ . __ . __ . __ . __ . __
+ 72
+65
+ 73
+4
+ 40
+3.556
+ 49
+2.54
+ 74
+0
+ 49
+-0.508
+ 74
+0
+ 49
+0.0
+ 74
+0
+ 49
+-0.508
+ 74
+0
+  0
+LTYPE
+  5
+39
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHDOTX2
+ 70
+0
+  3
+Dash dot (2x) ____  .  ____  .  ____  .  ____
+ 72
+65
+ 73
+4
+ 40
+6.096
+ 49
+5.08
+ 74
+0
+ 49
+-0.508
+ 74
+0
+ 49
+0.0
+ 74
+0
+ 49
+-0.508
+ 74
+0
+  0
+LTYPE
+  5
+3A
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHDOT2
+ 70
+0
+  3
+Dash dot (.5x) _ . _ . _ . _ . _ . _ . _ . _
+ 72
+65
+ 73
+4
+ 40
+1.778
+ 49
+1.27
+ 74
+0
+ 49
+-0.254
+ 74
+0
+ 49
+0.0
+ 74
+0
+ 49
+-0.254
+ 74
+0
+  0
+LTYPE
+  5
+3B
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DOT
+ 70
+0
+  3
+Dot .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+ 72
+65
+ 73
+2
+ 40
+0.508
+ 49
+0.0
+ 74
+0
+ 49
+-0.508
+ 74
+0
+  0
+LTYPE
+  5
+3C
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DOTX2
+ 70
+0
+  3
+Dot (2x) .    .    .    .    .    .    .    . 
+ 72
+65
+ 73
+2
+ 40
+1.016
+ 49
+0.0
+ 74
+0
+ 49
+-1.016
+ 74
+0
+  0
+LTYPE
+  5
+3D
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DOT2
+ 70
+0
+  3
+Dot (.5) . . . . . . . . . . . . . . . . . . . 
+ 72
+65
+ 73
+2
+ 40
+0.254
+ 49
+0.0
+ 74
+0
+ 49
+-0.254
+ 74
+0
+  0
+LTYPE
+  5
+3E
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DIVIDE
+ 70
+0
+  3
+Divide __ . . __ . . __ . . __ . . __ . . __
+ 72
+65
+ 73
+6
+ 40
+4.064
+ 49
+2.54
+ 74
+0
+ 49
+-0.508
+ 74
+0
+ 49
+0.0
+ 74
+0
+ 49
+-0.508
+ 74
+0
+ 49
+0.0
+ 74
+0
+ 49
+-0.508
+ 74
+0
+  0
+LTYPE
+  5
+3F
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DIVIDEX2
+ 70
+0
+  3
+Divide (2x) ____  . .  ____  . .  ____  . .  ____
+ 72
+65
+ 73
+6
+ 40
+6.604
+ 49
+5.08
+ 74
+0
+ 49
+-0.508
+ 74
+0
+ 49
+0.0
+ 74
+0
+ 49
+-0.508
+ 74
+0
+ 49
+0.0
+ 74
+0
+ 49
+-0.508
+ 74
+0
+  0
+LTYPE
+  5
+40
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DIVIDE2
+ 70
+0
+  3
+Divide(.5x) _ . _ . _ . _ . _ . _ . _ . _
+ 72
+65
+ 73
+6
+ 40
+2.032
+ 49
+1.27
+ 74
+0
+ 49
+-0.254
+ 74
+0
+ 49
+0.0
+ 74
+0
+ 49
+-0.254
+ 74
+0
+ 49
+0.0
+ 74
+0
+ 49
+-0.254
+ 74
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+  5
+1
+330
+0
+100
+AcDbSymbolTable
+ 70
+5
+  0
+LAYER
+  5
+27
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+0
+ 70
+0
+ 62
+7
+  6
+Continuous
+370
+-3
+390
+13
+347
+21
+  0
+LAYER
+  5
+28
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Defpoints
+ 70
+0
+ 62
+7
+  6
+Continuous
+290
+0
+370
+-3
+390
+13
+347
+21
+  0
+LAYER
+  5
+8A
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+ENGRAVE_DARK
+ 70
+0
+ 62
+7
+  6
+Continuous
+370
+-3
+390
+13
+347
+21
+  0
+LAYER
+  5
+9C
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+ENGRAVE_LIGHT
+ 70
+0
+ 62
+8
+  6
+Continuous
+370
+-3
+390
+13
+347
+21
+  0
+LAYER
+  5
+A1
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+CUT
+ 70
+0
+ 62
+1
+  6
+Continuous
+370
+-3
+390
+13
+347
+21
+  0
+ENDTAB
+  0
+TABLE
+  2
+STYLE
+  5
+5
+330
+0
+100
+AcDbSymbolTable
+ 70
+26
+  0
+STYLE
+  5
+29
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+Standard
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+txt
+  4
+
+  0
+STYLE
+  5
+41
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+OpenSans-Light
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+OpenSans-Light.ttf
+  4
+
+  0
+STYLE
+  5
+42
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+OpenSans-Light-Italic
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+OpenSans-LightItalic.ttf
+  4
+
+  0
+STYLE
+  5
+43
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+OpenSans
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+OpenSans-Regular.ttf
+  4
+
+  0
+STYLE
+  5
+44
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+OpenSans-Italic
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+OpenSans-Italic.ttf
+  4
+
+  0
+STYLE
+  5
+45
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+OpenSans-SemiBold
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+OpenSans-SemiBold.ttf
+  4
+
+  0
+STYLE
+  5
+46
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+OpenSans-SemiBoldItalic
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+OpenSans-SemiBoldItalic.ttf
+  4
+
+  0
+STYLE
+  5
+47
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+OpenSans-Bold
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+OpenSans-Bold.ttf
+  4
+
+  0
+STYLE
+  5
+48
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+OpenSans-BoldItalic
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+OpenSans-BoldItalic.ttf
+  4
+
+  0
+STYLE
+  5
+49
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+OpenSans-ExtraBold
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+OpenSans-ExtraBold.ttf
+  4
+
+  0
+STYLE
+  5
+4A
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+OpenSans-ExtraBoldItalic
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+OpenSans-ExtraBoldItalic.ttf
+  4
+
+  0
+STYLE
+  5
+4B
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+OpenSansCondensed-Bold
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+OpenSansCondensed-Bold.ttf
+  4
+
+  0
+STYLE
+  5
+4C
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+OpenSansCondensed-Light
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+OpenSansCondensed-Light.ttf
+  4
+
+  0
+STYLE
+  5
+4D
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+OpenSansCondensed-Italic
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+OpenSansCondensed-LightItalic.ttf
+  4
+
+  0
+STYLE
+  5
+4E
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+LiberationSans
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+LiberationSans-Regular.ttf
+  4
+
+  0
+STYLE
+  5
+4F
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+LiberationSans-Bold
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+LiberationSans-Bold.ttf
+  4
+
+  0
+STYLE
+  5
+50
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+LiberationSans-BoldItalic
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+LiberationSans-BoldItalic.ttf
+  4
+
+  0
+STYLE
+  5
+51
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+LiberationSans-Italic
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+LiberationSans-Italic.ttf
+  4
+
+  0
+STYLE
+  5
+52
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+LiberationSerif
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+LiberationSerif-Regular.ttf
+  4
+
+  0
+STYLE
+  5
+53
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+LiberationSerif-Bold
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+LiberationSerif-Bold.ttf
+  4
+
+  0
+STYLE
+  5
+54
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+LiberationSerif-BoldItalic
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+LiberationSerif-BoldItalic.ttf
+  4
+
+  0
+STYLE
+  5
+55
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+LiberationSerif-Italic
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+LiberationSerif-Italic.ttf
+  4
+
+  0
+STYLE
+  5
+56
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+LiberationMono
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+LiberationMono-Regular.ttf
+  4
+
+  0
+STYLE
+  5
+57
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+LiberationMono-Bold
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+LiberationMono-Bold.ttf
+  4
+
+  0
+STYLE
+  5
+58
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+LiberationMono-BoldItalic
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+LiberationMono-BoldItalic.ttf
+  4
+
+  0
+STYLE
+  5
+59
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+LiberationMono-Italic
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+LiberationMono-Italic.ttf
+  4
+
+  0
+ENDTAB
+  0
+TABLE
+  2
+VIEW
+  5
+7
+330
+0
+100
+AcDbSymbolTable
+ 70
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+UCS
+  5
+6
+330
+0
+100
+AcDbSymbolTable
+ 70
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+APPID
+  5
+3
+330
+0
+100
+AcDbSymbolTable
+ 70
+3
+  0
+APPID
+  5
+2A
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD
+ 70
+0
+  0
+APPID
+  5
+B4
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+HATCHBACKGROUNDCOLOR
+ 70
+0
+  0
+APPID
+  5
+B5
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+EZDXF
+ 70
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+DIMSTYLE
+  5
+4
+330
+0
+100
+AcDbSymbolTable
+ 70
+12
+100
+AcDbDimStyleTable
+  0
+DIMSTYLE
+105
+2B
+330
+4
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+Standard
+ 70
+0
+ 40
+1.0
+ 41
+2.5
+ 42
+0.625
+ 43
+3.75
+ 44
+1.25
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+2.5
+140
+2.5
+141
+2.5
+142
+0.0
+143
+0.03937007874
+144
+1.0
+145
+0.0
+146
+1.0
+147
+0.625
+148
+0.0
+ 69
+0
+ 70
+0
+ 71
+0
+ 72
+0
+ 73
+0
+ 74
+0
+ 75
+0
+ 76
+0
+ 77
+1
+ 78
+8
+ 79
+3
+170
+0
+171
+3
+172
+1
+173
+0
+174
+0
+175
+0
+176
+0
+177
+0
+178
+0
+179
+2
+271
+2
+272
+2
+273
+2
+274
+3
+275
+0
+276
+0
+277
+2
+278
+44
+279
+0
+280
+0
+281
+0
+282
+0
+283
+0
+284
+8
+285
+0
+286
+0
+288
+0
+289
+3
+290
+0
+371
+-2
+372
+-2
+  0
+DIMSTYLE
+105
+73
+330
+4
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+EZDXF
+ 70
+0
+ 40
+1.0
+ 41
+0.175
+ 42
+0.125
+ 43
+3.75
+ 44
+0.375
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+2.5
+140
+0.25
+141
+2.5
+142
+0.0
+143
+0.03937007874
+144
+100.0
+145
+0.0
+146
+0.5
+147
+0.1
+148
+0.0
+ 69
+0
+ 70
+0
+ 71
+0
+ 72
+0
+ 73
+0
+ 74
+0
+ 75
+0
+ 76
+0
+ 77
+1
+ 78
+12
+ 79
+3
+170
+0
+171
+3
+172
+1
+173
+0
+174
+0
+175
+0
+176
+0
+177
+0
+178
+0
+179
+2
+271
+2
+272
+2
+273
+2
+274
+3
+275
+0
+276
+0
+277
+2
+278
+46
+279
+2
+280
+0
+281
+0
+282
+0
+283
+0
+284
+8
+285
+0
+286
+0
+288
+1
+289
+3
+290
+0
+340
+4C
+342
+74
+371
+-2
+372
+-2
+  0
+DIMSTYLE
+105
+7C
+330
+4
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+EZ_M_100_H25_CM
+ 70
+0
+ 40
+1.0
+ 41
+0.25
+ 42
+0.125
+ 43
+3.75
+ 44
+0.375
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+2.5
+140
+0.25
+141
+2.5
+142
+0.125
+143
+0.03937007874
+144
+100.0
+145
+0.0
+146
+0.5
+147
+0.1
+148
+0.0
+ 69
+0
+ 70
+0
+ 71
+0
+ 72
+0
+ 73
+0
+ 74
+0
+ 75
+0
+ 76
+0
+ 77
+1
+ 78
+12
+ 79
+3
+170
+0
+171
+3
+172
+1
+173
+0
+174
+0
+175
+0
+176
+0
+177
+0
+178
+0
+179
+2
+271
+2
+272
+2
+273
+2
+274
+3
+275
+0
+276
+0
+277
+2
+278
+46
+279
+2
+280
+0
+281
+0
+282
+0
+283
+0
+284
+8
+285
+0
+286
+0
+288
+1
+289
+3
+290
+0
+340
+4C
+371
+-2
+372
+-2
+  0
+DIMSTYLE
+105
+7D
+330
+4
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+EZ_M_50_H25_CM
+ 70
+0
+ 40
+1.0
+ 41
+0.125
+ 42
+0.0625
+ 43
+3.75
+ 44
+0.1875
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+2.5
+140
+0.125
+141
+2.5
+142
+0.0625
+143
+0.03937007874
+144
+100.0
+145
+0.0
+146
+0.5
+147
+0.05
+148
+0.0
+ 69
+0
+ 70
+0
+ 71
+0
+ 72
+0
+ 73
+0
+ 74
+0
+ 75
+0
+ 76
+0
+ 77
+1
+ 78
+12
+ 79
+3
+170
+0
+171
+3
+172
+1
+173
+0
+174
+0
+175
+0
+176
+0
+177
+0
+178
+0
+179
+2
+271
+2
+272
+2
+273
+2
+274
+3
+275
+0
+276
+0
+277
+2
+278
+46
+279
+2
+280
+0
+281
+0
+282
+0
+283
+0
+284
+8
+285
+0
+286
+0
+288
+1
+289
+3
+290
+0
+340
+4C
+371
+-2
+372
+-2
+  0
+DIMSTYLE
+105
+7E
+330
+4
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+EZ_M_25_H25_CM
+ 70
+0
+ 40
+1.0
+ 41
+0.0625
+ 42
+0.03125
+ 43
+3.75
+ 44
+0.09375
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+2.5
+140
+0.0625
+141
+2.5
+142
+0.03125
+143
+0.03937007874
+144
+100.0
+145
+0.0
+146
+0.5
+147
+0.025
+148
+0.0
+ 69
+0
+ 70
+0
+ 71
+0
+ 72
+0
+ 73
+0
+ 74
+0
+ 75
+0
+ 76
+0
+ 77
+1
+ 78
+12
+ 79
+3
+170
+0
+171
+3
+172
+1
+173
+0
+174
+0
+175
+0
+176
+0
+177
+0
+178
+0
+179
+2
+271
+2
+272
+2
+273
+2
+274
+3
+275
+0
+276
+0
+277
+2
+278
+46
+279
+2
+280
+0
+281
+0
+282
+0
+283
+0
+284
+8
+285
+0
+286
+0
+288
+1
+289
+3
+290
+0
+340
+4C
+371
+-2
+372
+-2
+  0
+DIMSTYLE
+105
+7F
+330
+4
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+EZ_M_20_H25_CM
+ 70
+0
+ 40
+1.0
+ 41
+0.05
+ 42
+0.025
+ 43
+3.75
+ 44
+0.07500000000000001
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+2.5
+140
+0.05
+141
+2.5
+142
+0.025
+143
+0.03937007874
+144
+100.0
+145
+0.0
+146
+0.5
+147
+0.020000000000000004
+148
+0.0
+ 69
+0
+ 70
+0
+ 71
+0
+ 72
+0
+ 73
+0
+ 74
+0
+ 75
+0
+ 76
+0
+ 77
+1
+ 78
+12
+ 79
+3
+170
+0
+171
+3
+172
+1
+173
+0
+174
+0
+175
+0
+176
+0
+177
+0
+178
+0
+179
+2
+271
+2
+272
+2
+273
+2
+274
+3
+275
+0
+276
+0
+277
+2
+278
+46
+279
+2
+280
+0
+281
+0
+282
+0
+283
+0
+284
+8
+285
+0
+286
+0
+288
+1
+289
+3
+290
+0
+340
+4C
+371
+-2
+372
+-2
+  0
+DIMSTYLE
+105
+80
+330
+4
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+EZ_M_10_H25_CM
+ 70
+0
+ 40
+1.0
+ 41
+0.025
+ 42
+0.0125
+ 43
+3.75
+ 44
+0.037500000000000006
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+2.5
+140
+0.025
+141
+2.5
+142
+0.0125
+143
+0.03937007874
+144
+100.0
+145
+0.0
+146
+0.5
+147
+0.010000000000000002
+148
+0.0
+ 69
+0
+ 70
+0
+ 71
+0
+ 72
+0
+ 73
+0
+ 74
+0
+ 75
+0
+ 76
+0
+ 77
+1
+ 78
+12
+ 79
+3
+170
+0
+171
+3
+172
+1
+173
+0
+174
+0
+175
+0
+176
+0
+177
+0
+178
+0
+179
+2
+271
+2
+272
+2
+273
+2
+274
+3
+275
+0
+276
+0
+277
+2
+278
+46
+279
+2
+280
+0
+281
+0
+282
+0
+283
+0
+284
+8
+285
+0
+286
+0
+288
+1
+289
+3
+290
+0
+340
+4C
+371
+-2
+372
+-2
+  0
+DIMSTYLE
+105
+81
+330
+4
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+EZ_M_5_H25_CM
+ 70
+0
+ 40
+1.0
+ 41
+0.0125
+ 42
+0.00625
+ 43
+3.75
+ 44
+0.018750000000000003
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+2.5
+140
+0.0125
+141
+2.5
+142
+0.00625
+143
+0.03937007874
+144
+100.0
+145
+0.0
+146
+0.5
+147
+0.005000000000000001
+148
+0.0
+ 69
+0
+ 70
+0
+ 71
+0
+ 72
+0
+ 73
+0
+ 74
+0
+ 75
+0
+ 76
+0
+ 77
+1
+ 78
+12
+ 79
+3
+170
+0
+171
+3
+172
+1
+173
+0
+174
+0
+175
+0
+176
+0
+177
+0
+178
+0
+179
+2
+271
+2
+272
+2
+273
+2
+274
+3
+275
+0
+276
+0
+277
+2
+278
+46
+279
+2
+280
+0
+281
+0
+282
+0
+283
+0
+284
+8
+285
+0
+286
+0
+288
+1
+289
+3
+290
+0
+340
+4C
+371
+-2
+372
+-2
+  0
+DIMSTYLE
+105
+82
+330
+4
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+EZ_M_1_H25_CM
+ 70
+0
+ 40
+1.0
+ 41
+0.0025
+ 42
+0.00125
+ 43
+3.75
+ 44
+0.00375
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+2.5
+140
+0.0025
+141
+2.5
+142
+0.00125
+143
+0.03937007874
+144
+100.0
+145
+0.0
+146
+0.5
+147
+0.001
+148
+0.0
+ 69
+0
+ 70
+0
+ 71
+0
+ 72
+0
+ 73
+0
+ 74
+0
+ 75
+0
+ 76
+0
+ 77
+1
+ 78
+12
+ 79
+3
+170
+0
+171
+3
+172
+1
+173
+0
+174
+0
+175
+0
+176
+0
+177
+0
+178
+0
+179
+2
+271
+2
+272
+2
+273
+2
+274
+3
+275
+0
+276
+0
+277
+2
+278
+46
+279
+2
+280
+0
+281
+0
+282
+0
+283
+0
+284
+8
+285
+0
+286
+0
+288
+1
+289
+3
+290
+0
+340
+4C
+371
+-2
+372
+-2
+  0
+DIMSTYLE
+105
+83
+330
+4
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+EZ_RADIUS
+ 70
+0
+ 40
+1.0
+ 41
+0.25
+ 42
+0.125
+ 43
+3.75
+ 44
+0.375
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+2.5
+140
+0.25
+141
+0.0
+142
+0.0
+143
+0.03937007874
+144
+100.0
+145
+0.0
+146
+0.5
+147
+0.1
+148
+0.0
+ 69
+0
+ 70
+0
+ 71
+0
+ 72
+0
+ 73
+0
+ 74
+0
+ 75
+0
+ 76
+0
+ 77
+1
+ 78
+12
+ 79
+3
+170
+0
+171
+3
+172
+0
+173
+0
+174
+0
+175
+0
+176
+0
+177
+0
+178
+0
+179
+2
+271
+2
+272
+2
+273
+2
+274
+3
+275
+0
+276
+0
+277
+2
+278
+46
+279
+1
+280
+0
+281
+0
+282
+0
+283
+0
+284
+8
+285
+0
+286
+0
+288
+1
+289
+3
+290
+0
+340
+4C
+342
+84
+371
+-2
+372
+-2
+  0
+DIMSTYLE
+105
+88
+330
+4
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+EZ_RADIUS_INSIDE
+ 70
+0
+ 40
+1.0
+ 41
+0.25
+ 42
+0.125
+ 43
+3.75
+ 44
+0.375
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+2.5
+140
+0.25
+141
+0.0
+142
+0.0
+143
+0.03937007874
+144
+100.0
+145
+0.0
+146
+0.5
+147
+0.1
+148
+0.0
+ 69
+0
+ 70
+0
+ 71
+0
+ 72
+0
+ 73
+0
+ 74
+0
+ 75
+0
+ 76
+0
+ 77
+0
+ 78
+12
+ 79
+3
+170
+0
+171
+3
+172
+0
+173
+0
+174
+1
+175
+0
+176
+0
+177
+0
+178
+0
+179
+2
+271
+2
+272
+2
+273
+2
+274
+3
+275
+0
+276
+0
+277
+2
+278
+46
+279
+0
+280
+0
+281
+0
+282
+0
+283
+0
+284
+8
+285
+0
+286
+0
+288
+1
+289
+0
+290
+0
+340
+4C
+342
+84
+371
+-2
+372
+-2
+  0
+DIMSTYLE
+105
+89
+330
+4
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+EZ_CURVED
+ 70
+0
+ 40
+1.0
+ 41
+0.25
+ 42
+0.125
+ 43
+3.75
+ 44
+0.375
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+2.5
+140
+0.25
+141
+2.5
+142
+0.0
+143
+0.03937007874
+144
+100.0
+145
+0.0
+146
+0.5
+147
+0.1
+148
+0.0
+ 69
+0
+ 70
+0
+ 71
+0
+ 72
+0
+ 73
+0
+ 74
+0
+ 75
+0
+ 76
+0
+ 77
+1
+ 78
+12
+ 79
+2
+ 90
+2
+170
+0
+171
+3
+172
+1
+173
+0
+174
+0
+175
+0
+176
+0
+177
+0
+178
+0
+179
+2
+271
+2
+272
+2
+273
+2
+274
+3
+275
+0
+276
+0
+277
+2
+278
+46
+279
+2
+280
+0
+281
+0
+282
+0
+283
+0
+284
+8
+285
+0
+286
+0
+288
+1
+289
+3
+290
+0
+340
+4C
+371
+-2
+372
+-2
+  0
+ENDTAB
+  0
+TABLE
+  2
+BLOCK_RECORD
+  5
+9
+330
+0
+100
+AcDbSymbolTable
+ 70
+5
+  0
+BLOCK_RECORD
+  5
+17
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Model_Space
+340
+1A
+ 70
+0
+280
+1
+281
+0
+  0
+BLOCK_RECORD
+  5
+1B
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Paper_Space
+340
+1E
+ 70
+0
+280
+1
+281
+0
+  0
+BLOCK_RECORD
+  5
+74
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+_ARCHTICK
+340
+0
+ 70
+0
+280
+1
+281
+0
+  0
+BLOCK_RECORD
+  5
+78
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+_CLOSEDFILLED
+340
+0
+ 70
+0
+280
+1
+281
+0
+  0
+BLOCK_RECORD
+  5
+84
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+_CLOSEDBLANK
+340
+0
+ 70
+0
+280
+1
+281
+0
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+BLOCK
+  5
+18
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Model_Space
+ 70
+0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Model_Space
+  1
+
+  0
+ENDBLK
+  5
+19
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+1C
+330
+1B
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Paper_Space
+ 70
+0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Paper_Space
+  1
+
+  0
+ENDBLK
+  5
+1D
+330
+1B
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+75
+330
+74
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+_ARCHTICK
+ 70
+0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+_ARCHTICK
+  1
+
+  0
+LWPOLYLINE
+  5
+77
+330
+74
+100
+AcDbEntity
+  8
+0
+  6
+BYBLOCK
+ 62
+0
+100
+AcDbPolyline
+ 90
+2
+ 70
+0
+ 43
+0.15
+ 10
+-0.5
+ 20
+-0.5
+ 10
+0.5
+ 20
+0.5
+  0
+ENDBLK
+  5
+76
+330
+74
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+79
+330
+78
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+_CLOSEDFILLED
+ 70
+0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+_CLOSEDFILLED
+  1
+
+  0
+SOLID
+  5
+7B
+330
+78
+100
+AcDbEntity
+  8
+0
+  6
+BYBLOCK
+ 62
+0
+100
+AcDbTrace
+ 10
+-1.0
+ 20
+0.16439898372402537
+ 30
+0.0
+ 11
+0.0
+ 21
+0.0
+ 31
+0.0
+ 12
+-1.0
+ 22
+-0.16439898372402537
+ 32
+0.0
+ 13
+-1.0
+ 23
+-0.16439898372402537
+ 33
+0.0
+  0
+ENDBLK
+  5
+7A
+330
+78
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+85
+330
+84
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+_CLOSEDBLANK
+ 70
+0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+_CLOSEDBLANK
+  1
+
+  0
+LWPOLYLINE
+  5
+87
+330
+84
+100
+AcDbEntity
+  8
+0
+  6
+BYBLOCK
+ 62
+0
+100
+AcDbPolyline
+ 90
+3
+ 70
+1
+ 10
+-1.0
+ 20
+0.16439898372402537
+ 10
+0.0
+ 20
+0.0
+ 10
+-1.0
+ 20
+-0.16439898372402537
+  0
+ENDBLK
+  5
+86
+330
+84
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+LWPOLYLINE
+  5
+8B
+330
+17
+100
+AcDbEntity
+  8
+ENGRAVE_DARK
+100
+AcDbPolyline
+ 90
+8
+ 70
+1
+ 10
+215.32942695825605
+ 20
+108.68355472242328
+ 10
+215.55727070825606
+ 20
+108.62389847242328
+ 10
+215.35943477075605
+ 20
+108.20774222242329
+ 10
+215.09727070825605
+ 20
+107.89257034742329
+ 10
+215.00185664575605
+ 20
+107.96264847242328
+ 10
+214.89494258325604
+ 20
+108.02374222242328
+ 10
+215.15584883325604
+ 20
+108.30764847242328
+ 10
+215.32942695825605
+ 20
+108.68355472242328
+  0
+LWPOLYLINE
+  5
+8C
+330
+17
+100
+AcDbEntity
+  8
+ENGRAVE_DARK
+100
+AcDbPolyline
+ 90
+18
+ 70
+1
+ 10
+215.81476289575605
+ 20
+107.68539065992329
+ 10
+215.54109883325603
+ 20
+107.68305472242328
+ 10
+215.51234883325606
+ 20
+107.79931253492329
+ 10
+215.46275508325604
+ 20
+107.91305472242328
+ 10
+215.68610664575604
+ 20
+107.90748440992328
+ 10
+215.80775508325604
+ 20
+107.90874222242329
+ 10
+215.85842695825605
+ 20
+107.91557034742328
+ 10
+215.86525508325605
+ 20
+107.95474222242329
+ 10
+215.86525508325605
+ 20
+108.88372659742329
+ 10
+214.95927070825604
+ 20
+108.88372659742329
+ 10
+214.95927070825604
+ 20
+109.10007034742328
+ 10
+216.99944258325604
+ 20
+109.10007034742328
+ 10
+216.99944258325604
+ 20
+108.88372659742329
+ 10
+216.10244258325605
+ 20
+108.88372659742329
+ 10
+216.10244258325605
+ 20
+107.95007034742328
+ 10
+216.08734883325604
+ 20
+107.78889065992328
+ 10
+215.97809883325604
+ 20
+107.72222659742329
+ 10
+215.81476289575605
+ 20
+107.68539065992329
+  0
+LWPOLYLINE
+  5
+8D
+330
+17
+100
+AcDbEntity
+  8
+ENGRAVE_DARK
+100
+AcDbPolyline
+ 90
+55
+ 70
+1
+ 10
+213.42509883325604
+ 20
+108.76189847242328
+ 10
+212.66394258325604
+ 20
+108.76189847242328
+ 10
+212.66394258325604
+ 20
+108.94805472242328
+ 10
+213.56309883325605
+ 20
+108.94805472242328
+ 10
+213.56309883325605
+ 20
+109.12307034742328
+ 10
+212.85477070825604
+ 20
+109.12307034742328
+ 10
+212.85477070825604
+ 20
+109.29772659742329
+ 10
+213.56309883325605
+ 20
+109.29772659742329
+ 10
+213.56309883325605
+ 20
+109.45657034742328
+ 10
+212.74875508325604
+ 20
+109.45657034742328
+ 10
+212.74875508325604
+ 20
+109.64272659742329
+ 10
+213.56309883325605
+ 20
+109.64272659742329
+ 10
+213.56309883325605
+ 20
+109.81774222242329
+ 10
+213.78159883325606
+ 20
+109.81774222242329
+ 10
+213.78159883325606
+ 20
+109.64272659742329
+ 10
+214.61175508325604
+ 20
+109.64272659742329
+ 10
+214.61175508325604
+ 20
+109.45657034742328
+ 10
+213.78159883325606
+ 20
+109.45657034742328
+ 10
+213.78159883325606
+ 20
+109.29772659742329
+ 10
+214.52227070825603
+ 20
+109.29772659742329
+ 10
+214.52227070825603
+ 20
+109.12307034742328
+ 10
+213.78159883325606
+ 20
+109.12307034742328
+ 10
+213.78159883325606
+ 20
+108.94805472242328
+ 10
+214.69009883325603
+ 20
+108.94805472242328
+ 10
+214.69009883325603
+ 20
+108.76189847242328
+ 10
+213.90127070825605
+ 20
+108.76189847242328
+ 10
+213.97242695825605
+ 20
+108.56765628492329
+ 10
+214.06909883325605
+ 20
+108.39605472242329
+ 10
+214.29227070825604
+ 20
+108.54789065992328
+ 10
+214.47627070825604
+ 20
+108.70439847242328
+ 10
+214.65344258325604
+ 20
+108.56855472242329
+ 10
+214.41751289575603
+ 20
+108.39857034742329
+ 10
+214.17475508325603
+ 20
+108.25589847242328
+ 10
+214.42092695825605
+ 20
+108.01907034742328
+ 10
+214.76592695825605
+ 20
+107.88322659742329
+ 10
+214.68560664575605
+ 20
+107.79356253492328
+ 10
+214.62325508325605
+ 20
+107.69024222242328
+ 10
+213.99560664575606
+ 20
+108.03865628492329
+ 10
+213.69642695825604
+ 20
+108.73889847242329
+ 10
+213.54818477075605
+ 20
+108.60539065992329
+ 10
+213.36975508325605
+ 20
+108.48374222242329
+ 10
+213.36975508325605
+ 20
+108.00289847242328
+ 10
+213.91492695825605
+ 20
+108.12939847242329
+ 10
+213.93577070825603
+ 20
+107.93389847242328
+ 10
+213.37694258325604
+ 20
+107.79589847242329
+ 10
+212.90077070825603
+ 20
+107.68557034742328
+ 10
+212.83177070825604
+ 20
+107.88574222242329
+ 10
+213.15377070825605
+ 20
+107.95474222242329
+ 10
+213.15377070825605
+ 20
+108.35939847242328
+ 10
+212.93742695825605
+ 20
+108.25248440992328
+ 10
+212.72359883325603
+ 20
+108.17539847242328
+ 10
+212.65909102075605
+ 20
+108.26847659742329
+ 10
+212.58092695825604
+ 20
+108.35472659742328
+ 10
+213.03643477075605
+ 20
+108.51015628492328
+ 10
+213.42509883325604
+ 20
+108.76189847242328
+  0
+LWPOLYLINE
+  5
+8E
+330
+17
+100
+AcDbEntity
+  8
+ENGRAVE_DARK
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+215.16627070825604
+ 20
+109.44255472242328
+ 10
+215.16627070825604
+ 20
+109.65674222242329
+ 10
+216.78992695825605
+ 20
+109.65674222242329
+ 10
+216.78992695825605
+ 20
+109.44255472242328
+ 10
+215.16627070825604
+ 20
+109.44255472242328
+  0
+LWPOLYLINE
+  5
+8F
+330
+17
+100
+AcDbEntity
+  8
+ENGRAVE_DARK
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+190.99018477075603
+ 20
+154.25039847242329
+ 10
+187.99018477075603
+ 20
+151.75039847242329
+ 10
+190.99018477075603
+ 20
+162.75039847242329
+ 10
+193.99018477075603
+ 20
+151.75039847242329
+ 10
+190.99018477075603
+ 20
+154.25039847242329
+  0
+LWPOLYLINE
+  5
+90
+330
+17
+100
+AcDbEntity
+  8
+ENGRAVE_DARK
+100
+AcDbPolyline
+ 90
+19
+ 70
+1
+ 10
+191.46718477075603
+ 20
+166.56314847242328
+ 10
+191.44793477075604
+ 20
+166.98889847242327
+ 10
+191.44793477075604
+ 20
+167.93589847242328
+ 10
+191.89593477075604
+ 20
+167.93589847242328
+ 10
+191.89593477075604
+ 20
+165.5648984724233
+ 10
+191.41243477075602
+ 20
+165.5648984724233
+ 10
+190.73093477075602
+ 20
+166.8318984724233
+ 10
+190.49093477075604
+ 20
+167.34089847242328
+ 10
+190.47493477075602
+ 20
+167.34089847242328
+ 10
+190.51518477075604
+ 20
+166.9361484724233
+ 10
+190.53593477075603
+ 20
+166.51539847242327
+ 10
+190.53593477075603
+ 20
+165.5648984724233
+ 10
+190.08443477075602
+ 20
+165.5648984724233
+ 10
+190.08443477075602
+ 20
+167.93589847242328
+ 10
+190.56793477075604
+ 20
+167.93589847242328
+ 10
+191.25593477075603
+ 20
+166.6718984724233
+ 10
+191.49593477075604
+ 20
+166.1598984724233
+ 10
+191.51193477075603
+ 20
+166.1598984724233
+ 10
+191.46718477075603
+ 20
+166.56314847242328
+  0
+LWPOLYLINE
+  5
+91
+330
+17
+100
+AcDbEntity
+  8
+ENGRAVE_DARK
+100
+AcDbPolyline
+ 90
+16
+ 70
+1
+ 10
+237.76634883325605
+ 20
+108.09471878492329
+ 10
+237.75484883325603
+ 20
+107.86471878492328
+ 10
+237.51676289575605
+ 20
+107.82572659742328
+ 10
+237.15002070825605
+ 20
+107.81404690992329
+ 10
+236.83251289575605
+ 20
+107.83659769117328
+ 10
+236.44964375513104
+ 20
+108.08335355054828
+ 10
+236.41402070825603
+ 20
+108.30423440992328
+ 10
+236.43576289575603
+ 20
+108.49955472242328
+ 10
+236.52902070825604
+ 20
+108.70673440992329
+ 10
+236.75650508325603
+ 20
+108.65606253492328
+ 10
+236.66576289575605
+ 20
+108.49506253492328
+ 10
+236.64617695825604
+ 20
+108.33873440992329
+ 10
+236.73943477075605
+ 20
+108.08681253492328
+ 10
+237.16367695825605
+ 20
+108.03973440992328
+ 10
+237.50526289575603
+ 20
+108.04997659742328
+ 10
+237.76634883325605
+ 20
+108.09471878492329
+  0
+LWPOLYLINE
+  5
+92
+330
+17
+100
+AcDbEntity
+  8
+ENGRAVE_DARK
+100
+AcDbPolyline
+ 90
+7
+ 70
+1
+ 10
+216.83952070825603
+ 20
+108.32849222242328
+ 10
+216.99225508325605
+ 20
+107.98672659742329
+ 10
+216.77159883325604
+ 20
+107.89005472242329
+ 10
+216.63018477075605
+ 20
+108.23074222242329
+ 10
+216.38742695825604
+ 20
+108.60089847242328
+ 10
+216.58975508325605
+ 20
+108.68607034742328
+ 10
+216.83952070825603
+ 20
+108.32849222242328
+  0
+LWPOLYLINE
+  5
+93
+330
+17
+100
+AcDbEntity
+  8
+ENGRAVE_DARK
+100
+AcDbPolyline
+ 90
+22
+ 70
+1
+ 10
+233.28350508325605
+ 20
+107.94521878492328
+ 10
+233.33202070825604
+ 20
+107.95456253492328
+ 10
+233.33884883325604
+ 20
+108.00056253492329
+ 10
+233.33884883325604
+ 20
+108.46523440992328
+ 10
+232.71784883325606
+ 20
+108.46523440992328
+ 10
+232.60410664575605
+ 20
+108.05123440992328
+ 10
+232.28084883325604
+ 20
+107.71773440992328
+ 10
+232.20717695825604
+ 20
+107.79805472242329
+ 10
+232.11984883325604
+ 20
+107.86471878492328
+ 10
+232.52809883325605
+ 20
+108.37431253492329
+ 10
+232.54750508325606
+ 20
+108.94823440992329
+ 10
+232.54750508325606
+ 20
+109.77156253492329
+ 10
+233.55519258325603
+ 20
+109.77156253492329
+ 10
+233.55519258325603
+ 20
+107.99804690992329
+ 10
+233.54135664575605
+ 20
+107.84405472242328
+ 10
+233.44702070825605
+ 20
+107.77739065992328
+ 10
+233.29967695825604
+ 20
+107.73947659742329
+ 10
+233.03984883325603
+ 20
+107.73606253492329
+ 10
+233.01217695825605
+ 20
+107.84405472242328
+ 10
+232.96150508325604
+ 20
+107.94773440992329
+ 10
+233.17084102075603
+ 20
+107.94414065992329
+ 10
+233.28350508325605
+ 20
+107.94521878492328
+  0
+LWPOLYLINE
+  5
+94
+330
+17
+100
+AcDbEntity
+  8
+ENGRAVE_DARK
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+232.75917695825603
+ 20
+109.21956253492328
+ 10
+233.33884883325604
+ 20
+109.21956253492328
+ 10
+233.33884883325604
+ 20
+109.57139065992328
+ 10
+232.75917695825603
+ 20
+109.57139065992328
+ 10
+232.75917695825603
+ 20
+109.21956253492328
+  0
+LWPOLYLINE
+  5
+95
+330
+17
+100
+AcDbEntity
+  8
+ENGRAVE_DARK
+100
+AcDbPolyline
+ 90
+7
+ 70
+1
+ 10
+232.75809883325604
+ 20
+108.80897659742328
+ 10
+232.74767695825605
+ 20
+108.66289065992329
+ 10
+233.33884883325604
+ 20
+108.66289065992329
+ 10
+233.33884883325604
+ 20
+109.02154690992329
+ 10
+232.75917695825603
+ 20
+109.02154690992329
+ 10
+232.75917695825603
+ 20
+108.94571878492329
+ 10
+232.75809883325604
+ 20
+108.80897659742328
+  0
+LWPOLYLINE
+  5
+96
+330
+17
+100
+AcDbEntity
+  8
+ENGRAVE_DARK
+100
+AcDbPolyline
+ 90
+41
+ 70
+1
+ 10
+235.46167695825605
+ 20
+109.51856253492329
+ 10
+235.38926289575605
+ 20
+109.47256253492328
+ 10
+235.31684883325605
+ 20
+109.41973440992328
+ 10
+235.05809883325605
+ 20
+109.21255472242329
+ 10
+234.75334883325604
+ 20
+108.95973440992329
+ 10
+234.89134883325605
+ 20
+108.99279690992329
+ 10
+235.02934883325605
+ 20
+108.99854690992329
+ 10
+235.55601289575606
+ 20
+108.88013284742328
+ 10
+235.69850508325604
+ 20
+108.43971878492329
+ 10
+235.66202852075605
+ 20
+108.17849808179828
+ 10
+235.24910664575603
+ 20
+107.84468362867328
+ 10
+234.88919258325603
+ 20
+107.81189065992328
+ 10
+234.46584883325605
+ 20
+107.88196878492329
+ 10
+234.36019258325604
+ 20
+108.16156253492329
+ 10
+234.43602070825605
+ 20
+108.40863284742329
+ 10
+234.73969258325604
+ 20
+108.48571878492328
+ 10
+235.10643477075604
+ 20
+108.39371878492328
+ 10
+235.21802070825603
+ 20
+108.08321878492329
+ 10
+235.41909102075604
+ 20
+108.21439065992328
+ 10
+235.46167695825605
+ 20
+108.44439065992329
+ 10
+235.35584102075603
+ 20
+108.73889847242329
+ 10
+234.96250508325605
+ 20
+108.81706253492328
+ 10
+234.48651289575605
+ 20
+108.73081253492329
+ 10
+234.10719258325605
+ 20
+108.35454690992329
+ 10
+233.93900508325603
+ 20
+108.52489065992329
+ 10
+234.26244258325605
+ 20
+108.79298440992328
+ 10
+234.54167695825603
+ 20
+109.02621878492329
+ 10
+234.80402070825605
+ 20
+109.24256253492328
+ 10
+235.05234883325605
+ 20
+109.45423440992329
+ 10
+234.73160664575605
+ 20
+109.44039847242328
+ 10
+234.41302070825606
+ 20
+109.42404690992329
+ 10
+234.32551289575605
+ 20
+109.41955472242329
+ 10
+234.24267695825606
+ 20
+109.41039065992328
+ 10
+234.23584883325603
+ 20
+109.64721878492328
+ 10
+234.32892695825603
+ 20
+109.63931253492329
+ 10
+234.41984883325605
+ 20
+109.63823440992329
+ 10
+234.80168477075605
+ 20
+109.64506253492328
+ 10
+235.18819258325604
+ 20
+109.66339065992328
+ 10
+235.28935664575604
+ 20
+109.67255472242329
+ 10
+235.33517695825603
+ 20
+109.68423440992329
+ 10
+235.46167695825605
+ 20
+109.51856253492329
+  0
+LWPOLYLINE
+  5
+97
+330
+17
+100
+AcDbEntity
+  8
+ENGRAVE_DARK
+100
+AcDbPolyline
+ 90
+9
+ 70
+1
+ 10
+234.93267695825605
+ 20
+108.01996878492328
+ 10
+235.01102070825604
+ 20
+108.02823440992329
+ 10
+234.94202070825605
+ 20
+108.25464065992328
+ 10
+234.73969258325604
+ 20
+108.31321878492328
+ 10
+234.60726289575604
+ 20
+108.28213284742328
+ 10
+234.57150508325603
+ 20
+108.18204690992329
+ 10
+234.62792695825604
+ 20
+108.04997659742328
+ 10
+234.84750508325604
+ 20
+108.01889065992329
+ 10
+234.93267695825605
+ 20
+108.01996878492328
+  0
+LWPOLYLINE
+  5
+98
+330
+17
+100
+AcDbEntity
+  8
+ENGRAVE_DARK
+100
+AcDbPolyline
+ 90
+7
+ 70
+1
+ 10
+231.57934883325603
+ 20
+108.13604690992328
+ 10
+231.57934883325603
+ 20
+109.73454690992328
+ 10
+232.35667695825603
+ 20
+109.73454690992328
+ 10
+232.35667695825603
+ 20
+108.34304690992329
+ 10
+231.78167695825604
+ 20
+108.34304690992329
+ 10
+231.78167695825604
+ 20
+108.13604690992328
+ 10
+231.57934883325603
+ 20
+108.13604690992328
+  0
+LWPOLYLINE
+  5
+99
+330
+17
+100
+AcDbEntity
+  8
+ENGRAVE_DARK
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+232.15434883325605
+ 20
+108.54321878492328
+ 10
+232.15434883325605
+ 20
+108.95039065992329
+ 10
+231.78167695825604
+ 20
+108.95039065992329
+ 10
+231.78167695825604
+ 20
+108.54321878492328
+ 10
+232.15434883325605
+ 20
+108.54321878492328
+  0
+LWPOLYLINE
+  5
+9A
+330
+17
+100
+AcDbEntity
+  8
+ENGRAVE_DARK
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+231.78167695825604
+ 20
+109.14589065992328
+ 10
+232.15434883325605
+ 20
+109.14589065992328
+ 10
+232.15434883325605
+ 20
+109.53473440992329
+ 10
+231.78167695825604
+ 20
+109.53473440992329
+ 10
+231.78167695825604
+ 20
+109.14589065992328
+  0
+LWPOLYLINE
+  5
+9B
+330
+17
+100
+AcDbEntity
+  8
+ENGRAVE_DARK
+100
+AcDbPolyline
+ 90
+29
+ 70
+1
+ 10
+237.41559883325604
+ 20
+109.59654690992329
+ 10
+237.47669258325604
+ 20
+109.40356253492328
+ 10
+237.73310664575604
+ 20
+109.44489065992329
+ 10
+237.97334883325604
+ 20
+109.51389065992329
+ 10
+238.00102070825605
+ 20
+109.28389065992329
+ 10
+237.78701289575605
+ 20
+109.23214065992329
+ 10
+237.55252070825605
+ 20
+109.19404690992329
+ 10
+237.66967695825605
+ 20
+108.95039065992329
+ 10
+237.78934883325604
+ 20
+108.76639065992329
+ 10
+237.84217695825603
+ 20
+108.69397659742329
+ 10
+237.89967695825604
+ 20
+108.63054690992328
+ 10
+237.78467695825603
+ 20
+108.46523440992328
+ 10
+237.52359102075604
+ 20
+108.50638284742328
+ 10
+237.20500508325605
+ 20
+108.53423440992329
+ 10
+237.22117695825605
+ 20
+108.72506253492328
+ 10
+237.42476289575603
+ 20
+108.70889065992328
+ 10
+237.58450508325603
+ 20
+108.69271878492329
+ 10
+237.45584883325606
+ 20
+108.90564847242328
+ 10
+237.33402070825605
+ 20
+109.17104690992329
+ 10
+236.89809883325603
+ 20
+109.14804690992328
+ 10
+236.35867695825604
+ 20
+109.17823440992329
+ 10
+236.35400508325606
+ 20
+109.41039065992328
+ 10
+236.85102070825604
+ 20
+109.36564847242329
+ 10
+237.25352070825605
+ 20
+109.38056253492329
+ 10
+237.19350508325604
+ 20
+109.55773440992328
+ 10
+237.16619258325605
+ 20
+109.64614065992329
+ 10
+237.12917695825604
+ 20
+109.75323440992328
+ 10
+237.37750508325604
+ 20
+109.78306253492329
+ 10
+237.41559883325604
+ 20
+109.59654690992329
+  0
+LWPOLYLINE
+  5
+9D
+330
+17
+100
+AcDbEntity
+  8
+ENGRAVE_LIGHT
+100
+AcDbPolyline
+ 90
+69
+ 70
+1
+ 10
+203.9754821997066
+ 20
+127.60112076342246
+ 10
+203.9609212224536
+ 20
+127.6032806803628
+ 10
+203.94664206916786
+ 20
+127.60685742206346
+ 10
+203.93278225590126
+ 20
+127.61181654254659
+ 10
+203.91947526023213
+ 20
+127.61811028277103
+ 10
+203.9068492358031
+ 20
+127.6256780305779
+ 10
+203.8950257781315
+ 20
+127.63444690441888
+ 10
+203.88411875357804
+ 20
+127.6443324552453
+ 10
+203.8742332027516
+ 20
+127.65523947979874
+ 10
+203.86546432891066
+ 20
+127.66706293747035
+ 10
+203.85789658110377
+ 20
+127.67968896189939
+ 10
+203.85160284087934
+ 20
+127.69299595756853
+ 10
+203.8466437203962
+ 20
+127.70685577083512
+ 10
+203.84306697869553
+ 20
+127.72113492412086
+ 10
+203.8409070617552
+ 20
+127.73569590137384
+ 10
+203.84018477075603
+ 20
+127.75039847242329
+ 10
+203.84018477075603
+ 20
+211.25039847242329
+ 10
+203.8409070617552
+ 20
+211.26510104347273
+ 10
+203.84306697869553
+ 20
+211.2796620207257
+ 10
+203.8466437203962
+ 20
+211.29394117401145
+ 10
+203.85160284087934
+ 20
+211.30780098727806
+ 10
+203.85789658110377
+ 20
+211.32110798294718
+ 10
+203.86546432891066
+ 20
+211.33373400737622
+ 10
+203.8742332027516
+ 20
+211.34555746504782
+ 10
+203.88411875357804
+ 20
+211.35646448960128
+ 10
+203.8950257781315
+ 20
+211.3663500404277
+ 10
+203.9068492358031
+ 20
+211.37511891426865
+ 10
+203.91947526023213
+ 20
+211.38268666207554
+ 10
+203.93278225590126
+ 20
+211.38898040229998
+ 10
+203.94664206916786
+ 20
+211.3939395227831
+ 10
+203.9609212224536
+ 20
+211.39751626448378
+ 10
+203.9754821997066
+ 20
+211.39967618142413
+ 10
+203.99018477075603
+ 20
+211.4003984724233
+ 10
+245.59018477075603
+ 20
+211.4003984724233
+ 10
+245.60488734180547
+ 20
+211.39967618142413
+ 10
+245.61944831905845
+ 20
+211.39751626448378
+ 10
+245.6337274723442
+ 20
+211.3939395227831
+ 10
+245.6475872856108
+ 20
+211.38898040229998
+ 10
+245.66089428127992
+ 20
+211.38268666207554
+ 10
+245.67352030570896
+ 20
+211.37511891426865
+ 10
+245.68534376338056
+ 20
+211.3663500404277
+ 10
+245.69625078793402
+ 20
+211.35646448960128
+ 10
+245.70613633876044
+ 20
+211.34555746504782
+ 10
+245.7149052126014
+ 20
+211.33373400737622
+ 10
+245.72247296040828
+ 20
+211.32110798294718
+ 10
+245.72876670063272
+ 20
+211.30780098727806
+ 10
+245.73372582111585
+ 20
+211.29394117401145
+ 10
+245.73730256281652
+ 20
+211.2796620207257
+ 10
+245.73946247975687
+ 20
+211.26510104347273
+ 10
+245.74018477075603
+ 20
+211.25039847242329
+ 10
+245.74018477075603
+ 20
+127.75039847242329
+ 10
+245.73946247975687
+ 20
+127.73569590137384
+ 10
+245.73730256281652
+ 20
+127.72113492412086
+ 10
+245.73372582111585
+ 20
+127.70685577083512
+ 10
+245.72876670063272
+ 20
+127.69299595756853
+ 10
+245.72247296040828
+ 20
+127.67968896189939
+ 10
+245.7149052126014
+ 20
+127.66706293747035
+ 10
+245.70613633876044
+ 20
+127.65523947979874
+ 10
+245.69625078793402
+ 20
+127.6443324552453
+ 10
+245.68534376338056
+ 20
+127.63444690441888
+ 10
+245.67352030570896
+ 20
+127.6256780305779
+ 10
+245.66089428127992
+ 20
+127.61811028277103
+ 10
+245.6475872856108
+ 20
+127.61181654254659
+ 10
+245.6337274723442
+ 20
+127.60685742206346
+ 10
+245.61944831905845
+ 20
+127.6032806803628
+ 10
+245.60488734180547
+ 20
+127.60112076342246
+ 10
+245.59018477075603
+ 20
+127.60039847242328
+ 10
+203.99018477075603
+ 20
+127.60039847242328
+ 10
+203.9754821997066
+ 20
+127.60112076342246
+  0
+LWPOLYLINE
+  5
+9E
+330
+17
+100
+AcDbEntity
+  8
+ENGRAVE_LIGHT
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+204.14018477075604
+ 20
+211.10039847242328
+ 10
+204.14018477075604
+ 20
+127.90039847242329
+ 10
+245.44018477075602
+ 20
+127.90039847242329
+ 10
+245.44018477075602
+ 20
+211.10039847242328
+ 10
+204.14018477075604
+ 20
+211.10039847242328
+  0
+LWPOLYLINE
+  5
+9F
+330
+17
+100
+AcDbEntity
+  8
+ENGRAVE_LIGHT
+100
+AcDbPolyline
+ 90
+121
+ 70
+1
+ 10
+151.91458227307623
+ 20
+180.28083738721517
+ 10
+151.9095721412137
+ 20
+180.29292960099835
+ 10
+151.90563524910453
+ 20
+180.3054125468037
+ 10
+151.86049813204502
+ 20
+180.47382304023262
+ 10
+151.85766445659524
+ 20
+180.4866016684416
+ 10
+151.85595557442429
+ 20
+180.49957867800404
+ 10
+151.84075584760757
+ 20
+180.67326927054754
+ 10
+151.84018477075603
+ 20
+180.68634584986663
+ 10
+151.84018477075603
+ 20
+210.1089747476539
+ 10
+151.84036545232524
+ 20
+210.11633489880302
+ 10
+151.84518072565305
+ 20
+210.21435203913256
+ 10
+151.845722335083
+ 20
+210.22169445903288
+ 10
+151.87929001504298
+ 20
+210.5625128331834
+ 10
+151.88144993198333
+ 20
+210.5770738104364
+ 10
+151.9196943229233
+ 20
+210.76934134736126
+ 10
+151.92327106462398
+ 20
+210.783620500647
+ 10
+152.0083543438821
+ 20
+211.0641024833288
+ 10
+152.01331346436524
+ 20
+211.0779622965954
+ 10
+152.08833253574912
+ 20
+211.25907435616702
+ 10
+152.09462627597355
+ 20
+211.27238135183617
+ 10
+152.23279402419948
+ 20
+211.5308750275201
+ 10
+152.24036177200637
+ 20
+211.54350105194914
+ 10
+152.34927258299194
+ 20
+211.7064975992867
+ 10
+152.3580414568329
+ 20
+211.7183210569583
+ 10
+152.54398396494759
+ 20
+211.94489265865275
+ 10
+152.553869515774
+ 20
+211.9557996832062
+ 10
+152.69248668497318
+ 20
+212.09441685240537
+ 10
+152.70339370952664
+ 20
+212.1043024032318
+ 10
+152.92996531122105
+ 20
+212.29024491134646
+ 10
+152.94178876889265
+ 20
+212.2990137851874
+ 10
+153.1047853162302
+ 20
+212.40792459617296
+ 10
+153.11741134065923
+ 20
+212.41549234397985
+ 10
+153.37590501634315
+ 20
+212.55366009220577
+ 10
+153.3892120120123
+ 20
+212.5599538324302
+ 10
+153.57032407158394
+ 20
+212.6349729038141
+ 10
+153.58418388485052
+ 20
+212.63993202429722
+ 10
+153.86466586753232
+ 20
+212.72501530355535
+ 10
+153.87894502081807
+ 20
+212.72859204525602
+ 10
+154.07121255774294
+ 20
+212.766836436196
+ 10
+154.08577353499592
+ 20
+212.76899635313634
+ 10
+154.42659190914645
+ 20
+212.80256403309633
+ 10
+154.43393432904676
+ 20
+212.80310564252628
+ 10
+154.5319514693763
+ 20
+212.80792091585408
+ 10
+154.53931162052544
+ 20
+212.8081015974233
+ 10
+200.81322979598662
+ 20
+212.8081015974233
+ 10
+200.82058994713574
+ 20
+212.80792091585408
+ 10
+200.9186070874653
+ 20
+212.80310564252628
+ 10
+200.9259495073656
+ 20
+212.80256403309633
+ 10
+201.26676788151613
+ 20
+212.76899635313634
+ 10
+201.28132885876911
+ 20
+212.766836436196
+ 10
+201.473596395694
+ 20
+212.72859204525602
+ 10
+201.48787554897973
+ 20
+212.72501530355535
+ 10
+201.76835753166154
+ 20
+212.63993202429722
+ 10
+201.7822173449281
+ 20
+212.6349729038141
+ 10
+201.96332940449975
+ 20
+212.5599538324302
+ 10
+201.9766364001689
+ 20
+212.55366009220577
+ 10
+202.23513007585282
+ 20
+212.41549234397985
+ 10
+202.24775610028186
+ 20
+212.40792459617296
+ 10
+202.41075264761946
+ 20
+212.29901378518736
+ 10
+202.42257610529106
+ 20
+212.2902449113464
+ 10
+202.51973704754423
+ 20
+212.2105069867423
+ 10
+202.53193767871227
+ 20
+212.19931185614922
+ 10
+202.68589082217522
+ 20
+212.04153299336713
+ 10
+202.69678316252663
+ 20
+212.02906129454288
+ 10
+202.70623447734843
+ 20
+212.01546500835755
+ 10
+202.82187734284528
+ 20
+211.8277885112072
+ 10
+202.829772457848
+ 20
+211.81323332281997
+ 10
+202.83601516268658
+ 20
+211.79789660262978
+ 10
+202.90772799960166
+ 20
+211.58944274935638
+ 10
+202.91224222030036
+ 20
+211.57351139155557
+ 10
+202.91497294629494
+ 20
+211.5571795366261
+ 10
+202.9392708162564
+ 20
+211.33807829646923
+ 10
+202.94018477075605
+ 20
+211.32154496537515
+ 10
+202.94018477075605
+ 20
+170.25081447947142
+ 10
+202.9392708162564
+ 20
+170.23428114837733
+ 10
+202.91497294629494
+ 20
+170.01517990822046
+ 10
+202.91224222030036
+ 20
+169.998848053291
+ 10
+202.90772799960166
+ 20
+169.9829166954902
+ 10
+202.83601516268658
+ 20
+169.7744628422168
+ 10
+202.829772457848
+ 20
+169.7591261220266
+ 10
+202.82187734284528
+ 20
+169.74457093363938
+ 10
+202.70623447734843
+ 20
+169.55689443648902
+ 10
+202.69678316252663
+ 20
+169.54329815030368
+ 10
+202.68589082217522
+ 20
+169.53082645147944
+ 10
+202.53193767871227
+ 20
+169.37304758869735
+ 10
+202.51973704754423
+ 20
+169.36185245810427
+ 10
+202.42257610529106
+ 20
+169.28211453350016
+ 10
+202.41075264761946
+ 20
+169.2733456596592
+ 10
+202.24775610028186
+ 20
+169.1644348486736
+ 10
+202.23513007585282
+ 20
+169.15686710086672
+ 10
+201.9766364001689
+ 20
+169.0186993526408
+ 10
+201.96332940449975
+ 20
+169.01240561241636
+ 10
+201.7822173449281
+ 20
+168.93738654103248
+ 10
+201.76835753166154
+ 20
+168.93242742054935
+ 10
+201.48787554897973
+ 20
+168.84734414129122
+ 10
+201.473596395694
+ 20
+168.84376739959055
+ 10
+201.28132885876911
+ 20
+168.80552300865057
+ 10
+201.26676788151613
+ 20
+168.80336309171022
+ 10
+200.9259495073656
+ 20
+168.76979541175024
+ 10
+200.9186070874653
+ 20
+168.7692538023203
+ 10
+200.82058994713574
+ 20
+168.76443852899249
+ 10
+200.81322979598662
+ 20
+168.76425784742327
+ 10
+159.21130860481682
+ 20
+168.76425784742327
+ 10
+159.19563126283188
+ 20
+168.76507936054165
+ 10
+158.98774484899704
+ 20
+168.7869263873606
+ 10
+158.97223922890677
+ 20
+168.78938192826507
+ 10
+158.95707517164868
+ 20
+168.79344460016804
+ 10
+158.75827215793052
+ 20
+168.8580310954633
+ 10
+158.74361576313086
+ 20
+168.86365639785464
+ 10
+158.7296275697309
+ 20
+168.87078271393815
+ 10
+158.54859446567423
+ 20
+168.97528663192
+ 10
+158.5354276934657
+ 20
+168.98383590353373
+ 10
+158.52322656479654
+ 20
+168.9937144861606
+ 10
+158.36787344056026
+ 20
+169.1335696270313
+ 10
+158.356771600594
+ 20
+169.14466931553505
+ 10
+158.34689065342616
+ 20
+169.15686852938612
+ 10
+158.22400551675346
+ 20
+169.325964055119
+ 10
+158.2154536934204
+ 20
+169.33912917012788
+ 10
+151.9943298593596
+ 20
+180.11121717257123
+ 10
+151.98828463668136
+ 20
+180.12282657988723
+ 10
+151.91458227307623
+ 20
+180.28083738721517
+  0
+LWPOLYLINE
+  5
+A0
+330
+17
+100
+AcDbEntity
+  8
+ENGRAVE_LIGHT
+100
+AcDbPolyline
+ 90
+55
+ 70
+1
+ 10
+158.58030810542283
+ 20
+169.3459843314146
+ 10
+158.7122299335764
+ 20
+169.22722298721223
+ 10
+158.86595853196042
+ 20
+169.13848098104324
+ 10
+159.0347768749519
+ 20
+169.08363581088486
+ 10
+159.2191687999875
+ 20
+169.06425784742328
+ 10
+200.80954750267014
+ 20
+169.06425784742328
+ 10
+200.90020892733423
+ 20
+169.06871175761265
+ 10
+201.23002919583323
+ 20
+169.10119621871274
+ 10
+201.40784186542035
+ 20
+169.1365653577704
+ 10
+201.67422040886848
+ 20
+169.21737040550954
+ 10
+201.84171628114032
+ 20
+169.28674946744604
+ 10
+202.08721215278584
+ 20
+169.41796974467053
+ 10
+202.23795445530376
+ 20
+169.5186925310438
+ 10
+202.3230093160247
+ 20
+169.58849525129435
+ 10
+202.45955430445497
+ 20
+169.72843336823382
+ 10
+202.55774439987562
+ 20
+169.8877858115016
+ 10
+202.61863436718428
+ 20
+170.0647799015027
+ 10
+202.64018477075604
+ 20
+170.25910640649846
+ 10
+202.64018477075604
+ 20
+211.3132530383481
+ 10
+202.61863436718428
+ 20
+211.50757954334387
+ 10
+202.55774439987562
+ 20
+211.68457363334497
+ 10
+202.45955430445497
+ 20
+211.84392607661275
+ 10
+202.3230093160247
+ 20
+211.98386419355222
+ 10
+202.23795445530376
+ 20
+212.05366691380277
+ 10
+202.08721215278584
+ 20
+212.15438970017604
+ 10
+201.84171628114032
+ 20
+212.28560997740053
+ 10
+201.67422040886848
+ 20
+212.35498903933703
+ 10
+201.40784186542035
+ 20
+212.43579408707618
+ 10
+201.23002919583323
+ 20
+212.47116322613383
+ 10
+200.90020892733423
+ 20
+212.50364768723392
+ 10
+200.80954750267014
+ 20
+212.5081015974233
+ 10
+154.5429939138419
+ 20
+212.5081015974233
+ 10
+154.45233248917782
+ 20
+212.50364768723392
+ 10
+154.12251222067883
+ 20
+212.47116322613383
+ 10
+153.9446995510917
+ 20
+212.43579408707618
+ 10
+153.67832100764358
+ 20
+212.35498903933703
+ 10
+153.51082513537173
+ 20
+212.28560997740053
+ 10
+153.26532926372622
+ 20
+212.15438970017604
+ 10
+153.11458696120832
+ 20
+212.05366691380283
+ 10
+152.89940803003776
+ 20
+211.87707412875798
+ 10
+152.7712122394214
+ 20
+211.74887833814162
+ 10
+152.59461945437653
+ 20
+211.53369940697104
+ 10
+152.4938966680033
+ 20
+211.3829571044531
+ 10
+152.3626763907788
+ 20
+211.1374612328076
+ 10
+152.2932973288423
+ 20
+210.96996536053575
+ 10
+152.21249228110315
+ 20
+210.70358681708763
+ 10
+152.1771231420455
+ 20
+210.5257741475005
+ 10
+152.1446386809454
+ 20
+210.1959538790015
+ 10
+152.14018477075604
+ 20
+210.10529245433742
+ 10
+152.14018477075604
+ 20
+180.69289660948326
+ 10
+152.1536690845172
+ 20
+180.53880841596128
+ 10
+152.19200975874324
+ 20
+180.39575603943717
+ 10
+152.25739420990982
+ 20
+180.25557803957167
+ 10
+158.47131095408741
+ 20
+169.49596935895735
+ 10
+158.58030810542283
+ 20
+169.3459843314146
+  0
+LWPOLYLINE
+  5
+A2
+330
+17
+100
+AcDbEntity
+  8
+CUT
+100
+AcDbPolyline
+ 90
+305
+ 70
+1
+ 10
+5.67885060466914
+ 20
+180.48906733598946
+ 10
+6.15268266030043
+ 20
+182.07487683464524
+ 10
+6.436056327855063
+ 20
+183.7055233161081
+ 10
+6.576473764567432
+ 20
+185.9756965972158
+ 10
+6.793376364713232
+ 20
+186.97964991866002
+ 10
+9.467993356472164
+ 20
+196.17448365214332
+ 10
+9.70936943329102
+ 20
+196.775960322601
+ 10
+9.986263695390889
+ 20
+197.30589362953688
+ 10
+10.314609585543325
+ 20
+197.80558225118438
+ 10
+10.691135572218991
+ 20
+198.27004745283227
+ 10
+11.112090073095624
+ 20
+198.69466145445625
+ 10
+11.957203175421629
+ 20
+199.35325306670333
+ 10
+21.21670021107601
+ 20
+205.53933232736094
+ 10
+21.763569223552988
+ 20
+205.8340528444708
+ 10
+22.33609936787052
+ 20
+206.07516512922714
+ 10
+23.673398418811406
+ 20
+206.50504821778065
+ 10
+24.71846913737611
+ 20
+206.7505855459995
+ 10
+25.31439190483836
+ 20
+206.8120466774019
+ 10
+25.91347350760552
+ 20
+206.81367415334108
+ 10
+26.633672281183188
+ 20
+206.73959435061468
+ 10
+28.189322884042305
+ 20
+206.42706288056584
+ 10
+28.933193854343322
+ 20
+206.19738737859996
+ 10
+29.57290073158926
+ 20
+205.91733811837733
+ 10
+29.97628818898465
+ 20
+205.70288418779745
+ 10
+34.80454448396968
+ 20
+202.93669568546227
+ 10
+36.49563707426194
+ 20
+202.11344669606518
+ 10
+38.28181846818257
+ 20
+201.52430403465246
+ 10
+40.13085052435504
+ 20
+201.17990092384872
+ 10
+42.009360732551976
+ 20
+201.08645337072605
+ 10
+43.88344454205126
+ 20
+201.24564797634247
+ 10
+45.71927729259849
+ 20
+201.6546114948901
+ 10
+47.483724703455344
+ 20
+202.30596269186856
+ 10
+49.14494090203786
+ 20
+203.18794556531438
+ 10
+50.67294319854245
+ 20
+204.2846415256249
+ 10
+52.04015323266035
+ 20
+205.57625670441928
+ 10
+53.221894725419396
+ 20
+207.03947920690354
+ 10
+65.89537830159418
+ 20
+225.08959217903126
+ 10
+66.60114508083545
+ 20
+225.9500861155132
+ 10
+67.05506905177916
+ 20
+226.37394591198176
+ 10
+67.55044548333142
+ 20
+226.748520723631
+ 10
+68.08194779815628
+ 20
+227.0697829028475
+ 10
+68.6438609722768
+ 20
+227.33427805064576
+ 10
+69.2301429863577
+ 20
+227.53916216038797
+ 10
+69.88524855801198
+ 20
+227.69424857414424
+ 10
+121.88997110388325
+ 20
+234.43875428000507
+ 10
+122.93955425276948
+ 20
+234.4997899221796
+ 10
+123.52494300884092
+ 20
+234.4603633977504
+ 10
+124.10366710726657
+ 20
+234.36386021404297
+ 10
+124.6701749794896
+ 20
+234.21120610413428
+ 10
+125.21903224443493
+ 20
+234.00386544415502
+ 10
+125.74497383928184
+ 20
+233.74382720586487
+ 10
+126.24295452601963
+ 20
+233.43358587689687
+ 10
+126.70819728926364
+ 20
+233.07611753170715
+ 10
+127.13623916107788
+ 20
+232.6748512827694
+ 10
+127.52297403321222
+ 20
+232.23363638587787
+ 10
+128.1117071534032
+ 20
+231.36257757659266
+ 10
+133.68436380964334
+ 20
+221.7133325993814
+ 10
+134.72405409738948
+ 20
+220.16210737646105
+ 10
+135.96094799124376
+ 20
+218.76305445322902
+ 10
+137.3730385261987
+ 20
+217.54106594765764
+ 10
+138.9352016175254
+ 20
+216.51788362629225
+ 10
+140.61964307151203
+ 20
+215.7117120721244
+ 10
+142.39639310310346
+ 20
+215.13689478646066
+ 10
+144.23383956192333
+ 20
+214.80365898762108
+ 10
+146.09929037945787
+ 20
+214.7179336470402
+ 10
+147.95955523027297
+ 20
+214.88124400029395
+ 10
+149.7815360582785
+ 20
+215.29068440992435
+ 10
+151.5328159613252
+ 20
+215.9389700628912
+ 10
+152.25876375463912
+ 20
+216.24979165670777
+ 10
+152.91373526896888
+ 20
+216.4509831077603
+ 10
+153.53845270365323
+ 20
+216.57524713163667
+ 10
+154.45343349099824
+ 20
+216.65599340767412
+ 10
+199.18858262475342
+ 20
+216.6581015974233
+ 10
+200.90233207754235
+ 20
+216.76338811304134
+ 10
+203.11121757549782
+ 20
+217.175913985175
+ 10
+204.16199924407027
+ 20
+217.25039847242329
+ 10
+245.41837029744178
+ 20
+217.25039847242329
+ 10
+246.46915196601424
+ 20
+217.175913985175
+ 10
+247.045721584261
+ 20
+217.06122715745036
+ 10
+247.60827358731623
+ 20
+216.89057887296687
+ 10
+248.1513902918694
+ 20
+216.6656125679896
+ 10
+248.66984118715584
+ 20
+216.38849479101532
+ 10
+249.15863330764174
+ 20
+216.06189433772337
+ 10
+249.6130593180046
+ 20
+215.6889565490177
+ 10
+250.02874284735051
+ 20
+215.27327301967176
+ 10
+250.40168063605614
+ 20
+214.818847009309
+ 10
+250.72828108934812
+ 20
+214.330054888823
+ 10
+251.00539886632228
+ 20
+213.81160399353675
+ 10
+251.23036517129972
+ 20
+213.26848728898318
+ 10
+251.40101345578307
+ 20
+212.70593528592838
+ 10
+251.51570028350775
+ 20
+212.1293656676815
+ 10
+251.57815674391682
+ 20
+211.4952345833415
+ 10
+251.59018477075605
+ 20
+128.52903077124404
+ 10
+251.70241109334106
+ 20
+126.75992300604179
+ 10
+252.0372908114559
+ 20
+125.0191781635174
+ 10
+252.58945502234744
+ 20
+123.33470444256167
+ 10
+253.3500512461797
+ 20
+121.73350788477372
+ 10
+254.30688535192806
+ 20
+120.24125940464158
+ 10
+255.4446170577336
+ 20
+118.8818832249236
+ 10
+256.745005871392
+ 20
+117.6771733155711
+ 10
+258.18720352797635
+ 20
+116.646443985571
+ 10
+259.74808823613824
+ 20
+115.80622022953563
+ 10
+261.8953126778246
+ 20
+114.98256261329125
+ 10
+262.4259518240715
+ 20
+114.72525739264634
+ 10
+262.928719016956
+ 20
+114.41702204448093
+ 10
+263.4381878303272
+ 20
+114.03095192212552
+ 10
+266.0944837321547
+ 20
+111.58791550504266
+ 10
+268.47065881724626
+ 20
+109.67780393262922
+ 10
+269.59065869311365
+ 20
+108.62674824123465
+ 10
+270.1938489297909
+ 20
+107.95273207116873
+ 10
+271.2444748325057
+ 20
+106.8898086420973
+ 10
+272.89869083658664
+ 20
+105.3859759111146
+ 10
+273.628203321284
+ 20
+104.62149004502633
+ 10
+273.97848218122147
+ 20
+104.14709567470852
+ 10
+274.2804198104186
+ 20
+103.64055943080793
+ 10
+274.53109015306717
+ 20
+103.10679011956549
+ 10
+274.72806398094167
+ 20
+102.55096046090925
+ 10
+274.8694324348694
+ 20
+101.97845696001022
+ 10
+274.9538255233515
+ 20
+101.3948277070364
+ 10
+274.9804253990482
+ 20
+100.8057286110253
+ 10
+274.9489742844813
+ 20
+100.21686858886308
+ 10
+274.85977697013533
+ 20
+99.63395424058923
+ 10
+274.71369786075667
+ 20
+99.06263454715088
+ 10
+274.51215259846657
+ 20
+98.50844612652266
+ 10
+274.2570943438793
+ 20
+97.97675957875686
+ 10
+273.9509948481591
+ 20
+97.47272743987118
+ 10
+273.2933489515494
+ 20
+96.64560654214938
+ 10
+189.2056533854446
+ 20
+5.0586288287828935
+ 10
+188.44334220920254
+ 20
+4.337602527091416
+ 10
+187.9710530846134
+ 20
+3.9914490289128315
+ 10
+187.46722453895325
+ 20
+3.693059923743924
+ 10
+186.936670596635
+ 20
+3.4452862855247437
+ 10
+186.38446064019593
+ 20
+3.250495563169773
+ 10
+185.8158709729239
+ 20
+3.110548959862351
+ 10
+185.23633440437905
+ 20
+3.026783649469889
+ 10
+184.6513883405177
+ 20
+3.0
+ 10
+184.06662187440799
+ 20
+3.0304539261751526
+ 10
+183.48762238308228
+ 20
+3.1178544441966562
+ 10
+182.91992214078505
+ 20
+3.261366452061734
+ 10
+182.36894545872212
+ 20
+3.4596187088681796
+ 10
+181.83995685638502
+ 20
+3.7107169368649124
+ 10
+181.33801075966494
+ 20
+4.012261921060924
+ 10
+180.77202017807946
+ 20
+4.437022844943408
+ 10
+171.327073940457
+ 20
+12.990216999109755
+ 10
+170.59859493938646
+ 20
+13.751364681444239
+ 10
+170.24847704981102
+ 20
+14.223707880540186
+ 10
+169.9463503586327
+ 20
+14.728098698071117
+ 10
+169.69512539830066
+ 20
+15.259678093494284
+ 10
+169.49722234028818
+ 20
+15.813325105552845
+ 10
+169.35454768040992
+ 20
+16.383706184973136
+ 10
+169.2684758726266
+ 20
+16.965326575122706
+ 10
+169.23983608826578
+ 20
+17.552583245654695
+ 10
+169.26890422821322
+ 20
+18.139818869209055
+ 10
+169.35540026502676
+ 20
+18.721376321184703
+ 10
+169.49849094057552
+ 20
+19.29165317754761
+ 10
+169.69679779321885
+ 20
+19.8451556856963
+ 10
+170.68501945674876
+ 20
+21.996812209624057
+ 10
+171.21126787636854
+ 20
+23.6919367182569
+ 10
+171.51880985410995
+ 20
+25.44002207968722
+ 10
+171.6027021477309
+ 20
+27.21297063562196
+ 10
+171.42626470813073
+ 20
+29.22764466875341
+ 10
+171.3998159025309
+ 20
+29.81309603900331
+ 10
+171.4307004470231
+ 20
+30.39833017262577
+ 10
+171.51862274805703
+ 20
+30.977745839678605
+ 10
+171.66049822460909
+ 20
+31.536956254340407
+ 10
+172.10095933300244
+ 20
+33.96538216613412
+ 10
+172.75164012552182
+ 20
+36.4607017682505
+ 10
+172.96495780375776
+ 20
+38.28714883796639
+ 10
+172.93705443560376
+ 20
+40.12579908539449
+ 10
+172.66841141300384
+ 20
+41.94493191636922
+ 10
+172.16366339461985
+ 20
+43.7131634533177
+ 10
+171.43151834819577
+ 20
+45.39998797333109
+ 10
+170.4846073197505
+ 20
+46.9763041962161
+ 10
+169.33926652139738
+ 20
+48.414917342947895
+ 10
+168.0152554972349
+ 20
+49.691008302957414
+ 10
+166.53541622954168
+ 20
+50.78256181612794
+ 10
+164.92527906641212
+ 20
+51.67074628245847
+ 10
+163.21262226941283
+ 20
+52.34023864687638
+ 10
+161.42699277999097
+ 20
+52.7794887542511
+ 10
+159.59919647242478
+ 20
+52.98091861392743
+ 10
+157.16980828449888
+ 20
+52.92021469315513
+ 10
+156.5870903802956
+ 20
+52.95452938097589
+ 10
+156.01047866784236
+ 20
+53.045395143181665
+ 10
+155.32853794195
+ 20
+53.22593705104381
+ 10
+129.57108006048563
+ 20
+62.6561530924326
+ 10
+128.58672182442075
+ 20
+63.10025132279221
+ 10
+127.93146524636668
+ 20
+63.50431051910255
+ 10
+126.13525404336802
+ 20
+64.4398346803901
+ 10
+124.22285880548128
+ 20
+65.10641145484205
+ 10
+123.35610357200487
+ 20
+65.35232832491856
+ 10
+122.5525489651187
+ 20
+65.65623586700191
+ 10
+120.92861728538715
+ 20
+66.15018729052939
+ 10
+119.86909892032486
+ 20
+66.43248635914757
+ 10
+117.31957742425612
+ 20
+67.38085539820514
+ 10
+116.74339253773714
+ 20
+67.66164881692477
+ 10
+116.2399527474362
+ 20
+67.97184917422135
+ 10
+115.76955044800862
+ 20
+68.33017522800183
+ 10
+115.33676966543406
+ 20
+68.73313512471499
+ 10
+114.94582780756453
+ 20
+69.17680205822514
+ 10
+114.35103170410045
+ 20
+70.05375464204647
+ 10
+113.25171029883141
+ 20
+71.95258252387482
+ 10
+112.25793458773589
+ 20
+73.44082951114154
+ 10
+111.08243194353706
+ 20
+74.79014889236804
+ 10
+109.74440905542882
+ 20
+75.97849396429385
+ 10
+108.26572805181475
+ 20
+76.9864482036434
+ 10
+106.67054929217467
+ 20
+77.79754251620209
+ 10
+104.98493660783753
+ 20
+78.39852432746898
+ 10
+103.23643144168236
+ 20
+78.77957411817955
+ 10
+101.45360284495376
+ 20
+78.93446586669647
+ 10
+98.05350599906195
+ 20
+78.76806921548834
+ 10
+97.55899500752605
+ 20
+78.76030085356896
+ 10
+96.66001188766194
+ 20
+78.82531069886103
+ 10
+94.04575765526691
+ 20
+79.3110112228619
+ 10
+93.27693789820906
+ 20
+79.54199576791903
+ 10
+91.42814197094
+ 20
+80.30863797358299
+ 10
+87.70026054407496
+ 20
+82.21347607097559
+ 10
+81.50324916002015
+ 20
+85.71614294155344
+ 10
+75.36013688714976
+ 20
+89.07268882260634
+ 10
+72.81508137975541
+ 20
+90.2188175505154
+ 10
+70.79365103467227
+ 20
+91.35291052915831
+ 10
+69.31685206182988
+ 20
+92.08126141031597
+ 10
+67.20344766472955
+ 20
+93.0689989285307
+ 10
+64.05141893617392
+ 20
+94.43992177246797
+ 10
+61.702252072443244
+ 20
+95.80616088908032
+ 10
+60.65713629105401
+ 20
+96.32871877977493
+ 10
+58.685056084320486
+ 20
+97.17674288988228
+ 10
+57.9710923825414
+ 20
+97.52748167538267
+ 10
+54.16667734769398
+ 20
+99.6271866656124
+ 10
+51.94078660726173
+ 20
+101.02014273823355
+ 10
+51.07976581652809
+ 20
+101.65282237996342
+ 10
+50.64801844860378
+ 20
+102.06407264631416
+ 10
+50.259296155533946
+ 20
+102.51620929618174
+ 10
+49.917450656602256
+ 20
+103.00475225861531
+ 10
+49.625869184606834
+ 20
+103.52486072467981
+ 10
+49.25786890653255
+ 20
+104.36838344128002
+ 10
+48.48587138007607
+ 20
+105.88049391302944
+ 10
+47.53651424087799
+ 20
+107.28803761817069
+ 10
+46.423759133464934
+ 20
+108.57031462824118
+ 10
+45.16397070146091
+ 20
+109.70846723936943
+ 10
+43.77567592227009
+ 20
+110.68575730158263
+ 10
+41.69414954634117
+ 20
+111.7993800091239
+ 10
+39.95366991486226
+ 20
+112.56354867804457
+ 10
+38.125717462792245
+ 20
+113.08490549935242
+ 10
+36.24399014946509
+ 20
+113.35383935819426
+ 10
+34.34317726365869
+ 20
+113.36539250951036
+ 10
+33.6225671325255
+ 20
+113.32075735228815
+ 10
+33.02689155426657
+ 20
+113.34322123658681
+ 10
+32.436398208262005
+ 20
+113.42477875590093
+ 10
+31.8569348172948
+ 20
+113.56462223683836
+ 10
+31.294239873247
+ 20
+113.76136679349841
+ 10
+30.639328213902427
+ 20
+114.06642503849228
+ 10
+29.02423356731469
+ 20
+114.70014195919629
+ 10
+26.4099061312162
+ 20
+115.3492819017799
+ 10
+25.89725732077901
+ 20
+115.53478192515108
+ 10
+25.40359154611563
+ 20
+115.7661110509424
+ 10
+24.83645493036829
+ 20
+116.10140386706306
+ 10
+22.580348415280408
+ 20
+117.70400278315505
+ 10
+21.813858859001513
+ 20
+118.32987840235465
+ 10
+21.075267119035143
+ 20
+119.06003474990558
+ 10
+20.529192838214044
+ 20
+119.66120390811865
+ 10
+18.755432122557195
+ 20
+121.9826920294276
+ 10
+14.828340992012658
+ 20
+128.33418763896717
+ 10
+14.008453794754642
+ 20
+129.5357475263447
+ 10
+12.76088417721128
+ 20
+131.03170272153696
+ 10
+11.317753796771273
+ 20
+132.34001713393607
+ 10
+9.706999830837205
+ 20
+133.4353634526261
+ 10
+7.959804437243278
+ 20
+134.29653715940321
+ 10
+7.291735686622248
+ 20
+134.5833912062581
+ 10
+6.7171607051986175
+ 20
+134.88881629381717
+ 10
+6.217949471088572
+ 20
+135.22223050835788
+ 10
+5.754618242395392
+ 20
+135.60393860001616
+ 10
+5.331820779468561
+ 20
+136.03010664206312
+ 10
+4.953803716134223
+ 20
+136.49645414612863
+ 10
+4.624363905943353
+ 20
+136.9982970559926
+ 10
+4.346810286068493
+ 20
+137.53059479487024
+ 10
+4.123930641901821
+ 20
+138.0880008936311
+ 10
+3.8555765674326934
+ 20
+139.12972392820478
+ 10
+3.705762418799812
+ 20
+139.99346110049711
+ 10
+3.6442800408987983
+ 20
+140.64326911955214
+ 10
+3.647636112516998
+ 20
+141.2959706449094
+ 10
+3.7191903819710146
+ 20
+142.16162629891178
+ 10
+3.8897467126681273
+ 20
+143.20660049714775
+ 10
+4.057583537785168
+ 20
+143.77313059348455
+ 10
+4.280417450920545
+ 20
+144.32036966105733
+ 10
+5.481321778918801
+ 20
+146.6793420646976
+ 10
+6.106359843064611
+ 20
+148.5374178724894
+ 10
+6.7397416774390635
+ 20
+150.97290398744812
+ 10
+7.4878784863766175
+ 20
+153.43491675085798
+ 10
+7.773820030690205
+ 20
+155.24980418397018
+ 10
+7.819637786185329
+ 20
+157.086507669815
+ 10
+7.624542663823627
+ 20
+158.913394873466
+ 10
+7.191894658454904
+ 20
+160.69900251936232
+ 10
+6.529144981837913
+ 20
+162.41257826258968
+ 10
+5.647707735325799
+ 20
+164.02461031627044
+ 10
+4.018516978120663
+ 20
+166.20899482072608
+ 10
+3.7127150878555017
+ 20
+166.7165366638714
+ 10
+3.4585537763376992
+ 20
+167.25180813365182
+ 10
+3.2585200379057753
+ 20
+167.80957154417808
+ 10
+3.114571223078296
+ 20
+168.3843691236293
+ 10
+3.028115885680278
+ 20
+168.97057641910462
+ 10
+3.0
+ 20
+169.56245733246942
+ 10
+3.0304986828445277
+ 20
+170.1542202486596
+ 10
+3.218589370153142
+ 20
+171.1992407734877
+ 10
+5.292606158524189
+ 20
+179.34167705375924
+ 10
+5.67885060466914
+ 20
+180.48906733598946
+  0
+LWPOLYLINE
+  5
+A3
+330
+17
+100
+AcDbEntity
+  8
+CUT
+100
+AcDbPolyline
+ 90
+65
+ 70
+1
+ 10
+125.19243953043735
+ 20
+81.50390407695643
+ 10
+125.14780124700356
+ 20
+81.80483094018479
+ 10
+125.0738819185234
+ 20
+82.09993344142363
+ 10
+124.97139342853853
+ 20
+82.38636958226657
+ 10
+124.84132279723345
+ 20
+82.66138082609538
+ 10
+124.68492267589144
+ 20
+82.92231866429556
+ 10
+124.50369928317804
+ 20
+83.16667012284209
+ 10
+124.29939789943185
+ 20
+83.3920819636131
+ 10
+124.07398605866085
+ 20
+83.59638334735928
+ 10
+123.82963460011432
+ 20
+83.77760674007268
+ 10
+123.56869676191414
+ 20
+83.93400686141469
+ 10
+123.29368551808533
+ 20
+84.06407749271978
+ 10
+123.00724937724239
+ 20
+84.16656598270464
+ 10
+122.71214687600354
+ 20
+84.2404853111848
+ 10
+122.41122001277519
+ 20
+84.2851235946186
+ 10
+122.10736687775355
+ 20
+84.30005094193478
+ 10
+121.80351374273191
+ 20
+84.2851235946186
+ 10
+121.50258687950355
+ 20
+84.2404853111848
+ 10
+121.20748437826471
+ 20
+84.16656598270464
+ 10
+120.92104823742177
+ 20
+84.06407749271978
+ 10
+120.64603699359296
+ 20
+83.93400686141469
+ 10
+120.38509915539278
+ 20
+83.77760674007268
+ 10
+120.14074769684625
+ 20
+83.59638334735928
+ 10
+119.91533585607525
+ 20
+83.3920819636131
+ 10
+119.71103447232906
+ 20
+83.16667012284209
+ 10
+119.52981107961565
+ 20
+82.92231866429556
+ 10
+119.37341095827365
+ 20
+82.66138082609538
+ 10
+119.24334032696856
+ 20
+82.38636958226657
+ 10
+119.1408518369837
+ 20
+82.09993344142363
+ 10
+119.06693250850354
+ 20
+81.80483094018479
+ 10
+119.02229422506974
+ 20
+81.50390407695643
+ 10
+119.00736687775355
+ 20
+81.20005094193479
+ 10
+119.02229422506974
+ 20
+80.89619780691315
+ 10
+119.06693250850354
+ 20
+80.5952709436848
+ 10
+119.1408518369837
+ 20
+80.30016844244595
+ 10
+119.24334032696856
+ 20
+80.01373230160301
+ 10
+119.37341095827365
+ 20
+79.7387210577742
+ 10
+119.52981107961565
+ 20
+79.47778321957402
+ 10
+119.71103447232906
+ 20
+79.23343176102749
+ 10
+119.91533585607525
+ 20
+79.00801992025649
+ 10
+120.14074769684625
+ 20
+78.8037185365103
+ 10
+120.38509915539278
+ 20
+78.6224951437969
+ 10
+120.64603699359296
+ 20
+78.4660950224549
+ 10
+120.92104823742177
+ 20
+78.3360243911498
+ 10
+121.20748437826471
+ 20
+78.23353590116494
+ 10
+121.50258687950355
+ 20
+78.15961657268478
+ 10
+121.80351374273191
+ 20
+78.11497828925098
+ 10
+122.10736687775355
+ 20
+78.1000509419348
+ 10
+122.41122001277519
+ 20
+78.11497828925098
+ 10
+122.71214687600354
+ 20
+78.15961657268478
+ 10
+123.00724937724239
+ 20
+78.23353590116494
+ 10
+123.29368551808533
+ 20
+78.3360243911498
+ 10
+123.56869676191414
+ 20
+78.4660950224549
+ 10
+123.82963460011432
+ 20
+78.6224951437969
+ 10
+124.07398605866085
+ 20
+78.8037185365103
+ 10
+124.29939789943185
+ 20
+79.00801992025649
+ 10
+124.50369928317804
+ 20
+79.23343176102749
+ 10
+124.68492267589144
+ 20
+79.47778321957402
+ 10
+124.84132279723345
+ 20
+79.7387210577742
+ 10
+124.97139342853853
+ 20
+80.01373230160301
+ 10
+125.0738819185234
+ 20
+80.30016844244595
+ 10
+125.14780124700356
+ 20
+80.5952709436848
+ 10
+125.19243953043735
+ 20
+80.89619780691315
+ 10
+125.20736687775354
+ 20
+81.20005094193479
+ 10
+125.19243953043735
+ 20
+81.50390407695643
+  0
+LWPOLYLINE
+  5
+A4
+330
+17
+100
+AcDbEntity
+  8
+CUT
+100
+AcDbPolyline
+ 90
+65
+ 70
+1
+ 10
+121.90155497343595
+ 20
+86.91245916030225
+ 10
+121.88662762611976
+ 20
+87.21631229532389
+ 10
+121.84198934268596
+ 20
+87.51723915855224
+ 10
+121.7680700142058
+ 20
+87.81234165979109
+ 10
+121.66558152422094
+ 20
+88.09877780063402
+ 10
+121.53551089291585
+ 20
+88.37378904446284
+ 10
+121.37911077157385
+ 20
+88.63472688266302
+ 10
+121.19788737886044
+ 20
+88.87907834120955
+ 10
+120.99358599511426
+ 20
+89.10449018198055
+ 10
+120.76817415434326
+ 20
+89.30879156572674
+ 10
+120.52382269579672
+ 20
+89.49001495844014
+ 10
+120.26288485759655
+ 20
+89.64641507978214
+ 10
+119.98787361376773
+ 20
+89.77648571108723
+ 10
+119.70143747292478
+ 20
+89.8789742010721
+ 10
+119.40633497168595
+ 20
+89.95289352955226
+ 10
+119.1054081084576
+ 20
+89.99753181298605
+ 10
+118.80155497343596
+ 20
+90.01245916030224
+ 10
+118.49770183841432
+ 20
+89.99753181298605
+ 10
+118.19677497518596
+ 20
+89.95289352955226
+ 10
+117.90167247394712
+ 20
+89.8789742010721
+ 10
+117.61523633310418
+ 20
+89.77648571108723
+ 10
+117.34022508927536
+ 20
+89.64641507978214
+ 10
+117.07928725107519
+ 20
+89.49001495844014
+ 10
+116.83493579252865
+ 20
+89.30879156572674
+ 10
+116.60952395175765
+ 20
+89.10449018198055
+ 10
+116.40522256801147
+ 20
+88.87907834120955
+ 10
+116.22399917529806
+ 20
+88.63472688266302
+ 10
+116.06759905395606
+ 20
+88.37378904446284
+ 10
+115.93752842265097
+ 20
+88.09877780063402
+ 10
+115.8350399326661
+ 20
+87.81234165979109
+ 10
+115.76112060418595
+ 20
+87.51723915855224
+ 10
+115.71648232075215
+ 20
+87.21631229532389
+ 10
+115.70155497343596
+ 20
+86.91245916030225
+ 10
+115.71648232075215
+ 20
+86.60860602528061
+ 10
+115.76112060418595
+ 20
+86.30767916205225
+ 10
+115.8350399326661
+ 20
+86.01257666081341
+ 10
+115.93752842265097
+ 20
+85.72614051997047
+ 10
+116.06759905395606
+ 20
+85.45112927614166
+ 10
+116.22399917529806
+ 20
+85.19019143794148
+ 10
+116.40522256801147
+ 20
+84.94583997939495
+ 10
+116.60952395175765
+ 20
+84.72042813862394
+ 10
+116.83493579252865
+ 20
+84.51612675487776
+ 10
+117.07928725107519
+ 20
+84.33490336216435
+ 10
+117.34022508927536
+ 20
+84.17850324082235
+ 10
+117.61523633310418
+ 20
+84.04843260951726
+ 10
+117.90167247394712
+ 20
+83.9459441195324
+ 10
+118.19677497518596
+ 20
+83.87202479105224
+ 10
+118.49770183841432
+ 20
+83.82738650761844
+ 10
+118.80155497343596
+ 20
+83.81245916030225
+ 10
+119.1054081084576
+ 20
+83.82738650761844
+ 10
+119.40633497168595
+ 20
+83.87202479105224
+ 10
+119.7014374729248
+ 20
+83.9459441195324
+ 10
+119.98787361376773
+ 20
+84.04843260951726
+ 10
+120.26288485759655
+ 20
+84.17850324082235
+ 10
+120.52382269579672
+ 20
+84.33490336216435
+ 10
+120.76817415434326
+ 20
+84.51612675487776
+ 10
+120.99358599511426
+ 20
+84.72042813862394
+ 10
+121.19788737886044
+ 20
+84.94583997939495
+ 10
+121.37911077157385
+ 20
+85.19019143794148
+ 10
+121.53551089291585
+ 20
+85.45112927614166
+ 10
+121.66558152422094
+ 20
+85.72614051997047
+ 10
+121.7680700142058
+ 20
+86.01257666081341
+ 10
+121.84198934268596
+ 20
+86.30767916205225
+ 10
+121.88662762611976
+ 20
+86.60860602528061
+ 10
+121.90155497343595
+ 20
+86.91245916030225
+  0
+LWPOLYLINE
+  5
+A5
+330
+17
+100
+AcDbEntity
+  8
+CUT
+100
+AcDbPolyline
+ 90
+65
+ 70
+1
+ 10
+40.3287093602084
+ 20
+136.00952568086103
+ 10
+40.31378201289221
+ 20
+136.31337881588266
+ 10
+40.26914372945841
+ 20
+136.61430567911103
+ 10
+40.19522440097825
+ 20
+136.90940818034986
+ 10
+40.09273591099339
+ 20
+137.19584432119282
+ 10
+39.9626652796883
+ 20
+137.47085556502162
+ 10
+39.806265158346285
+ 20
+137.7317934032218
+ 10
+39.62504176563288
+ 20
+137.97614486176835
+ 10
+39.420740381886695
+ 20
+138.20155670253934
+ 10
+39.1953285411157
+ 20
+138.40585808628552
+ 10
+38.95097708256917
+ 20
+138.58708147899893
+ 10
+38.69003924436899
+ 20
+138.74348160034094
+ 10
+38.415028000540175
+ 20
+138.87355223164602
+ 10
+38.12859185969723
+ 20
+138.97604072163088
+ 10
+37.833489358458394
+ 20
+139.04996005011105
+ 10
+37.53256249523003
+ 20
+139.09459833354484
+ 10
+37.2287093602084
+ 20
+139.10952568086103
+ 10
+36.92485622518676
+ 20
+139.09459833354484
+ 10
+36.623929361958396
+ 20
+139.04996005011105
+ 10
+36.328826860719566
+ 20
+138.97604072163088
+ 10
+36.04239071987662
+ 20
+138.87355223164602
+ 10
+35.76737947604781
+ 20
+138.74348160034094
+ 10
+35.50644163784763
+ 20
+138.58708147899893
+ 10
+35.2620901793011
+ 20
+138.40585808628552
+ 10
+35.0366783385301
+ 20
+138.20155670253934
+ 10
+34.83237695478391
+ 20
+137.97614486176832
+ 10
+34.651153562070505
+ 20
+137.7317934032218
+ 10
+34.494753440728495
+ 20
+137.47085556502162
+ 10
+34.36468280942341
+ 20
+137.19584432119282
+ 10
+34.26219431943855
+ 20
+136.90940818034986
+ 10
+34.188274990958384
+ 20
+136.61430567911103
+ 10
+34.143636707524585
+ 20
+136.31337881588266
+ 10
+34.1287093602084
+ 20
+136.00952568086103
+ 10
+34.143636707524585
+ 20
+135.7056725458394
+ 10
+34.188274990958384
+ 20
+135.40474568261104
+ 10
+34.26219431943855
+ 20
+135.1096431813722
+ 10
+34.36468280942341
+ 20
+134.82320704052924
+ 10
+34.494753440728495
+ 20
+134.54819579670044
+ 10
+34.651153562070505
+ 20
+134.28725795850028
+ 10
+34.83237695478391
+ 20
+134.04290649995374
+ 10
+35.0366783385301
+ 20
+133.81749465918273
+ 10
+35.2620901793011
+ 20
+133.61319327543654
+ 10
+35.50644163784763
+ 20
+133.43196988272314
+ 10
+35.76737947604781
+ 20
+133.27556976138112
+ 10
+36.04239071987662
+ 20
+133.14549913007605
+ 10
+36.328826860719566
+ 20
+133.04301064009118
+ 10
+36.6239293619584
+ 20
+132.969091311611
+ 10
+36.92485622518676
+ 20
+132.92445302817723
+ 10
+37.2287093602084
+ 20
+132.90952568086104
+ 10
+37.53256249523004
+ 20
+132.92445302817723
+ 10
+37.833489358458394
+ 20
+132.969091311611
+ 10
+38.12859185969723
+ 20
+133.04301064009118
+ 10
+38.415028000540175
+ 20
+133.14549913007605
+ 10
+38.69003924436899
+ 20
+133.27556976138112
+ 10
+38.95097708256917
+ 20
+133.43196988272314
+ 10
+39.1953285411157
+ 20
+133.61319327543654
+ 10
+39.420740381886695
+ 20
+133.81749465918273
+ 10
+39.625041765632886
+ 20
+134.04290649995374
+ 10
+39.806265158346285
+ 20
+134.28725795850028
+ 10
+39.9626652796883
+ 20
+134.54819579670044
+ 10
+40.09273591099339
+ 20
+134.82320704052924
+ 10
+40.19522440097825
+ 20
+135.1096431813722
+ 10
+40.26914372945841
+ 20
+135.40474568261104
+ 10
+40.31378201289221
+ 20
+135.7056725458394
+ 10
+40.3287093602084
+ 20
+136.00952568086103
+  0
+LWPOLYLINE
+  5
+A6
+330
+17
+100
+AcDbEntity
+  8
+CUT
+100
+AcDbPolyline
+ 90
+65
+ 70
+1
+ 10
+70.83881456807607
+ 20
+175.14833778454434
+ 10
+70.82388722075989
+ 20
+175.45219091956596
+ 10
+70.77924893732609
+ 20
+175.75311778279433
+ 10
+70.70532960884593
+ 20
+176.04822028403316
+ 10
+70.60284111886106
+ 20
+176.33465642487613
+ 10
+70.47277048755598
+ 20
+176.60966766870493
+ 10
+70.31637036621397
+ 20
+176.8706055069051
+ 10
+70.13514697350057
+ 20
+177.11495696545165
+ 10
+69.93084558975438
+ 20
+177.34036880622264
+ 10
+69.70543374898338
+ 20
+177.54467018996883
+ 10
+69.46108229043685
+ 20
+177.72589358268223
+ 10
+69.20014445223667
+ 20
+177.88229370402425
+ 10
+68.92513320840786
+ 20
+178.01236433532932
+ 10
+68.6386970675649
+ 20
+178.1148528253142
+ 10
+68.34359456632608
+ 20
+178.18877215379436
+ 10
+68.04266770309772
+ 20
+178.23341043722814
+ 10
+67.73881456807608
+ 20
+178.24833778454433
+ 10
+67.43496143305444
+ 20
+178.23341043722814
+ 10
+67.13403456982608
+ 20
+178.18877215379436
+ 10
+66.83893206858725
+ 20
+178.1148528253142
+ 10
+66.5524959277443
+ 20
+178.01236433532932
+ 10
+66.27748468391549
+ 20
+177.88229370402425
+ 10
+66.01654684571531
+ 20
+177.72589358268223
+ 10
+65.77219538716878
+ 20
+177.54467018996883
+ 10
+65.54678354639779
+ 20
+177.34036880622264
+ 10
+65.34248216265159
+ 20
+177.11495696545163
+ 10
+65.16125876993819
+ 20
+176.8706055069051
+ 10
+65.00485864859618
+ 20
+176.60966766870493
+ 10
+64.8747880172911
+ 20
+176.33465642487613
+ 10
+64.77229952730623
+ 20
+176.04822028403316
+ 10
+64.69838019882607
+ 20
+175.75311778279433
+ 10
+64.65374191539227
+ 20
+175.45219091956596
+ 10
+64.63881456807609
+ 20
+175.14833778454434
+ 10
+64.65374191539227
+ 20
+174.8444846495227
+ 10
+64.69838019882607
+ 20
+174.54355778629434
+ 10
+64.77229952730623
+ 20
+174.2484552850555
+ 10
+64.8747880172911
+ 20
+173.96201914421255
+ 10
+65.00485864859618
+ 20
+173.68700790038375
+ 10
+65.16125876993819
+ 20
+173.42607006218358
+ 10
+65.34248216265159
+ 20
+173.18171860363705
+ 10
+65.54678354639779
+ 20
+172.95630676286603
+ 10
+65.77219538716878
+ 20
+172.75200537911985
+ 10
+66.01654684571531
+ 20
+172.57078198640644
+ 10
+66.27748468391549
+ 20
+172.41438186506443
+ 10
+66.5524959277443
+ 20
+172.28431123375935
+ 10
+66.83893206858725
+ 20
+172.1818227437745
+ 10
+67.13403456982608
+ 20
+172.10790341529432
+ 10
+67.43496143305444
+ 20
+172.06326513186053
+ 10
+67.73881456807608
+ 20
+172.04833778454434
+ 10
+68.04266770309772
+ 20
+172.06326513186053
+ 10
+68.34359456632608
+ 20
+172.10790341529432
+ 10
+68.63869706756492
+ 20
+172.1818227437745
+ 10
+68.92513320840786
+ 20
+172.28431123375935
+ 10
+69.20014445223667
+ 20
+172.41438186506443
+ 10
+69.46108229043685
+ 20
+172.57078198640644
+ 10
+69.70543374898338
+ 20
+172.75200537911985
+ 10
+69.93084558975438
+ 20
+172.95630676286603
+ 10
+70.13514697350057
+ 20
+173.18171860363705
+ 10
+70.31637036621397
+ 20
+173.42607006218358
+ 10
+70.47277048755598
+ 20
+173.68700790038375
+ 10
+70.60284111886106
+ 20
+173.96201914421255
+ 10
+70.70532960884593
+ 20
+174.2484552850555
+ 10
+70.77924893732609
+ 20
+174.54355778629434
+ 10
+70.82388722075989
+ 20
+174.8444846495227
+ 10
+70.83881456807607
+ 20
+175.14833778454434
+  0
+LWPOLYLINE
+  5
+A7
+330
+17
+100
+AcDbEntity
+  8
+CUT
+100
+AcDbPolyline
+ 90
+65
+ 70
+1
+ 10
+67.53300266375848
+ 20
+180.86074600291178
+ 10
+67.51807531644229
+ 20
+181.1645991379334
+ 10
+67.4734370330085
+ 20
+181.46552600116178
+ 10
+67.39951770452834
+ 20
+181.7606285024006
+ 10
+67.29702921454347
+ 20
+182.04706464324357
+ 10
+67.16695858323838
+ 20
+182.32207588707237
+ 10
+67.01055846189638
+ 20
+182.58301372527254
+ 10
+66.82933506918297
+ 20
+182.8273651838191
+ 10
+66.62503368543679
+ 20
+183.05277702459009
+ 10
+66.39962184466579
+ 20
+183.25707840833627
+ 10
+66.15527038611926
+ 20
+183.43830180104968
+ 10
+65.89433254791908
+ 20
+183.5947019223917
+ 10
+65.61932130409026
+ 20
+183.72477255369677
+ 10
+65.33288516324733
+ 20
+183.82726104368163
+ 10
+65.03778266200848
+ 20
+183.9011803721618
+ 10
+64.73685579878013
+ 20
+183.9458186555956
+ 10
+64.43300266375849
+ 20
+183.96074600291178
+ 10
+64.12914952873685
+ 20
+183.9458186555956
+ 10
+63.8282226655085
+ 20
+183.9011803721618
+ 10
+63.53312016426966
+ 20
+183.82726104368163
+ 10
+63.24668402342672
+ 20
+183.72477255369677
+ 10
+62.9716727795979
+ 20
+183.5947019223917
+ 10
+62.710734941397725
+ 20
+183.43830180104968
+ 10
+62.46638348285119
+ 20
+183.25707840833627
+ 10
+62.2409716420802
+ 20
+183.05277702459009
+ 10
+62.036670258334006
+ 20
+182.82736518381907
+ 10
+61.8554468656206
+ 20
+182.58301372527254
+ 10
+61.69904674427859
+ 20
+182.32207588707237
+ 10
+61.5689761129735
+ 20
+182.04706464324357
+ 10
+61.466487622988645
+ 20
+181.7606285024006
+ 10
+61.39256829450848
+ 20
+181.46552600116178
+ 10
+61.34793001107468
+ 20
+181.1645991379334
+ 10
+61.33300266375849
+ 20
+180.86074600291178
+ 10
+61.34793001107468
+ 20
+180.55689286789016
+ 10
+61.39256829450848
+ 20
+180.2559660046618
+ 10
+61.466487622988645
+ 20
+179.96086350342296
+ 10
+61.5689761129735
+ 20
+179.67442736258
+ 10
+61.69904674427859
+ 20
+179.3994161187512
+ 10
+61.8554468656206
+ 20
+179.13847828055103
+ 10
+62.036670258334006
+ 20
+178.8941268220045
+ 10
+62.2409716420802
+ 20
+178.66871498123348
+ 10
+62.46638348285119
+ 20
+178.4644135974873
+ 10
+62.710734941397725
+ 20
+178.2831902047739
+ 10
+62.9716727795979
+ 20
+178.12679008343187
+ 10
+63.24668402342672
+ 20
+177.9967194521268
+ 10
+63.53312016426966
+ 20
+177.89423096214193
+ 10
+63.8282226655085
+ 20
+177.82031163366176
+ 10
+64.12914952873685
+ 20
+177.77567335022798
+ 10
+64.43300266375849
+ 20
+177.7607460029118
+ 10
+64.73685579878013
+ 20
+177.77567335022798
+ 10
+65.03778266200848
+ 20
+177.82031163366176
+ 10
+65.33288516324733
+ 20
+177.89423096214193
+ 10
+65.61932130409026
+ 20
+177.9967194521268
+ 10
+65.89433254791908
+ 20
+178.12679008343187
+ 10
+66.15527038611926
+ 20
+178.2831902047739
+ 10
+66.39962184466579
+ 20
+178.4644135974873
+ 10
+66.62503368543679
+ 20
+178.66871498123348
+ 10
+66.82933506918297
+ 20
+178.8941268220045
+ 10
+67.01055846189638
+ 20
+179.13847828055103
+ 10
+67.16695858323838
+ 20
+179.3994161187512
+ 10
+67.29702921454347
+ 20
+179.67442736258
+ 10
+67.39951770452834
+ 20
+179.96086350342296
+ 10
+67.4734370330085
+ 20
+180.2559660046618
+ 10
+67.51807531644229
+ 20
+180.55689286789016
+ 10
+67.53300266375848
+ 20
+180.86074600291178
+  0
+LWPOLYLINE
+  5
+A8
+330
+17
+100
+AcDbEntity
+  8
+CUT
+100
+AcDbPolyline
+ 90
+65
+ 70
+1
+ 10
+131.77342559983836
+ 20
+205.42099080218702
+ 10
+131.75849825252217
+ 20
+205.72484393720865
+ 10
+131.7138599690884
+ 20
+206.02577080043702
+ 10
+131.63994064060822
+ 20
+206.32087330167585
+ 10
+131.53745215062335
+ 20
+206.6073094425188
+ 10
+131.40738151931828
+ 20
+206.8823206863476
+ 10
+131.25098139797626
+ 20
+207.14325852454778
+ 10
+131.06975800526286
+ 20
+207.38760998309434
+ 10
+130.86545662151667
+ 20
+207.61302182386532
+ 10
+130.64004478074565
+ 20
+207.8173232076115
+ 10
+130.39569332219912
+ 20
+207.99854660032491
+ 10
+130.13475548399896
+ 20
+208.15494672166693
+ 10
+129.85974424017013
+ 20
+208.285017352972
+ 10
+129.5733080993272
+ 20
+208.38750584295687
+ 10
+129.27820559808836
+ 20
+208.46142517143704
+ 10
+128.97727873486
+ 20
+208.50606345487083
+ 10
+128.67342559983837
+ 20
+208.52099080218701
+ 10
+128.3695724648167
+ 20
+208.50606345487083
+ 10
+128.06864560158837
+ 20
+208.46142517143704
+ 10
+127.77354310034951
+ 20
+208.38750584295687
+ 10
+127.48710695950658
+ 20
+208.285017352972
+ 10
+127.21209571567776
+ 20
+208.15494672166693
+ 10
+126.95115787747758
+ 20
+207.99854660032491
+ 10
+126.70680641893105
+ 20
+207.8173232076115
+ 10
+126.48139457816005
+ 20
+207.61302182386532
+ 10
+126.27709319441387
+ 20
+207.3876099830943
+ 10
+126.09586980170046
+ 20
+207.14325852454778
+ 10
+125.93946968035846
+ 20
+206.8823206863476
+ 10
+125.80939904905337
+ 20
+206.6073094425188
+ 10
+125.7069105590685
+ 20
+206.32087330167585
+ 10
+125.63299123058835
+ 20
+206.02577080043702
+ 10
+125.58835294715455
+ 20
+205.72484393720865
+ 10
+125.57342559983836
+ 20
+205.42099080218702
+ 10
+125.58835294715455
+ 20
+205.1171376671654
+ 10
+125.63299123058835
+ 20
+204.81621080393703
+ 10
+125.7069105590685
+ 20
+204.5211083026982
+ 10
+125.80939904905337
+ 20
+204.23467216185523
+ 10
+125.93946968035846
+ 20
+203.95966091802643
+ 10
+126.09586980170046
+ 20
+203.69872307982627
+ 10
+126.27709319441387
+ 20
+203.45437162127973
+ 10
+126.48139457816005
+ 20
+203.22895978050872
+ 10
+126.70680641893105
+ 20
+203.02465839676253
+ 10
+126.95115787747758
+ 20
+202.84343500404913
+ 10
+127.21209571567776
+ 20
+202.6870348827071
+ 10
+127.48710695950658
+ 20
+202.55696425140204
+ 10
+127.77354310034951
+ 20
+202.45447576141717
+ 10
+128.06864560158837
+ 20
+202.380556432937
+ 10
+128.3695724648167
+ 20
+202.33591814950321
+ 10
+128.67342559983837
+ 20
+202.32099080218703
+ 10
+128.97727873486
+ 20
+202.33591814950321
+ 10
+129.27820559808836
+ 20
+202.380556432937
+ 10
+129.5733080993272
+ 20
+202.45447576141717
+ 10
+129.85974424017013
+ 20
+202.55696425140204
+ 10
+130.13475548399896
+ 20
+202.6870348827071
+ 10
+130.39569332219912
+ 20
+202.84343500404913
+ 10
+130.64004478074565
+ 20
+203.02465839676253
+ 10
+130.86545662151667
+ 20
+203.22895978050872
+ 10
+131.06975800526286
+ 20
+203.45437162127973
+ 10
+131.25098139797626
+ 20
+203.69872307982627
+ 10
+131.40738151931828
+ 20
+203.95966091802643
+ 10
+131.53745215062335
+ 20
+204.23467216185523
+ 10
+131.63994064060822
+ 20
+204.5211083026982
+ 10
+131.7138599690884
+ 20
+204.81621080393703
+ 10
+131.75849825252217
+ 20
+205.1171376671654
+ 10
+131.77342559983836
+ 20
+205.42099080218702
+  0
+LWPOLYLINE
+  5
+A9
+330
+17
+100
+AcDbEntity
+  8
+CUT
+100
+AcDbPolyline
+ 90
+65
+ 70
+1
+ 10
+93.93166018130363
+ 20
+212.37127126398553
+ 10
+93.91673283398744
+ 20
+212.67512439900716
+ 10
+93.87209455055364
+ 20
+212.97605126223553
+ 10
+93.79817522207348
+ 20
+213.27115376347436
+ 10
+93.69568673208862
+ 20
+213.55758990431733
+ 10
+93.56561610078353
+ 20
+213.83260114814613
+ 10
+93.40921597944153
+ 20
+214.0935389863463
+ 10
+93.22799258672812
+ 20
+214.33789044489285
+ 10
+93.02369120298194
+ 20
+214.56330228566384
+ 10
+92.79827936221093
+ 20
+214.76760366941002
+ 10
+92.5539279036644
+ 20
+214.94882706212343
+ 10
+92.29299006546422
+ 20
+215.10522718346544
+ 10
+92.01797882163541
+ 20
+215.23529781477052
+ 10
+91.73154268079246
+ 20
+215.33778630475538
+ 10
+91.43644017955363
+ 20
+215.41170563323556
+ 10
+91.13551331632527
+ 20
+215.45634391666934
+ 10
+90.83166018130363
+ 20
+215.47127126398553
+ 10
+90.52780704628199
+ 20
+215.45634391666934
+ 10
+90.22688018305364
+ 20
+215.41170563323556
+ 10
+89.9317776818148
+ 20
+215.33778630475538
+ 10
+89.64534154097186
+ 20
+215.23529781477052
+ 10
+89.37033029714304
+ 20
+215.10522718346544
+ 10
+89.10939245894286
+ 20
+214.94882706212343
+ 10
+88.86504100039633
+ 20
+214.76760366941002
+ 10
+88.63962915962533
+ 20
+214.56330228566384
+ 10
+88.43532777587914
+ 20
+214.33789044489282
+ 10
+88.25410438316574
+ 20
+214.0935389863463
+ 10
+88.09770426182374
+ 20
+213.83260114814613
+ 10
+87.96763363051865
+ 20
+213.55758990431733
+ 10
+87.86514514053378
+ 20
+213.27115376347436
+ 10
+87.79122581205363
+ 20
+212.97605126223553
+ 10
+87.74658752861983
+ 20
+212.67512439900716
+ 10
+87.73166018130364
+ 20
+212.37127126398553
+ 10
+87.74658752861983
+ 20
+212.0674181289639
+ 10
+87.79122581205363
+ 20
+211.76649126573554
+ 10
+87.86514514053378
+ 20
+211.4713887644967
+ 10
+87.96763363051865
+ 20
+211.18495262365374
+ 10
+88.09770426182374
+ 20
+210.90994137982494
+ 10
+88.25410438316574
+ 20
+210.64900354162478
+ 10
+88.43532777587914
+ 20
+210.40465208307825
+ 10
+88.63962915962533
+ 20
+210.17924024230723
+ 10
+88.86504100039633
+ 20
+209.97493885856105
+ 10
+89.10939245894286
+ 20
+209.79371546584764
+ 10
+89.37033029714304
+ 20
+209.63731534450562
+ 10
+89.64534154097186
+ 20
+209.50724471320055
+ 10
+89.9317776818148
+ 20
+209.40475622321568
+ 10
+90.22688018305364
+ 20
+209.3308368947355
+ 10
+90.52780704628199
+ 20
+209.28619861130173
+ 10
+90.83166018130363
+ 20
+209.27127126398554
+ 10
+91.13551331632527
+ 20
+209.28619861130173
+ 10
+91.43644017955363
+ 20
+209.3308368947355
+ 10
+91.73154268079247
+ 20
+209.40475622321568
+ 10
+92.01797882163541
+ 20
+209.50724471320055
+ 10
+92.29299006546422
+ 20
+209.63731534450562
+ 10
+92.5539279036644
+ 20
+209.79371546584764
+ 10
+92.79827936221093
+ 20
+209.97493885856105
+ 10
+93.02369120298194
+ 20
+210.17924024230723
+ 10
+93.22799258672812
+ 20
+210.40465208307825
+ 10
+93.40921597944153
+ 20
+210.64900354162478
+ 10
+93.56561610078353
+ 20
+210.90994137982494
+ 10
+93.69568673208862
+ 20
+211.18495262365374
+ 10
+93.79817522207348
+ 20
+211.4713887644967
+ 10
+93.87209455055364
+ 20
+211.76649126573554
+ 10
+93.91673283398744
+ 20
+212.0674181289639
+ 10
+93.93166018130363
+ 20
+212.37127126398553
+  0
+LWPOLYLINE
+  5
+AA
+330
+17
+100
+AcDbEntity
+  8
+CUT
+100
+AcDbPolyline
+ 90
+65
+ 70
+1
+ 10
+193.51827410625395
+ 20
+25.012504950465516
+ 10
+193.47363582282017
+ 20
+25.313431813693878
+ 10
+193.39971649434
+ 20
+25.60853431493271
+ 10
+193.29722800435513
+ 20
+25.89497045577566
+ 10
+193.16715737305006
+ 20
+26.169981699604474
+ 10
+193.01075725170804
+ 20
+26.430919537804645
+ 10
+192.82953385899464
+ 20
+26.67527099635118
+ 10
+192.62523247524845
+ 20
+26.900682837122176
+ 10
+192.39982063447746
+ 20
+27.104984220868364
+ 10
+192.1554691759309
+ 20
+27.28620761358177
+ 10
+191.89453133773074
+ 20
+27.44260773492378
+ 10
+191.61952009390194
+ 20
+27.572678366228867
+ 10
+191.33308395305897
+ 20
+27.67516685621373
+ 10
+191.03798145182014
+ 20
+27.749086184693894
+ 10
+190.73705458859177
+ 20
+27.79372446812769
+ 10
+190.43320145357015
+ 20
+27.80865181544388
+ 10
+190.12934831854852
+ 20
+27.79372446812769
+ 10
+189.82842145532015
+ 20
+27.749086184693894
+ 10
+189.53331895408132
+ 20
+27.67516685621373
+ 10
+189.24688281323836
+ 20
+27.572678366228867
+ 10
+188.97187156940956
+ 20
+27.44260773492378
+ 10
+188.7109337312094
+ 20
+27.28620761358177
+ 10
+188.46658227266283
+ 20
+27.104984220868364
+ 10
+188.24117043189185
+ 20
+26.900682837122176
+ 10
+188.03686904814566
+ 20
+26.67527099635118
+ 10
+187.85564565543226
+ 20
+26.430919537804645
+ 10
+187.69924553409024
+ 20
+26.16998169960447
+ 10
+187.56917490278516
+ 20
+25.894970455775656
+ 10
+187.4666864128003
+ 20
+25.60853431493271
+ 10
+187.39276708432013
+ 20
+25.313431813693878
+ 10
+187.34812880088634
+ 20
+25.012504950465516
+ 10
+187.33320145357015
+ 20
+24.70865181544388
+ 10
+187.34812880088634
+ 20
+24.40479868042224
+ 10
+187.39276708432013
+ 20
+24.10387181719388
+ 10
+187.4666864128003
+ 20
+23.808769315955047
+ 10
+187.56917490278516
+ 20
+23.522333175112102
+ 10
+187.69924553409024
+ 20
+23.247321931283285
+ 10
+187.85564565543226
+ 20
+22.986384093083114
+ 10
+188.03686904814566
+ 20
+22.742032634536578
+ 10
+188.24117043189185
+ 20
+22.516620793765583
+ 10
+188.46658227266286
+ 20
+22.312319410019395
+ 10
+188.7109337312094
+ 20
+22.13109601730599
+ 10
+188.97187156940956
+ 20
+21.97469589596398
+ 10
+189.24688281323836
+ 20
+21.84462526465889
+ 10
+189.53331895408132
+ 20
+21.74213677467403
+ 10
+189.82842145532015
+ 20
+21.668217446193864
+ 10
+190.12934831854852
+ 20
+21.62357916276007
+ 10
+190.43320145357015
+ 20
+21.608651815443878
+ 10
+190.73705458859177
+ 20
+21.62357916276007
+ 10
+191.03798145182014
+ 20
+21.668217446193864
+ 10
+191.33308395305897
+ 20
+21.74213677467403
+ 10
+191.61952009390194
+ 20
+21.84462526465889
+ 10
+191.89453133773074
+ 20
+21.97469589596398
+ 10
+192.1554691759309
+ 20
+22.13109601730599
+ 10
+192.39982063447744
+ 20
+22.312319410019395
+ 10
+192.62523247524845
+ 20
+22.516620793765583
+ 10
+192.82953385899464
+ 20
+22.742032634536578
+ 10
+193.01075725170804
+ 20
+22.986384093083114
+ 10
+193.16715737305006
+ 20
+23.247321931283288
+ 10
+193.29722800435513
+ 20
+23.522333175112102
+ 10
+193.39971649434
+ 20
+23.808769315955047
+ 10
+193.47363582282017
+ 20
+24.10387181719388
+ 10
+193.51827410625395
+ 20
+24.404798680422243
+ 10
+193.53320145357014
+ 20
+24.70865181544388
+ 10
+193.51827410625395
+ 20
+25.012504950465516
+  0
+LWPOLYLINE
+  5
+AB
+330
+17
+100
+AcDbEntity
+  8
+CUT
+100
+AcDbPolyline
+ 90
+65
+ 70
+1
+ 10
+197.99442336187423
+ 20
+29.57254933542388
+ 10
+197.97949601455804
+ 20
+29.876402470445516
+ 10
+197.93485773112425
+ 20
+30.177329333673878
+ 10
+197.86093840264408
+ 20
+30.47243183491271
+ 10
+197.75844991265922
+ 20
+30.75886797575566
+ 10
+197.62837928135414
+ 20
+31.033879219584474
+ 10
+197.47197916001213
+ 20
+31.294817057784645
+ 10
+197.29075576729872
+ 20
+31.53916851633118
+ 10
+197.08645438355254
+ 20
+31.764580357102176
+ 10
+196.86104254278155
+ 20
+31.968881740848364
+ 10
+196.616691084235
+ 20
+32.15010513356177
+ 10
+196.35575324603482
+ 20
+32.30650525490378
+ 10
+196.08074200220602
+ 20
+32.43657588620887
+ 10
+195.79430586136306
+ 20
+32.53906437619373
+ 10
+195.49920336012423
+ 20
+32.612983704673894
+ 10
+195.19827649689586
+ 20
+32.65762198810769
+ 10
+194.89442336187423
+ 20
+32.67254933542388
+ 10
+194.5905702268526
+ 20
+32.65762198810769
+ 10
+194.28964336362424
+ 20
+32.612983704673894
+ 10
+193.9945408623854
+ 20
+32.53906437619373
+ 10
+193.70810472154244
+ 20
+32.43657588620887
+ 10
+193.43309347771364
+ 20
+32.30650525490378
+ 10
+193.17215563951348
+ 20
+32.15010513356177
+ 10
+192.92780418096692
+ 20
+31.968881740848364
+ 10
+192.70239234019593
+ 20
+31.764580357102176
+ 10
+192.49809095644974
+ 20
+31.53916851633118
+ 10
+192.31686756373634
+ 20
+31.294817057784645
+ 10
+192.16046744239432
+ 20
+31.03387921958447
+ 10
+192.03039681108925
+ 20
+30.758867975755656
+ 10
+191.92790832110438
+ 20
+30.47243183491271
+ 10
+191.8539889926242
+ 20
+30.177329333673878
+ 10
+191.80935070919043
+ 20
+29.876402470445516
+ 10
+191.79442336187424
+ 20
+29.57254933542388
+ 10
+191.80935070919043
+ 20
+29.26869620040224
+ 10
+191.8539889926242
+ 20
+28.96776933717388
+ 10
+191.92790832110438
+ 20
+28.672666835935047
+ 10
+192.03039681108925
+ 20
+28.386230695092102
+ 10
+192.16046744239432
+ 20
+28.111219451263285
+ 10
+192.31686756373634
+ 20
+27.850281613063114
+ 10
+192.49809095644974
+ 20
+27.605930154516578
+ 10
+192.70239234019593
+ 20
+27.380518313745583
+ 10
+192.92780418096694
+ 20
+27.176216929999395
+ 10
+193.17215563951348
+ 20
+26.99499353728599
+ 10
+193.43309347771364
+ 20
+26.83859341594398
+ 10
+193.70810472154244
+ 20
+26.70852278463889
+ 10
+193.9945408623854
+ 20
+26.60603429465403
+ 10
+194.28964336362424
+ 20
+26.532114966173864
+ 10
+194.5905702268526
+ 20
+26.48747668274007
+ 10
+194.89442336187423
+ 20
+26.472549335423878
+ 10
+195.19827649689586
+ 20
+26.48747668274007
+ 10
+195.49920336012423
+ 20
+26.532114966173864
+ 10
+195.79430586136306
+ 20
+26.60603429465403
+ 10
+196.08074200220602
+ 20
+26.70852278463889
+ 10
+196.35575324603482
+ 20
+26.83859341594398
+ 10
+196.616691084235
+ 20
+26.99499353728599
+ 10
+196.86104254278152
+ 20
+27.176216929999395
+ 10
+197.08645438355254
+ 20
+27.380518313745583
+ 10
+197.29075576729872
+ 20
+27.605930154516578
+ 10
+197.47197916001213
+ 20
+27.850281613063114
+ 10
+197.62837928135414
+ 20
+28.11121945126329
+ 10
+197.75844991265922
+ 20
+28.386230695092102
+ 10
+197.86093840264408
+ 20
+28.672666835935047
+ 10
+197.93485773112425
+ 20
+28.96776933717388
+ 10
+197.97949601455804
+ 20
+29.268696200402243
+ 10
+197.99442336187423
+ 20
+29.57254933542388
+  0
+LWPOLYLINE
+  5
+AC
+330
+17
+100
+AcDbEntity
+  8
+CUT
+100
+AcDbPolyline
+ 90
+65
+ 70
+1
+ 10
+256.06716808794187
+ 20
+93.43214512940267
+ 10
+256.0546483772896
+ 20
+93.68698969425952
+ 10
+256.01720981699026
+ 20
+93.93937996664461
+ 10
+255.95521296084564
+ 20
+94.18688529026427
+ 10
+255.86925487247126
+ 20
+94.42712205355191
+ 10
+255.76016337524763
+ 20
+94.65777664515026
+ 10
+255.62898907992852
+ 20
+94.87662773525363
+ 10
+255.476995266685
+ 20
+95.08156766822815
+ 10
+255.30564571902693
+ 20
+95.2706227604877
+ 10
+255.1165906267674
+ 20
+95.4419723081458
+ 10
+254.91165069379286
+ 20
+95.59396612138929
+ 10
+254.69279960368948
+ 20
+95.7251404167084
+ 10
+254.46214501209113
+ 20
+95.83423191393202
+ 10
+254.2219082488035
+ 20
+95.92019000230641
+ 10
+253.97440292518382
+ 20
+95.98218685845107
+ 10
+253.72201265279875
+ 20
+96.01962541875038
+ 10
+253.4671680879419
+ 20
+96.03214512940266
+ 10
+253.21232352308505
+ 20
+96.01962541875038
+ 10
+252.95993325069998
+ 20
+95.98218685845107
+ 10
+252.71242792708028
+ 20
+95.92019000230641
+ 10
+252.47219116379267
+ 20
+95.83423191393202
+ 10
+252.2415365721943
+ 20
+95.7251404167084
+ 10
+252.02268548209094
+ 20
+95.59396612138929
+ 10
+251.8177455491164
+ 20
+95.44197230814578
+ 10
+251.62869045685687
+ 20
+95.2706227604877
+ 10
+251.4573409091988
+ 20
+95.08156766822815
+ 10
+251.30534709595528
+ 20
+94.87662773525363
+ 10
+251.17417280063617
+ 20
+94.65777664515026
+ 10
+251.06508130341254
+ 20
+94.4271220535519
+ 10
+250.97912321503816
+ 20
+94.18688529026427
+ 10
+250.9171263588935
+ 20
+93.93937996664461
+ 10
+250.87968779859418
+ 20
+93.68698969425952
+ 10
+250.8671680879419
+ 20
+93.43214512940267
+ 10
+250.87968779859418
+ 20
+93.17730056454582
+ 10
+250.9171263588935
+ 20
+92.92491029216073
+ 10
+250.97912321503816
+ 20
+92.67740496854107
+ 10
+251.06508130341254
+ 20
+92.43716820525344
+ 10
+251.17417280063617
+ 20
+92.20651361365508
+ 10
+251.30534709595528
+ 20
+91.9876625235517
+ 10
+251.4573409091988
+ 20
+91.7827225905772
+ 10
+251.62869045685687
+ 20
+91.59366749831764
+ 10
+251.8177455491164
+ 20
+91.42231795065955
+ 10
+252.02268548209094
+ 20
+91.27032413741605
+ 10
+252.2415365721943
+ 20
+91.13914984209694
+ 10
+252.47219116379267
+ 20
+91.03005834487332
+ 10
+252.71242792708028
+ 20
+90.94410025649893
+ 10
+252.95993325069998
+ 20
+90.88210340035427
+ 10
+253.21232352308505
+ 20
+90.84466484005496
+ 10
+253.4671680879419
+ 20
+90.83214512940268
+ 10
+253.72201265279875
+ 20
+90.84466484005496
+ 10
+253.97440292518382
+ 20
+90.88210340035427
+ 10
+254.22190824880352
+ 20
+90.94410025649893
+ 10
+254.46214501209113
+ 20
+91.03005834487332
+ 10
+254.6927996036895
+ 20
+91.13914984209694
+ 10
+254.91165069379286
+ 20
+91.27032413741605
+ 10
+255.1165906267674
+ 20
+91.42231795065955
+ 10
+255.30564571902693
+ 20
+91.59366749831764
+ 10
+255.476995266685
+ 20
+91.7827225905772
+ 10
+255.62898907992852
+ 20
+91.9876625235517
+ 10
+255.76016337524763
+ 20
+92.20651361365508
+ 10
+255.86925487247126
+ 20
+92.43716820525344
+ 10
+255.95521296084564
+ 20
+92.67740496854107
+ 10
+256.01720981699026
+ 20
+92.92491029216073
+ 10
+256.0546483772896
+ 20
+93.17730056454582
+ 10
+256.06716808794187
+ 20
+93.43214512940267
+  0
+LWPOLYLINE
+  5
+AD
+330
+17
+100
+AcDbEntity
+  8
+CUT
+100
+AcDbPolyline
+ 90
+65
+ 70
+1
+ 10
+195.2669439416737
+ 20
+94.87980614265955
+ 10
+195.25442423102143
+ 20
+95.1346507075164
+ 10
+195.2169856707221
+ 20
+95.38704097990149
+ 10
+195.15498881457745
+ 20
+95.63454630352115
+ 10
+195.06903072620307
+ 20
+95.87478306680879
+ 10
+194.95993922897944
+ 20
+96.10543765840714
+ 10
+194.82876493366032
+ 20
+96.32428874851051
+ 10
+194.67677112041682
+ 20
+96.52922868148502
+ 10
+194.50542157275873
+ 20
+96.71828377374457
+ 10
+194.3163664804992
+ 20
+96.88963332140266
+ 10
+194.11142654752467
+ 20
+97.04162713464616
+ 10
+193.8925754574213
+ 20
+97.17280142996528
+ 10
+193.66192086582294
+ 20
+97.28189292718889
+ 10
+193.4216841025353
+ 20
+97.36785101556329
+ 10
+193.17417877891563
+ 20
+97.42984787170795
+ 10
+192.92178850653056
+ 20
+97.46728643200726
+ 10
+192.6669439416737
+ 20
+97.47980614265954
+ 10
+192.41209937681685
+ 20
+97.46728643200726
+ 10
+192.15970910443178
+ 20
+97.42984787170795
+ 10
+191.9122037808121
+ 20
+97.36785101556329
+ 10
+191.67196701752448
+ 20
+97.28189292718889
+ 10
+191.4413124259261
+ 20
+97.17280142996528
+ 10
+191.22246133582274
+ 20
+97.04162713464616
+ 10
+191.01752140284822
+ 20
+96.88963332140266
+ 10
+190.82846631058868
+ 20
+96.71828377374457
+ 10
+190.6571167629306
+ 20
+96.52922868148502
+ 10
+190.5051229496871
+ 20
+96.32428874851051
+ 10
+190.37394865436798
+ 20
+96.10543765840714
+ 10
+190.26485715714435
+ 20
+95.87478306680877
+ 10
+190.17889906876997
+ 20
+95.63454630352115
+ 10
+190.11690221262532
+ 20
+95.38704097990149
+ 10
+190.07946365232598
+ 20
+95.1346507075164
+ 10
+190.0669439416737
+ 20
+94.87980614265955
+ 10
+190.07946365232598
+ 20
+94.6249615778027
+ 10
+190.11690221262532
+ 20
+94.37257130541761
+ 10
+190.17889906876997
+ 20
+94.12506598179795
+ 10
+190.26485715714435
+ 20
+93.88482921851032
+ 10
+190.37394865436798
+ 20
+93.65417462691195
+ 10
+190.5051229496871
+ 20
+93.43532353680858
+ 10
+190.6571167629306
+ 20
+93.23038360383407
+ 10
+190.82846631058868
+ 20
+93.04132851157452
+ 10
+191.01752140284822
+ 20
+92.86997896391642
+ 10
+191.22246133582274
+ 20
+92.71798515067293
+ 10
+191.4413124259261
+ 20
+92.58681085535382
+ 10
+191.67196701752448
+ 20
+92.4777193581302
+ 10
+191.9122037808121
+ 20
+92.3917612697558
+ 10
+192.15970910443178
+ 20
+92.32976441361114
+ 10
+192.41209937681685
+ 20
+92.29232585331184
+ 10
+192.6669439416737
+ 20
+92.27980614265955
+ 10
+192.92178850653056
+ 20
+92.29232585331184
+ 10
+193.17417877891563
+ 20
+92.32976441361114
+ 10
+193.42168410253532
+ 20
+92.3917612697558
+ 10
+193.66192086582294
+ 20
+92.4777193581302
+ 10
+193.89257545742132
+ 20
+92.58681085535382
+ 10
+194.11142654752467
+ 20
+92.71798515067293
+ 10
+194.3163664804992
+ 20
+92.86997896391642
+ 10
+194.50542157275873
+ 20
+93.04132851157452
+ 10
+194.67677112041682
+ 20
+93.23038360383407
+ 10
+194.82876493366032
+ 20
+93.43532353680858
+ 10
+194.95993922897944
+ 20
+93.65417462691195
+ 10
+195.06903072620307
+ 20
+93.88482921851032
+ 10
+195.15498881457745
+ 20
+94.12506598179795
+ 10
+195.2169856707221
+ 20
+94.37257130541761
+ 10
+195.25442423102143
+ 20
+94.6249615778027
+ 10
+195.2669439416737
+ 20
+94.87980614265955
+  0
+LWPOLYLINE
+  5
+AE
+330
+17
+100
+AcDbEntity
+  8
+CUT
+100
+AcDbPolyline
+ 90
+65
+ 70
+1
+ 10
+192.4602597316914
+ 20
+100.59170946252182
+ 10
+192.4453323843752
+ 20
+100.89556259754346
+ 10
+192.40069410094142
+ 20
+101.19648946077182
+ 10
+192.32677477246125
+ 20
+101.49159196201066
+ 10
+192.22428628247638
+ 20
+101.7780281028536
+ 10
+192.0942156511713
+ 20
+102.05303934668241
+ 10
+191.9378155298293
+ 20
+102.31397718488259
+ 10
+191.7565921371159
+ 20
+102.55832864342912
+ 10
+191.5522907533697
+ 20
+102.78374048420012
+ 10
+191.32687891259872
+ 20
+102.98804186794631
+ 10
+191.08252745405215
+ 20
+103.16926526065971
+ 10
+190.821589615852
+ 20
+103.32566538200172
+ 10
+190.5465783720232
+ 20
+103.4557360133068
+ 10
+190.26014223118023
+ 20
+103.55822450329167
+ 10
+189.9650397299414
+ 20
+103.63214383177183
+ 10
+189.66411286671303
+ 20
+103.67678211520563
+ 10
+189.3602597316914
+ 20
+103.69170946252181
+ 10
+189.05640659666977
+ 20
+103.67678211520563
+ 10
+188.7554797334414
+ 20
+103.63214383177183
+ 10
+188.46037723220257
+ 20
+103.55822450329167
+ 10
+188.1739410913596
+ 20
+103.4557360133068
+ 10
+187.8989298475308
+ 20
+103.32566538200172
+ 10
+187.63799200933065
+ 20
+103.16926526065971
+ 10
+187.39364055078408
+ 20
+102.98804186794631
+ 10
+187.1682287100131
+ 20
+102.78374048420012
+ 10
+186.9639273262669
+ 20
+102.55832864342912
+ 10
+186.7827039335535
+ 20
+102.31397718488259
+ 10
+186.6263038122115
+ 20
+102.05303934668241
+ 10
+186.49623318090642
+ 20
+101.7780281028536
+ 10
+186.39374469092155
+ 20
+101.49159196201066
+ 10
+186.31982536244138
+ 20
+101.19648946077182
+ 10
+186.2751870790076
+ 20
+100.89556259754346
+ 10
+186.2602597316914
+ 20
+100.59170946252182
+ 10
+186.2751870790076
+ 20
+100.28785632750018
+ 10
+186.31982536244138
+ 20
+99.98692946427182
+ 10
+186.39374469092155
+ 20
+99.69182696303298
+ 10
+186.49623318090642
+ 20
+99.40539082219004
+ 10
+186.6263038122115
+ 20
+99.13037957836123
+ 10
+186.7827039335535
+ 20
+98.86944174016105
+ 10
+186.9639273262669
+ 20
+98.62509028161452
+ 10
+187.1682287100131
+ 20
+98.39967844084352
+ 10
+187.3936405507841
+ 20
+98.19537705709733
+ 10
+187.63799200933065
+ 20
+98.01415366438393
+ 10
+187.8989298475308
+ 20
+97.85775354304192
+ 10
+188.1739410913596
+ 20
+97.72768291173684
+ 10
+188.46037723220257
+ 20
+97.62519442175197
+ 10
+188.7554797334414
+ 20
+97.55127509327181
+ 10
+189.05640659666977
+ 20
+97.50663680983801
+ 10
+189.3602597316914
+ 20
+97.49170946252183
+ 10
+189.66411286671303
+ 20
+97.50663680983801
+ 10
+189.9650397299414
+ 20
+97.55127509327181
+ 10
+190.26014223118023
+ 20
+97.62519442175197
+ 10
+190.5465783720232
+ 20
+97.72768291173684
+ 10
+190.821589615852
+ 20
+97.85775354304192
+ 10
+191.08252745405215
+ 20
+98.01415366438393
+ 10
+191.3268789125987
+ 20
+98.19537705709733
+ 10
+191.5522907533697
+ 20
+98.39967844084352
+ 10
+191.7565921371159
+ 20
+98.62509028161452
+ 10
+191.9378155298293
+ 20
+98.86944174016105
+ 10
+192.0942156511713
+ 20
+99.13037957836123
+ 10
+192.22428628247638
+ 20
+99.40539082219004
+ 10
+192.32677477246125
+ 20
+99.69182696303298
+ 10
+192.40069410094142
+ 20
+99.98692946427182
+ 10
+192.4453323843752
+ 20
+100.28785632750018
+ 10
+192.4602597316914
+ 20
+100.59170946252182
+  0
+LWPOLYLINE
+  5
+AF
+330
+17
+100
+AcDbEntity
+  8
+CUT
+100
+AcDbPolyline
+ 90
+65
+ 70
+1
+ 10
+161.59018477075603
+ 20
+192.75039847242329
+ 10
+161.57766506010375
+ 20
+193.00524303728014
+ 10
+161.54022649980442
+ 20
+193.2576333096652
+ 10
+161.47822964365977
+ 20
+193.5051386332849
+ 10
+161.39227155528536
+ 20
+193.7453753965725
+ 10
+161.28318005806176
+ 20
+193.9760299881709
+ 10
+161.15200576274265
+ 20
+194.19488107827425
+ 10
+161.00001194949914
+ 20
+194.39982101124878
+ 10
+160.82866240184106
+ 20
+194.5888761035083
+ 10
+160.63960730958152
+ 20
+194.7602256511664
+ 10
+160.434667376607
+ 20
+194.9122194644099
+ 10
+160.2158162865036
+ 20
+195.043393759729
+ 10
+159.98516169490526
+ 20
+195.15248525695262
+ 10
+159.74492493161765
+ 20
+195.23844334532703
+ 10
+159.49741960799795
+ 20
+195.30044020147167
+ 10
+159.24502933561288
+ 20
+195.337878761771
+ 10
+158.99018477075603
+ 20
+195.35039847242328
+ 10
+158.73534020589918
+ 20
+195.337878761771
+ 10
+158.4829499335141
+ 20
+195.30044020147167
+ 10
+158.23544460989442
+ 20
+195.23844334532703
+ 10
+157.9952078466068
+ 20
+195.15248525695262
+ 10
+157.76455325500842
+ 20
+195.043393759729
+ 10
+157.54570216490507
+ 20
+194.9122194644099
+ 10
+157.34076223193054
+ 20
+194.7602256511664
+ 10
+157.151707139671
+ 20
+194.5888761035083
+ 10
+156.98035759201292
+ 20
+194.39982101124878
+ 10
+156.82836377876941
+ 20
+194.19488107827425
+ 10
+156.6971894834503
+ 20
+193.97602998817086
+ 10
+156.58809798622667
+ 20
+193.7453753965725
+ 10
+156.5021398978523
+ 20
+193.5051386332849
+ 10
+156.44014304170764
+ 20
+193.2576333096652
+ 10
+156.4027044814083
+ 20
+193.00524303728014
+ 10
+156.39018477075604
+ 20
+192.75039847242329
+ 10
+156.4027044814083
+ 20
+192.49555390756643
+ 10
+156.44014304170764
+ 20
+192.24316363518136
+ 10
+156.5021398978523
+ 20
+191.99565831156167
+ 10
+156.58809798622667
+ 20
+191.75542154827406
+ 10
+156.6971894834503
+ 20
+191.52476695667568
+ 10
+156.82836377876941
+ 20
+191.30591586657232
+ 10
+156.98035759201292
+ 20
+191.1009759335978
+ 10
+157.151707139671
+ 20
+190.91192084133826
+ 10
+157.34076223193054
+ 20
+190.74057129368018
+ 10
+157.54570216490507
+ 20
+190.58857748043667
+ 10
+157.76455325500842
+ 20
+190.45740318511756
+ 10
+157.9952078466068
+ 20
+190.34831168789393
+ 10
+158.23544460989442
+ 20
+190.26235359951954
+ 10
+158.4829499335141
+ 20
+190.2003567433749
+ 10
+158.73534020589918
+ 20
+190.16291818307556
+ 10
+158.99018477075603
+ 20
+190.1503984724233
+ 10
+159.24502933561288
+ 20
+190.16291818307556
+ 10
+159.49741960799795
+ 20
+190.2003567433749
+ 10
+159.74492493161765
+ 20
+190.26235359951954
+ 10
+159.98516169490526
+ 20
+190.34831168789393
+ 10
+160.21581628650364
+ 20
+190.45740318511756
+ 10
+160.434667376607
+ 20
+190.58857748043667
+ 10
+160.63960730958152
+ 20
+190.74057129368018
+ 10
+160.82866240184106
+ 20
+190.91192084133826
+ 10
+161.00001194949914
+ 20
+191.1009759335978
+ 10
+161.15200576274265
+ 20
+191.30591586657232
+ 10
+161.28318005806176
+ 20
+191.5247669566757
+ 10
+161.3922715552854
+ 20
+191.75542154827406
+ 10
+161.47822964365977
+ 20
+191.99565831156167
+ 10
+161.54022649980442
+ 20
+192.24316363518136
+ 10
+161.57766506010375
+ 20
+192.49555390756643
+ 10
+161.59018477075603
+ 20
+192.75039847242329
+  0
+LWPOLYLINE
+  5
+B0
+330
+17
+100
+AcDbEntity
+  8
+CUT
+100
+AcDbPolyline
+ 90
+65
+ 70
+1
+ 10
+135.08010980982067
+ 20
+199.70908748232475
+ 10
+135.06518246250448
+ 20
+200.01294061734637
+ 10
+135.0205441790707
+ 20
+200.31386748057474
+ 10
+134.94662485059052
+ 20
+200.60896998181357
+ 10
+134.84413636060566
+ 20
+200.89540612265654
+ 10
+134.7140657293006
+ 20
+201.17041736648534
+ 10
+134.55766560795857
+ 20
+201.4313552046855
+ 10
+134.37644221524516
+ 20
+201.67570666323206
+ 10
+134.17214083149898
+ 20
+201.90111850400305
+ 10
+133.946728990728
+ 20
+202.10541988774924
+ 10
+133.70237753218143
+ 20
+202.28664328046264
+ 10
+133.44143969398127
+ 20
+202.44304340180466
+ 10
+133.16642845015247
+ 20
+202.57311403310973
+ 10
+132.8799923093095
+ 20
+202.6756025230946
+ 10
+132.58488980807067
+ 20
+202.74952185157477
+ 10
+132.2839629448423
+ 20
+202.79416013500855
+ 10
+131.98010980982068
+ 20
+202.80908748232474
+ 10
+131.67625667479905
+ 20
+202.79416013500855
+ 10
+131.37532981157068
+ 20
+202.74952185157477
+ 10
+131.08022731033185
+ 20
+202.6756025230946
+ 10
+130.79379116948888
+ 20
+202.57311403310973
+ 10
+130.51877992566008
+ 20
+202.44304340180466
+ 10
+130.2578420874599
+ 20
+202.28664328046264
+ 10
+130.01349062891336
+ 20
+202.10541988774924
+ 10
+129.78807878814237
+ 20
+201.90111850400305
+ 10
+129.5837774043962
+ 20
+201.67570666323203
+ 10
+129.40255401168278
+ 20
+201.4313552046855
+ 10
+129.24615389034076
+ 20
+201.17041736648534
+ 10
+129.1160832590357
+ 20
+200.89540612265654
+ 10
+129.01359476905083
+ 20
+200.60896998181357
+ 10
+128.93967544057065
+ 20
+200.31386748057474
+ 10
+128.89503715713687
+ 20
+200.01294061734637
+ 10
+128.88010980982068
+ 20
+199.70908748232475
+ 10
+128.89503715713687
+ 20
+199.40523434730312
+ 10
+128.93967544057065
+ 20
+199.10430748407475
+ 10
+129.01359476905083
+ 20
+198.80920498283592
+ 10
+129.1160832590357
+ 20
+198.52276884199296
+ 10
+129.24615389034076
+ 20
+198.24775759816416
+ 10
+129.40255401168278
+ 20
+197.986819759964
+ 10
+129.5837774043962
+ 20
+197.74246830141746
+ 10
+129.78807878814237
+ 20
+197.51705646064644
+ 10
+130.01349062891336
+ 20
+197.31275507690026
+ 10
+130.2578420874599
+ 20
+197.13153168418685
+ 10
+130.51877992566008
+ 20
+196.97513156284484
+ 10
+130.79379116948888
+ 20
+196.84506093153976
+ 10
+131.08022731033185
+ 20
+196.7425724415549
+ 10
+131.37532981157068
+ 20
+196.66865311307473
+ 10
+131.67625667479905
+ 20
+196.62401482964094
+ 10
+131.98010980982068
+ 20
+196.60908748232475
+ 10
+132.2839629448423
+ 20
+196.62401482964094
+ 10
+132.58488980807067
+ 20
+196.66865311307473
+ 10
+132.8799923093095
+ 20
+196.7425724415549
+ 10
+133.16642845015247
+ 20
+196.84506093153976
+ 10
+133.44143969398127
+ 20
+196.97513156284484
+ 10
+133.70237753218143
+ 20
+197.13153168418685
+ 10
+133.94672899072796
+ 20
+197.31275507690026
+ 10
+134.17214083149898
+ 20
+197.51705646064644
+ 10
+134.37644221524516
+ 20
+197.74246830141746
+ 10
+134.55766560795857
+ 20
+197.986819759964
+ 10
+134.7140657293006
+ 20
+198.24775759816416
+ 10
+134.84413636060566
+ 20
+198.52276884199296
+ 10
+134.94662485059052
+ 20
+198.80920498283592
+ 10
+135.0205441790707
+ 20
+199.10430748407475
+ 10
+135.06518246250448
+ 20
+199.40523434730312
+ 10
+135.08010980982067
+ 20
+199.70908748232475
+  0
+LWPOLYLINE
+  5
+B1
+330
+17
+100
+AcDbEntity
+  8
+CUT
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+206.99018477075603
+ 20
+130.75039847242329
+ 10
+242.59018477075603
+ 20
+130.75039847242329
+ 10
+242.59018477075603
+ 20
+208.25039847242329
+ 10
+206.99018477075603
+ 20
+208.25039847242329
+ 10
+206.99018477075603
+ 20
+130.75039847242329
+  0
+LWPOLYLINE
+  5
+B2
+330
+17
+100
+AcDbEntity
+  8
+CUT
+100
+AcDbPolyline
+ 90
+97
+ 70
+1
+ 10
+221.53200982809796
+ 20
+118.63797657951964
+ 10
+221.459524677498
+ 20
+119.07701266213296
+ 10
+221.3584803895217
+ 20
+119.51036797912043
+ 10
+221.22930965132275
+ 20
+119.93618683648478
+ 10
+221.07256559183278
+ 20
+120.3526458125059
+ 10
+220.88891941317831
+ 20
+120.7579615659125
+ 10
+220.67915751649022
+ 20
+121.15039847242329
+ 10
+220.44417813441333
+ 20
+121.52827605695659
+ 10
+220.18498748473644
+ 20
+121.88997618968259
+ 10
+219.9026954616131
+ 20
+122.23395001510376
+ 10
+219.59851088282457
+ 20
+122.55872458449181
+ 10
+219.2737363134365
+ 20
+122.86290916328034
+ 10
+218.92976248801534
+ 20
+123.14520118640368
+ 10
+218.56806235528933
+ 20
+123.40439183608059
+ 10
+218.19018477075605
+ 20
+123.63937121815746
+ 10
+217.79774786424525
+ 20
+123.84913311484557
+ 10
+217.39243211083866
+ 20
+124.03277929350004
+ 10
+216.97597313481754
+ 20
+124.18952335299001
+ 10
+216.55015427745317
+ 20
+124.31869409118895
+ 10
+216.1167989604657
+ 20
+124.41973837916525
+ 10
+215.6777628778524
+ 20
+124.4922235297652
+ 10
+215.23492604952102
+ 20
+124.5358391504458
+ 10
+214.79018477075604
+ 20
+124.55039847242328
+ 10
+214.34544349199106
+ 20
+124.5358391504458
+ 10
+213.9026066636597
+ 20
+124.4922235297652
+ 10
+213.46357058104635
+ 20
+124.41973837916525
+ 10
+213.0302152640589
+ 20
+124.31869409118895
+ 10
+212.60439640669455
+ 20
+124.18952335299001
+ 10
+212.18793743067343
+ 20
+124.03277929350003
+ 10
+211.78262167726683
+ 20
+123.84913311484557
+ 10
+211.39018477075604
+ 20
+123.63937121815746
+ 10
+211.01230718622273
+ 20
+123.40439183608059
+ 10
+210.65060705349674
+ 20
+123.14520118640368
+ 10
+210.30663322807558
+ 20
+122.86290916328034
+ 10
+209.9818586586875
+ 20
+122.5587245844918
+ 10
+209.677674079899
+ 20
+122.23395001510376
+ 10
+209.39538205677565
+ 20
+121.88997618968259
+ 10
+209.13619140709872
+ 20
+121.52827605695659
+ 10
+208.90121202502186
+ 20
+121.15039847242328
+ 10
+208.69145012833377
+ 20
+120.7579615659125
+ 10
+208.5078039496793
+ 20
+120.3526458125059
+ 10
+208.35105989018933
+ 20
+119.93618683648478
+ 10
+208.22188915199038
+ 20
+119.51036797912042
+ 10
+208.12084486401406
+ 20
+119.07701266213296
+ 10
+208.04835971341413
+ 20
+118.63797657951963
+ 10
+208.00474409273355
+ 20
+118.19513975118825
+ 10
+207.99018477075603
+ 20
+117.75039847242329
+ 10
+208.00474409273355
+ 20
+117.3056571936583
+ 10
+208.04835971341413
+ 20
+116.86282036532693
+ 10
+208.1208448640141
+ 20
+116.42378428271361
+ 10
+208.22188915199038
+ 20
+115.99042896572614
+ 10
+208.35105989018933
+ 20
+115.56461010836179
+ 10
+208.5078039496793
+ 20
+115.14815113234067
+ 10
+208.69145012833377
+ 20
+114.74283537893407
+ 10
+208.90121202502186
+ 20
+114.35039847242328
+ 10
+209.13619140709875
+ 20
+113.97252088788998
+ 10
+209.39538205677565
+ 20
+113.61082075516399
+ 10
+209.677674079899
+ 20
+113.26684692974281
+ 10
+209.9818586586875
+ 20
+112.94207236035476
+ 10
+210.30663322807558
+ 20
+112.63788778156623
+ 10
+210.65060705349674
+ 20
+112.35559575844289
+ 10
+211.01230718622276
+ 20
+112.09640510876598
+ 10
+211.39018477075604
+ 20
+111.8614257266891
+ 10
+211.78262167726683
+ 20
+111.651663830001
+ 10
+212.18793743067343
+ 20
+111.46801765134653
+ 10
+212.60439640669455
+ 20
+111.31127359185656
+ 10
+213.0302152640589
+ 20
+111.18210285365763
+ 10
+213.46357058104638
+ 20
+111.08105856568132
+ 10
+213.9026066636597
+ 20
+111.00857341508137
+ 10
+214.34544349199106
+ 20
+110.96495779440077
+ 10
+214.79018477075604
+ 20
+110.95039847242329
+ 10
+215.23492604952102
+ 20
+110.96495779440077
+ 10
+215.6777628778524
+ 20
+111.00857341508137
+ 10
+216.1167989604657
+ 20
+111.08105856568132
+ 10
+216.55015427745317
+ 20
+111.18210285365763
+ 10
+216.97597313481754
+ 20
+111.31127359185656
+ 10
+217.39243211083866
+ 20
+111.46801765134653
+ 10
+217.79774786424525
+ 20
+111.651663830001
+ 10
+218.19018477075605
+ 20
+111.8614257266891
+ 10
+218.56806235528933
+ 20
+112.09640510876598
+ 10
+218.92976248801534
+ 20
+112.35559575844289
+ 10
+219.2737363134365
+ 20
+112.63788778156623
+ 10
+219.59851088282457
+ 20
+112.94207236035476
+ 10
+219.9026954616131
+ 20
+113.26684692974281
+ 10
+220.18498748473644
+ 20
+113.61082075516399
+ 10
+220.44417813441336
+ 20
+113.97252088788998
+ 10
+220.67915751649022
+ 20
+114.35039847242328
+ 10
+220.88891941317831
+ 20
+114.74283537893407
+ 10
+221.07256559183278
+ 20
+115.14815113234067
+ 10
+221.22930965132275
+ 20
+115.56461010836179
+ 10
+221.3584803895217
+ 20
+115.99042896572614
+ 10
+221.459524677498
+ 20
+116.42378428271361
+ 10
+221.53200982809796
+ 20
+116.86282036532694
+ 10
+221.57562544877854
+ 20
+117.3056571936583
+ 10
+221.59018477075605
+ 20
+117.75039847242329
+ 10
+221.57562544877854
+ 20
+118.19513975118826
+ 10
+221.53200982809796
+ 20
+118.63797657951964
+  0
+LWPOLYLINE
+  5
+B3
+330
+17
+100
+AcDbEntity
+  8
+CUT
+100
+AcDbPolyline
+ 90
+97
+ 70
+1
+ 10
+241.57562544877854
+ 20
+118.19513975118826
+ 10
+241.53200982809796
+ 20
+118.63797657951964
+ 10
+241.459524677498
+ 20
+119.07701266213296
+ 10
+241.3584803895217
+ 20
+119.51036797912043
+ 10
+241.22930965132275
+ 20
+119.93618683648478
+ 10
+241.07256559183278
+ 20
+120.3526458125059
+ 10
+240.88891941317831
+ 20
+120.7579615659125
+ 10
+240.67915751649022
+ 20
+121.15039847242329
+ 10
+240.44417813441333
+ 20
+121.52827605695659
+ 10
+240.18498748473644
+ 20
+121.88997618968259
+ 10
+239.9026954616131
+ 20
+122.23395001510376
+ 10
+239.59851088282457
+ 20
+122.55872458449181
+ 10
+239.2737363134365
+ 20
+122.86290916328034
+ 10
+238.92976248801534
+ 20
+123.14520118640368
+ 10
+238.56806235528933
+ 20
+123.40439183608059
+ 10
+238.19018477075605
+ 20
+123.63937121815746
+ 10
+237.79774786424525
+ 20
+123.84913311484557
+ 10
+237.39243211083866
+ 20
+124.03277929350004
+ 10
+236.97597313481754
+ 20
+124.18952335299001
+ 10
+236.55015427745317
+ 20
+124.31869409118895
+ 10
+236.1167989604657
+ 20
+124.41973837916525
+ 10
+235.6777628778524
+ 20
+124.4922235297652
+ 10
+235.23492604952102
+ 20
+124.5358391504458
+ 10
+234.79018477075604
+ 20
+124.55039847242328
+ 10
+234.34544349199106
+ 20
+124.5358391504458
+ 10
+233.9026066636597
+ 20
+124.4922235297652
+ 10
+233.46357058104635
+ 20
+124.41973837916525
+ 10
+233.0302152640589
+ 20
+124.31869409118895
+ 10
+232.60439640669455
+ 20
+124.18952335299001
+ 10
+232.18793743067343
+ 20
+124.03277929350003
+ 10
+231.78262167726683
+ 20
+123.84913311484557
+ 10
+231.39018477075604
+ 20
+123.63937121815746
+ 10
+231.01230718622273
+ 20
+123.40439183608059
+ 10
+230.65060705349674
+ 20
+123.14520118640368
+ 10
+230.30663322807558
+ 20
+122.86290916328034
+ 10
+229.9818586586875
+ 20
+122.5587245844918
+ 10
+229.677674079899
+ 20
+122.23395001510376
+ 10
+229.39538205677565
+ 20
+121.88997618968259
+ 10
+229.13619140709872
+ 20
+121.52827605695659
+ 10
+228.90121202502186
+ 20
+121.15039847242328
+ 10
+228.69145012833377
+ 20
+120.7579615659125
+ 10
+228.5078039496793
+ 20
+120.3526458125059
+ 10
+228.35105989018933
+ 20
+119.93618683648478
+ 10
+228.22188915199038
+ 20
+119.51036797912042
+ 10
+228.12084486401406
+ 20
+119.07701266213296
+ 10
+228.04835971341413
+ 20
+118.63797657951963
+ 10
+228.00474409273355
+ 20
+118.19513975118825
+ 10
+227.99018477075603
+ 20
+117.75039847242329
+ 10
+228.00474409273355
+ 20
+117.3056571936583
+ 10
+228.04835971341413
+ 20
+116.86282036532693
+ 10
+228.1208448640141
+ 20
+116.42378428271361
+ 10
+228.22188915199038
+ 20
+115.99042896572614
+ 10
+228.35105989018933
+ 20
+115.56461010836179
+ 10
+228.5078039496793
+ 20
+115.14815113234067
+ 10
+228.69145012833377
+ 20
+114.74283537893407
+ 10
+228.90121202502186
+ 20
+114.35039847242328
+ 10
+229.13619140709875
+ 20
+113.97252088788998
+ 10
+229.39538205677565
+ 20
+113.61082075516399
+ 10
+229.677674079899
+ 20
+113.26684692974281
+ 10
+229.9818586586875
+ 20
+112.94207236035476
+ 10
+230.30663322807558
+ 20
+112.63788778156623
+ 10
+230.65060705349674
+ 20
+112.35559575844289
+ 10
+231.01230718622276
+ 20
+112.09640510876598
+ 10
+231.39018477075604
+ 20
+111.8614257266891
+ 10
+231.78262167726683
+ 20
+111.651663830001
+ 10
+232.18793743067343
+ 20
+111.46801765134653
+ 10
+232.60439640669455
+ 20
+111.31127359185656
+ 10
+233.0302152640589
+ 20
+111.18210285365763
+ 10
+233.46357058104638
+ 20
+111.08105856568132
+ 10
+233.9026066636597
+ 20
+111.00857341508137
+ 10
+234.34544349199106
+ 20
+110.96495779440077
+ 10
+234.79018477075604
+ 20
+110.95039847242329
+ 10
+235.23492604952102
+ 20
+110.96495779440077
+ 10
+235.6777628778524
+ 20
+111.00857341508137
+ 10
+236.1167989604657
+ 20
+111.08105856568132
+ 10
+236.55015427745317
+ 20
+111.18210285365763
+ 10
+236.97597313481754
+ 20
+111.31127359185656
+ 10
+237.39243211083866
+ 20
+111.46801765134653
+ 10
+237.79774786424525
+ 20
+111.651663830001
+ 10
+238.19018477075605
+ 20
+111.8614257266891
+ 10
+238.56806235528933
+ 20
+112.09640510876598
+ 10
+238.92976248801534
+ 20
+112.35559575844289
+ 10
+239.2737363134365
+ 20
+112.63788778156623
+ 10
+239.59851088282457
+ 20
+112.94207236035476
+ 10
+239.9026954616131
+ 20
+113.26684692974281
+ 10
+240.18498748473644
+ 20
+113.61082075516399
+ 10
+240.44417813441336
+ 20
+113.97252088788998
+ 10
+240.67915751649022
+ 20
+114.35039847242328
+ 10
+240.88891941317831
+ 20
+114.74283537893407
+ 10
+241.07256559183278
+ 20
+115.14815113234067
+ 10
+241.22930965132275
+ 20
+115.56461010836179
+ 10
+241.3584803895217
+ 20
+115.99042896572614
+ 10
+241.459524677498
+ 20
+116.42378428271361
+ 10
+241.53200982809796
+ 20
+116.86282036532694
+ 10
+241.57562544877854
+ 20
+117.3056571936583
+ 10
+241.59018477075605
+ 20
+117.75039847242329
+ 10
+241.57562544877854
+ 20
+118.19513975118826
+  0
+ENDSEC
+  0
+SECTION
+  2
+OBJECTS
+  0
+DICTIONARY
+  5
+A
+330
+0
+100
+AcDbDictionary
+281
+1
+  3
+ACAD_COLOR
+350
+B
+  3
+ACAD_GROUP
+350
+C
+  3
+ACAD_LAYOUT
+350
+D
+  3
+ACAD_MATERIAL
+350
+E
+  3
+ACAD_MLEADERSTYLE
+350
+F
+  3
+ACAD_MLINESTYLE
+350
+10
+  3
+ACAD_PLOTSETTINGS
+350
+11
+  3
+ACAD_PLOTSTYLENAME
+350
+12
+  3
+ACAD_SCALELIST
+350
+14
+  3
+ACAD_TABLESTYLE
+350
+15
+  3
+ACAD_VISUALSTYLE
+350
+16
+  3
+EZDXF_META
+350
+2D
+  0
+DICTIONARY
+  5
+B
+330
+A
+100
+AcDbDictionary
+281
+1
+  0
+DICTIONARY
+  5
+C
+330
+A
+100
+AcDbDictionary
+281
+1
+  0
+DICTIONARY
+  5
+D
+330
+A
+100
+AcDbDictionary
+281
+1
+  3
+Model
+350
+1A
+  3
+Layout1
+350
+1E
+  0
+DICTIONARY
+  5
+E
+330
+A
+100
+AcDbDictionary
+281
+1
+  3
+ByBlock
+350
+1F
+  3
+ByLayer
+350
+20
+  3
+Global
+350
+21
+  0
+DICTIONARY
+  5
+F
+330
+A
+100
+AcDbDictionary
+281
+1
+  3
+Standard
+350
+2C
+  0
+DICTIONARY
+  5
+10
+330
+A
+100
+AcDbDictionary
+281
+1
+  3
+Standard
+350
+22
+  0
+DICTIONARY
+  5
+11
+330
+A
+100
+AcDbDictionary
+281
+1
+  0
+ACDBDICTIONARYWDFLT
+  5
+12
+330
+A
+100
+AcDbDictionary
+281
+1
+  3
+Normal
+350
+13
+100
+AcDbDictionaryWithDefault
+340
+13
+  0
+ACDBPLACEHOLDER
+  5
+13
+330
+12
+  0
+DICTIONARY
+  5
+14
+330
+A
+100
+AcDbDictionary
+281
+1
+  0
+DICTIONARY
+  5
+15
+330
+A
+100
+AcDbDictionary
+281
+1
+  0
+DICTIONARY
+  5
+16
+330
+A
+100
+AcDbDictionary
+281
+1
+  3
+2dWireframe
+350
+5A
+  3
+Basic
+350
+5B
+  3
+Brighten
+350
+5C
+  3
+ColorChange
+350
+5D
+  3
+Conceptual
+350
+5E
+  3
+Dim
+350
+5F
+  3
+EdgeColorOff
+350
+60
+  3
+Facepattern
+350
+61
+  3
+Flat
+350
+62
+  3
+FlatWithEdges
+350
+63
+  3
+Gouraud
+350
+64
+  3
+GouraudWithEdges
+350
+65
+  3
+Hidden
+350
+66
+  3
+JitterOff
+350
+67
+  3
+Linepattern
+350
+68
+  3
+Modeling
+350
+69
+  3
+OverhangOff
+350
+6A
+  3
+Realistic
+350
+6B
+  3
+Shaded
+350
+6C
+  3
+Shaded with edges
+350
+6D
+  3
+Shades of Gray
+350
+6E
+  3
+Sketchy
+350
+6F
+  3
+Thicken
+350
+70
+  3
+Wireframe
+350
+71
+  3
+X-Ray
+350
+72
+  0
+LAYOUT
+  5
+1A
+330
+D
+100
+AcDbPlotSettings
+  1
+
+  4
+A3
+  6
+
+ 40
+7.5
+ 41
+20.0
+ 42
+7.5
+ 43
+20.0
+ 44
+420.0
+ 45
+297.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+1024
+ 72
+1
+ 73
+0
+ 74
+5
+  7
+
+ 75
+16
+ 76
+0
+ 77
+2
+ 78
+300
+147
+1.0
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Model
+ 70
+1
+ 71
+0
+ 10
+0.0
+ 20
+0.0
+ 11
+420.0
+ 21
+297.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+1e+20
+ 24
+1e+20
+ 34
+1e+20
+ 15
+-1e+20
+ 25
+-1e+20
+ 35
+-1e+20
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+1
+330
+17
+  0
+LAYOUT
+  5
+1E
+330
+D
+100
+AcDbPlotSettings
+  1
+
+  4
+A3
+  6
+
+ 40
+7.5
+ 41
+20.0
+ 42
+7.5
+ 43
+20.0
+ 44
+420.0
+ 45
+297.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+0
+ 72
+1
+ 73
+0
+ 74
+5
+  7
+
+ 75
+16
+ 76
+0
+ 77
+2
+ 78
+300
+147
+1.0
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Layout1
+ 70
+1
+ 71
+1
+ 10
+0.0
+ 20
+0.0
+ 11
+420.0
+ 21
+297.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+1e+20
+ 24
+1e+20
+ 34
+1e+20
+ 15
+-1e+20
+ 25
+-1e+20
+ 35
+-1e+20
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+1
+330
+1B
+  0
+MATERIAL
+  5
+1F
+102
+{ACAD_REACTORS
+330
+E
+102
+}
+330
+E
+100
+AcDbMaterial
+  1
+ByBlock
+  2
+
+ 70
+0
+ 40
+1.0
+ 71
+1
+ 41
+1.0
+ 91
+-1023410177
+ 42
+1.0
+ 72
+1
+  3
+
+ 73
+1
+ 74
+1
+ 75
+1
+ 44
+0.5
+ 73
+0
+ 45
+1.0
+ 46
+1.0
+ 77
+1
+  4
+
+ 78
+1
+ 79
+1
+170
+1
+ 48
+1.0
+171
+1
+  6
+
+172
+1
+173
+1
+174
+1
+140
+1.0
+141
+1.0
+175
+1
+  7
+
+176
+1
+177
+1
+178
+1
+143
+1.0
+179
+1
+  8
+
+270
+1
+271
+1
+272
+1
+145
+1.0
+146
+1.0
+273
+1
+  9
+
+274
+1
+275
+1
+276
+1
+ 42
+1.0
+ 72
+1
+  3
+
+ 73
+1
+ 74
+1
+ 75
+1
+ 94
+63
+  0
+MATERIAL
+  5
+20
+102
+{ACAD_REACTORS
+330
+E
+102
+}
+330
+E
+100
+AcDbMaterial
+  1
+ByLayer
+  2
+
+ 70
+0
+ 40
+1.0
+ 71
+1
+ 41
+1.0
+ 91
+-1023410177
+ 42
+1.0
+ 72
+1
+  3
+
+ 73
+1
+ 74
+1
+ 75
+1
+ 44
+0.5
+ 73
+0
+ 45
+1.0
+ 46
+1.0
+ 77
+1
+  4
+
+ 78
+1
+ 79
+1
+170
+1
+ 48
+1.0
+171
+1
+  6
+
+172
+1
+173
+1
+174
+1
+140
+1.0
+141
+1.0
+175
+1
+  7
+
+176
+1
+177
+1
+178
+1
+143
+1.0
+179
+1
+  8
+
+270
+1
+271
+1
+272
+1
+145
+1.0
+146
+1.0
+273
+1
+  9
+
+274
+1
+275
+1
+276
+1
+ 42
+1.0
+ 72
+1
+  3
+
+ 73
+1
+ 74
+1
+ 75
+1
+ 94
+63
+  0
+MATERIAL
+  5
+21
+102
+{ACAD_REACTORS
+330
+E
+102
+}
+330
+E
+100
+AcDbMaterial
+  1
+Global
+  2
+
+ 70
+0
+ 40
+1.0
+ 71
+1
+ 41
+1.0
+ 91
+-1023410177
+ 42
+1.0
+ 72
+1
+  3
+
+ 73
+1
+ 74
+1
+ 75
+1
+ 44
+0.5
+ 73
+0
+ 45
+1.0
+ 46
+1.0
+ 77
+1
+  4
+
+ 78
+1
+ 79
+1
+170
+1
+ 48
+1.0
+171
+1
+  6
+
+172
+1
+173
+1
+174
+1
+140
+1.0
+141
+1.0
+175
+1
+  7
+
+176
+1
+177
+1
+178
+1
+143
+1.0
+179
+1
+  8
+
+270
+1
+271
+1
+272
+1
+145
+1.0
+146
+1.0
+273
+1
+  9
+
+274
+1
+275
+1
+276
+1
+ 42
+1.0
+ 72
+1
+  3
+
+ 73
+1
+ 74
+1
+ 75
+1
+ 94
+63
+  0
+MLINESTYLE
+  5
+22
+102
+{ACAD_REACTORS
+330
+10
+102
+}
+330
+10
+100
+AcDbMlineStyle
+  2
+Standard
+ 70
+0
+  3
+
+ 62
+256
+ 51
+90.0
+ 52
+90.0
+ 71
+2
+ 49
+0.5
+ 62
+256
+  6
+BYLAYER
+ 49
+-0.5
+ 62
+256
+  6
+BYLAYER
+  0
+MLEADERSTYLE
+  5
+2C
+102
+{ACAD_REACTORS
+330
+F
+102
+}
+330
+F
+100
+AcDbMLeaderStyle
+179
+2
+170
+2
+171
+1
+172
+0
+ 90
+2
+ 40
+0.0
+ 41
+0.0
+173
+1
+ 91
+-1056964608
+ 92
+-2
+290
+1
+ 42
+2.0
+291
+1
+ 43
+8.0
+  3
+Standard
+ 44
+4.0
+300
+
+342
+29
+174
+1
+175
+1
+176
+0
+178
+1
+ 93
+-1056964608
+ 45
+4.0
+292
+0
+297
+0
+ 46
+4.0
+ 94
+-1056964608
+ 47
+1.0
+ 49
+1.0
+140
+1.0
+294
+1
+141
+0.0
+177
+0
+142
+1.0
+295
+0
+296
+0
+143
+3.75
+271
+0
+272
+9
+273
+9
+  0
+DICTIONARY
+  5
+2D
+330
+A
+100
+AcDbDictionary
+280
+1
+281
+1
+  3
+CREATED_BY_EZDXF
+350
+2E
+  3
+WRITTEN_BY_EZDXF
+350
+B6
+  0
+DICTIONARYVAR
+  5
+2E
+330
+2D
+100
+DictionaryVariables
+280
+0
+  1
+1.4.4 @ 2026-11-04T03:59:32.635334+00:00
+  0
+VISUALSTYLE
+  5
+5A
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+2dWireframe
+ 70
+4
+ 90
+0
+ 40
+0.6
+ 62
+7
+290
+0
+291
+0
+  0
+VISUALSTYLE
+  5
+5B
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+Basic
+ 70
+7
+ 90
+1
+ 40
+0.6
+ 62
+7
+290
+0
+291
+1
+  0
+VISUALSTYLE
+  5
+5C
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+Brighten
+ 70
+12
+ 90
+2
+ 40
+0.6
+ 62
+7
+290
+0
+291
+1
+  0
+VISUALSTYLE
+  5
+5D
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+ColorChange
+ 70
+16
+ 90
+2
+ 40
+0.6
+ 62
+8
+290
+0
+291
+1
+  0
+VISUALSTYLE
+  5
+5E
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+Conceptual
+ 70
+9
+ 90
+3
+ 40
+0.6
+ 62
+7
+290
+0
+291
+0
+  0
+VISUALSTYLE
+  5
+5F
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+Dim
+ 70
+11
+ 90
+2
+ 40
+0.6
+ 62
+7
+290
+0
+291
+1
+  0
+VISUALSTYLE
+  5
+60
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+EdgeColorOff
+ 70
+22
+ 90
+2
+ 40
+0.6
+ 62
+7
+290
+0
+291
+1
+  0
+VISUALSTYLE
+  5
+61
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+Facepattern
+ 70
+15
+ 90
+2
+ 40
+0.6
+ 62
+7
+290
+0
+291
+1
+  0
+VISUALSTYLE
+  5
+62
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+Flat
+ 70
+0
+ 90
+2
+ 40
+0.6
+ 62
+7
+290
+0
+291
+1
+  0
+VISUALSTYLE
+  5
+63
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+FlatWithEdges
+ 70
+1
+ 90
+2
+ 40
+0.6
+ 62
+7
+290
+0
+291
+1
+  0
+VISUALSTYLE
+  5
+64
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+Gouraud
+ 70
+2
+ 90
+2
+ 40
+0.6
+ 62
+7
+290
+0
+291
+1
+  0
+VISUALSTYLE
+  5
+65
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+GouraudWithEdges
+ 70
+3
+ 90
+2
+ 40
+0.6
+ 62
+7
+290
+0
+291
+1
+  0
+VISUALSTYLE
+  5
+66
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+Hidden
+ 70
+6
+ 90
+1
+ 40
+0.6
+ 62
+7
+290
+0
+291
+0
+  0
+VISUALSTYLE
+  5
+67
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+JitterOff
+ 70
+20
+ 90
+2
+ 40
+0.6
+ 62
+7
+290
+0
+291
+1
+  0
+VISUALSTYLE
+  5
+68
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+Linepattern
+ 70
+14
+ 90
+2
+ 40
+0.6
+ 62
+7
+290
+0
+291
+1
+  0
+VISUALSTYLE
+  5
+69
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+Modeling
+ 70
+10
+ 90
+2
+ 40
+0.6
+ 62
+7
+290
+0
+291
+0
+  0
+VISUALSTYLE
+  5
+6A
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+OverhangOff
+ 70
+21
+ 90
+2
+ 40
+0.6
+ 62
+7
+290
+0
+291
+1
+  0
+VISUALSTYLE
+  5
+6B
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+Realistic
+ 70
+8
+ 90
+2
+ 40
+0.6
+ 62
+7
+290
+0
+291
+0
+  0
+VISUALSTYLE
+  5
+6C
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+Shaded
+ 70
+27
+ 90
+2
+ 40
+0.6
+ 62
+7
+290
+0
+291
+0
+  0
+VISUALSTYLE
+  5
+6D
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+Shaded with edges
+ 70
+26
+ 90
+2
+ 40
+0.6
+ 62
+7
+290
+0
+291
+0
+  0
+VISUALSTYLE
+  5
+6E
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+Shades of Gray
+ 70
+23
+ 90
+2
+ 40
+0.6
+ 62
+7
+290
+0
+291
+0
+  0
+VISUALSTYLE
+  5
+6F
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+Sketchy
+ 70
+24
+ 90
+1
+ 40
+0.6
+ 62
+7
+290
+0
+291
+0
+  0
+VISUALSTYLE
+  5
+70
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+Thicken
+ 70
+13
+ 90
+2
+ 40
+0.6
+ 62
+7
+290
+0
+291
+1
+  0
+VISUALSTYLE
+  5
+71
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+Wireframe
+ 70
+5
+ 90
+0
+ 40
+0.6
+ 62
+7
+290
+0
+291
+0
+  0
+VISUALSTYLE
+  5
+72
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+X-Ray
+ 70
+25
+ 90
+2
+ 40
+0.5
+ 62
+7
+290
+0
+291
+0
+  0
+DICTIONARYVAR
+  5
+B6
+330
+2D
+100
+DictionaryVariables
+280
+0
+  1
+1.4.4 @ 2026-11-04T03:59:32.647744+00:00
+  0
+ENDSEC
+  0
+EOF

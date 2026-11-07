@@ -1,0 +1,284 @@
+<title>羽田空港 運用ボード</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* レイアウト：上に 3D ビュー、下に運用の切り替え（空港の運用表示板風）と部品の一覧 */
+:root{
+  --bg:#eceff1; --stage:#d7dce0; --ink:#1a2027; --ink-2:#48535d; --ink-3:#7a8690;
+  --line:#c2cad1; --btn:#ffffff; --accent:#1f6fb2; --board:#132532; --board-ink:#e9f1f5;
+  --f-body:"Zen Kaku Gothic New","Hiragino Sans","Yu Gothic UI",system-ui,sans-serif;
+  --f-num:"IBM Plex Mono",ui-monospace,Menlo,monospace; --r:8px;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#12171b; --stage:#1b2228; --ink:#e3e8ec; --ink-2:#aab5bf; --ink-3:#7c8994;
+  --line:#37414a; --btn:#232b32; --accent:#6db3ec; --board:#0b161e; --board-ink:#dfe9ef; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#12171b; --stage:#1b2228; --ink:#e3e8ec; --ink-2:#aab5bf; --ink-3:#7c8994;
+  --line:#37414a; --btn:#232b32; --accent:#6db3ec; --board:#0b161e; --board-ink:#dfe9ef; color-scheme:dark}
+body{background:var(--bg);color:var(--ink);font-family:var(--f-body);font-size:14px;line-height:1.6}
+.page{max-width:980px;margin:0 auto;padding-block:20px 36px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));display:grid;gap:14px}
+h1{font-size:1.4rem;margin:0;font-weight:700;text-wrap:balance}
+.sub{margin:2px 0 0;color:var(--ink-2);max-width:70ch}
+.vw{position:relative;width:100%;height:min(66vh,620px);border-radius:12px;overflow:hidden;background:var(--stage)}
+.vw canvas{display:block;width:100%;height:100%;cursor:grab;touch-action:none}
+.hint{position:absolute;left:12px;bottom:10px;font-size:12px;color:var(--ink-3);pointer-events:none}
+.dim{position:absolute;right:12px;top:10px;font-size:12px;color:var(--ink-2);pointer-events:none;font-family:var(--f-num);text-align:right}
+.ctl{display:flex;flex-wrap:wrap;gap:10px 16px;align-items:center;font-size:13px;color:var(--ink-2)}
+.ctl label{display:flex;align-items:center;gap:6px;cursor:pointer}
+.ctl input[type=range]{width:140px;accent-color:var(--accent)}
+.ctl input[type=checkbox]{accent-color:var(--accent)}
+button{font:inherit;font-size:13px;padding:5px 12px;border:1px solid var(--line);border-radius:var(--r);background:var(--btn);color:var(--ink);cursor:pointer}
+button:focus-visible,input:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.deck{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.15fr);gap:14px;align-items:start}
+@media (max-width:740px){.deck{grid-template-columns:minmax(0,1fr)}}
+.ops{background:var(--board);color:var(--board-ink);border-radius:var(--r);padding:14px;display:grid;gap:12px}
+.ops .t{font-size:12px;letter-spacing:.08em;opacity:.75}
+.seg{display:flex;flex-wrap:wrap;gap:8px}
+.seg button{background:transparent;color:var(--board-ink);border-color:rgba(233,241,245,.3)}
+.tk{margin-top:10px;background:transparent;color:var(--board-ink);border-color:#ffc21f}
+.seg button[aria-pressed="true"]{background:rgba(233,241,245,.14);border-color:var(--board-ink)}
+.rw{display:grid;grid-template-columns:auto minmax(0,1fr);gap:4px 12px;font-family:var(--f-num);font-size:13px;margin:0}
+.rw dt{opacity:.7}
+.rw dd{margin:0}
+.rw dd.off{opacity:.55}
+.key{font-size:12px;opacity:.85;display:flex;flex-wrap:wrap;gap:4px 12px}
+.dot{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:5px;vertical-align:0}
+.parts{border:1px solid var(--line);border-radius:var(--r);overflow-x:auto}
+table{border-collapse:collapse;width:100%;font-size:13px}
+th,td{text-align:left;padding:6px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-weight:500;color:var(--ink-2);font-size:12px;letter-spacing:.04em}
+tr:last-child td{border-bottom:0}
+td.n{font-family:var(--f-num);white-space:nowrap}
+.note{color:var(--ink-2);font-size:13px;margin:0;max-width:80ch}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+</style>
+<div class="page">
+  <header>
+    <h1>羽田空港 運用ボード</h1>
+    <p class="sub">黄ボードをレーザーで切って重ねた羽田空港の模型です。空港の形・ターミナル・エプロン・誘導路は OpenStreetMap のデータから作り、縮尺 1:25000 で刻印しています。滑走路の端に在庫の LED を埋め込み、右上に ADS-B レーダーを合体させました。飛行機が離陸するたびに、その滑走路の LED が点滅します。</p>
+  </header>
+  <h2 class="sr">運用ボードの3Dモデル。ドラッグで回転、スクロールで拡大でき、北風運用と南風運用の光り方を切り替えられる。</h2>
+  <div class="vw" id="vw"><div class="dim" id="dim"></div><div class="hint">ドラッグで回転・スクロールで拡大・右ドラッグで移動</div></div>
+  <div class="ctl">
+    <label>分解 <input type="range" id="ex" min="0" max="100" step="1" value="0"></label>
+    <label><input type="checkbox" id="peek"> 上の板を隠して LED を見る</label>
+    <button id="v-iso">斜め</button>
+    <button id="v-top">真上</button>
+    <button id="v-close">ターミナルに寄る</button>
+    <button id="v-under">下から</button>
+  </div>
+  <div class="deck">
+    <div class="ops">
+      <div class="t">表示する運用（実物はライブのデータから自動で判定）</div>
+      <div class="seg" role="group" aria-label="運用の例">
+        <button id="m-north" aria-pressed="true">北風運用</button>
+        <button id="m-south" aria-pressed="false">南風運用</button>
+        <button id="m-off" aria-pressed="false">消灯</button>
+      </div>
+      <button id="takeoff" class="tk">離陸の点滅をためす</button>
+      <dl class="rw" id="rwlist"></dl>
+      <div class="key"><span><span class="dot" style="background:#35d14a"></span>着陸機が降りる端</span><span><span class="dot" style="background:#ffc21f"></span>離陸機が走り出す端</span><span><span class="dot" style="background:#ff3b30"></span>飛行機が向かう先</span></div>
+    </div>
+    <div class="parts">
+      <table>
+        <thead><tr><th>部品</th><th>数</th><th>在庫</th></tr></thead>
+        <tbody>
+          <tr><td>LED 赤 / 緑 / 黄（5mm）</td><td class="n">5 / 2 / 4</td><td>各 5</td></tr>
+          <tr><td>2色LEDモジュール（34R・23 の端）</td><td class="n">2</td><td>2</td></tr>
+          <tr><td>RGB LEDモジュール（運用ランプ）</td><td class="n">1</td><td>2</td></tr>
+          <tr><td>ESP32-C3 SuperMini（レーダーの 1 個とは別に）</td><td class="n">1</td><td>12</td></tr>
+          <tr><td>抵抗 47Ω（5 本の線に 1 本ずつ）</td><td class="n">5</td><td>20</td></tr>
+          <tr><td>黄ボード 3mm（4 枚分）／PLA（トレー・脚・管制塔・栓）</td><td class="n">—</td><td>用意する</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+  <p class="note">右上に ADS-B レーダーの本体（裏ぶたなし）をのせ、その下の穴から裏のトレーへレーダーの基板を、第3版のケースへ運用ボードの基板をしまいます。レーダーの 2 つのボタンは板の上に移しました。北風運用では B 滑走路はふだん使われないので消えています（実際の運用どおり）。LED はチャーリープレクシングという配線で、ESP32-C3 の 5 本のピンだけで 18 個の光を切り替えます。管制塔の模型は見やすいよう高さを約 3 倍にしています。</p>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+<script>
+const D = __DATA__;
+(function(){
+const el = document.getElementById('vw');
+const renderer = new THREE.WebGLRenderer({antialias:true, alpha:true});
+renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+el.appendChild(renderer.domElement);
+const scene = new THREE.Scene();
+const cam = new THREE.PerspectiveCamera(30, 1, 1, 5000);
+const ctr = new THREE.OrbitControls(cam, renderer.domElement);
+ctr.enableDamping = true;
+const CX = D.BW/2, CY = D.BH/2;
+scene.add(new THREE.HemisphereLight(0xffffff, 0x7d756a, 0.8));
+const d1 = new THREE.DirectionalLight(0xffffff, 0.65); d1.position.set(-200, 400, 250); scene.add(d1);
+const d2 = new THREE.DirectionalLight(0xffffff, 0.25); d2.position.set(250, 150, -200); scene.add(d2);
+
+const V = (x, y, z) => new THREE.Vector3(x - CX, z, -(y - CY));
+function shapeOf(p){
+  const s = new THREE.Shape(p.o.map(q => new THREE.Vector2(q[0]-CX, q[1]-CY)));
+  p.h.forEach(h => s.holes.push(new THREE.Path(h.map(q => new THREE.Vector2(q[0]-CX, q[1]-CY)))));
+  return s;
+}
+function slab(polys, z, t, mat){
+  const g = new THREE.ExtrudeGeometry(polys.map(shapeOf), {depth:t, bevelEnabled:false, curveSegments:6});
+  g.rotateX(-Math.PI/2); g.translate(0, z, 0);
+  return new THREE.Mesh(g, mat);
+}
+const boardCols = ['#8f8463','#9b8f6c','#a99d78','#b5a983','#c2b690'];
+const layerObjs = [];
+D.layers.forEach((L, i) => {
+  const grp = new THREE.Group();
+  const m = slab(L.polys, L.z, L.t, new THREE.MeshStandardMaterial({color:boardCols[i], roughness:0.95}));
+  grp.add(m);
+  grp.add(new THREE.LineSegments(new THREE.EdgesGeometry(m.geometry, 40), new THREE.LineBasicMaterial({color:0x7a643a, transparent:true, opacity:0.35})));
+  grp.userData = {i}; scene.add(grp); layerObjs.push(grp);
+});
+const engCol = {dark:0x2e2414, light:0x75653f};
+const layerIdx = {sea:1, island:2, terminal:3, plaque:4};
+D.engrave.forEach(E => {
+  if (!E.polys.length) return;
+  const g = new THREE.ShapeGeometry(E.polys.map(shapeOf), 3);
+  const L = D.layers[layerIdx[E.layer]];
+  g.rotateX(-Math.PI/2); g.translate(0, L.z + L.t + (E.kind==='dark'?0.07:0.05), 0);
+  layerObjs[layerIdx[E.layer]].add(new THREE.Mesh(g, new THREE.MeshBasicMaterial({color:engCol[E.kind]})));
+});
+
+// 3D プリント部品
+function b64(s, T){ const bin = atob(s); const u = new Uint8Array(bin.length); for (let i=0;i<bin.length;i++) u[i]=bin.charCodeAt(i); return new T(u.buffer); }
+const printed = {case:[], feet:[], tower:[], radar:[]};
+D.printed.forEach(p => {
+  const q = b64(p.v, Int32Array), pos = new Float32Array(q.length);
+  for (let i=0;i<q.length;i+=3){ const x=q[i]/20, y=q[i+1]/20, z=q[i+2]/20; pos[i]=x-CX; pos[i+1]=z; pos[i+2]=-(y-CY); }
+  const g = new THREE.BufferGeometry(); g.setAttribute('position', new THREE.BufferAttribute(pos,3));
+  g.setIndex(new THREE.BufferAttribute(b64(p.i, Uint32Array),1)); g.computeVertexNormals();
+  const m = new THREE.Mesh(g, new THREE.MeshStandardMaterial({color:p.color, roughness:0.55, side:THREE.DoubleSide}));
+  scene.add(m); printed[p.group].push(m);
+});
+// トレーの中の ESP32-C3（レーダー用・運用ボード用）
+D.case.esp.forEach(e => {
+  const esp = new THREE.Mesh(new THREE.BoxGeometry(e[3]-e[0], 1.0, e[4]-e[1]), new THREE.MeshStandardMaterial({color:0x1c2d4a}));
+  esp.position.copy(V((e[0]+e[3])/2, (e[1]+e[4])/2, e[2]+0.5)); scene.add(esp); printed.case.push(esp);
+});
+// レーダーの液晶（画面の例）
+{
+  const c = document.createElement('canvas'); c.width = 240; c.height = 320;
+  const g = c.getContext('2d');
+  g.fillStyle = '#04140c'; g.fillRect(0, 0, 240, 320);
+  g.strokeStyle = '#1f8f55'; g.lineWidth = 2;
+  [40, 80, 115].forEach(r => { g.beginPath(); g.arc(120, 170, r, 0, Math.PI*2); g.stroke(); });
+  g.beginPath(); g.moveTo(5, 170); g.lineTo(235, 170); g.moveTo(120, 50); g.lineTo(120, 290); g.stroke();
+  g.fillStyle = '#ffd23f'; [[150,120],[70,210],[175,230],[95,95]].forEach(([x,y]) => { g.beginPath(); g.moveTo(x, y-7); g.lineTo(x+5, y+5); g.lineTo(x-5, y+5); g.fill(); });
+  g.fillStyle = '#7dffb0'; g.font = 'bold 18px sans-serif'; g.fillText('ADS-B  30km', 10, 26);
+  const r = D.radar_lcd;
+  const scr = new THREE.Mesh(new THREE.PlaneGeometry(r[3], r[4]), new THREE.MeshBasicMaterial({map:new THREE.CanvasTexture(c)}));
+  scr.rotation.x = -Math.PI/2; scr.position.copy(V(r[0], r[1], r[2])); scene.add(scr); printed.radar.push(scr);
+}
+// 板に移したレーダーのボタン（キャップ）
+D.radar.buttons.forEach(b => {
+  const cap = new THREE.Mesh(new THREE.CylinderGeometry(6.5, 6.5, 8, 28), new THREE.MeshStandardMaterial({color:0x2b3640, roughness:0.5}));
+  cap.position.copy(V(b[0], b[1], 2 * D.T + 5.8 - 4)); scene.add(cap); printed.radar.push(cap);
+});
+// 配線（溝の中）
+const wires = new THREE.Group(); scene.add(wires);
+D.wires.forEach(w => wires.add(new THREE.Line(new THREE.BufferGeometry().setFromPoints([V(w[0][0], w[0][1], -0.6), V(w[1][0], w[1][1], -0.6)]), new THREE.LineBasicMaterial({color:0xd8433a}))));
+
+// LED
+const COL = {green:'#35d14a', yellow:'#ffc21f', red:'#ff3b30'};
+const OFF = new THREE.Color('#d9d4c4');
+const leds = D.leds.map(L => {
+  const top = L.rw === 'mode' ? D.layers[1].z + D.T + 2.6 : D.layers[2].z + D.T + 2.6;
+  const grp = new THREE.Group();
+  const mat = new THREE.MeshStandardMaterial({color:OFF.clone(), emissive:new THREE.Color(0x000000), roughness:0.3, transparent:true, opacity:0.95});
+  const body = new THREE.Mesh(new THREE.CylinderGeometry(2.5, 2.5, 6, 20), mat); body.position.y = top - 2.5 - 3;
+  const dome = new THREE.Mesh(new THREE.SphereGeometry(2.5, 20, 12, 0, Math.PI*2, 0, Math.PI/2), mat); dome.position.y = top - 2.5;
+  grp.add(body); grp.add(dome);
+  const glow = new THREE.Mesh(new THREE.CircleGeometry(7, 24), new THREE.MeshBasicMaterial({color:0x000000, transparent:true, opacity:0, blending:THREE.AdditiveBlending, depthWrite:false}));
+  glow.rotation.x = -Math.PI/2; glow.position.y = top + 0.3; grp.add(glow);
+  const p = V(L.x, L.y, 0); grp.position.set(p.x, 0, p.z);
+  scene.add(grp);
+  return {L, mat, glow, grp};
+});
+
+let mode = 'north';
+// 離陸の点滅（実物と同じ：走り出す端が速く点滅 → 先の端が点滅）
+const TAKEOFFS = {north: [['C34R_Y','C16L_R'], ['D05_Y','D23_GR']], south: [['A16R_Y','A34L_R'], ['C16L_Y','C34R_GR']]};
+let flash = null;
+document.getElementById('takeoff').onclick = () => {
+  const list = TAKEOFFS[mode === 'off' ? 'north' : mode];
+  flash = {pair: list[Math.floor(Math.random() * list.length)], t0: performance.now()};
+};
+const rwList = document.getElementById('rwlist');
+function listMode(){
+  if (mode === 'off') { rwList.innerHTML = '<dt>表示</dt><dd class="off">すべて消灯</dd>'; return; }
+  const u = D.modes[mode].use;
+  rwList.innerHTML = ['A','B','C','D'].map(k => '<dt>' + k + ' 滑走路</dt><dd' + (u[k]==='使わない'?' class="off"':'') + '>' + u[k] + '</dd>').join('');
+}
+['north','south','off'].forEach(k => {
+  document.getElementById('m-' + k).onclick = () => {
+    mode = k;
+    ['north','south','off'].forEach(j => document.getElementById('m-' + j).setAttribute('aria-pressed', String(j === k)));
+    listMode();
+  };
+});
+listMode();
+
+const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+function paint(t){
+  const on = mode === 'off' ? {} : D.modes[mode].on;
+  const ph = (t % 2400) / 2400;
+  leds.forEach(o => {
+    let col = null, a = 0;
+    if (o.L.rw === 'mode') { if (mode !== 'off') { col = D.modes[mode].mode; a = 1; } }
+    else if (on[o.L.id]) {
+      col = COL[on[o.L.id]];
+      // 光の流れ：走り出す端（緑・黄）が先に強く光り、少し遅れて先の端（赤）が光る
+      const isEnd = on[o.L.id] === 'red';
+      const pulse = reduce ? 0 : Math.max(0, 1 - Math.abs(ph - (isEnd ? 0.45 : 0.15)) * 6);
+      a = 0.65 + 0.35 * pulse;
+    }
+    if (flash) {
+      const dt = t - flash.t0, onP = Math.floor(dt / 120) % 2 === 0;
+      if (dt > 4000) flash = null;
+      else if (o.L.id === flash.pair[0]) { col = '#ffc21f'; a = (onP && dt < 2400) ? 1 : 0; if (!a) col = null; }
+      else if (o.L.id === flash.pair[1]) { col = '#ff3b30'; a = (!onP && dt > 1000) ? 1 : 0; if (!a) col = null; }
+    }
+    if (col) {
+      const c = new THREE.Color(col);
+      o.mat.color.copy(c); o.mat.emissive.copy(c).multiplyScalar(0.9 * a);
+      o.glow.material.color.copy(c); o.glow.material.opacity = 0.45 * a;
+    } else {
+      o.mat.color.copy(OFF); o.mat.emissive.setRGB(0,0,0); o.glow.material.opacity = 0;
+    }
+  });
+}
+
+const exEl = document.getElementById('ex'), peek = document.getElementById('peek');
+function layout(){
+  const e = exEl.value / 100, hide = peek.checked, s = 16 * e;
+  layerObjs.forEach(g => { g.position.y = (g.userData.i === 4 ? 2.5 : g.userData.i) * s; g.visible = !(hide && g.userData.i >= 1); });
+  leds.forEach(o => { o.grp.position.y = 0.5 * s; o.glow.visible = !hide; });
+  printed.tower.forEach(m => { m.position.y = 4.5 * s; m.visible = !hide; });
+  printed.case.forEach(m => m.position.y = -2.5 * s);
+  printed.radar.forEach(m => { m.position.y = 2 * s; m.visible = !hide; });
+  printed.feet.forEach(m => m.position.y = -2.5 * s);
+  wires.position.y = -1 * s;
+}
+exEl.oninput = layout; peek.onchange = layout;
+
+function view(px,py,pz,tx=0,ty=4,tz=0){ cam.position.set(px, py, pz); ctr.target.set(tx,ty,tz); ctr.update(); }
+document.getElementById('v-iso').onclick = () => view(-150, 300, 330);
+document.getElementById('v-top').onclick = () => view(0, 520, 1);
+const tw = V(D.tower[0], D.tower[1], 0);
+document.getElementById('v-close').onclick = () => view(tw.x - 40, 70, tw.z + 75, tw.x, 12, tw.z);
+document.getElementById('v-under').onclick = () => view(-120, -200, 260, 0, -6, 0);
+view(-150, 300, 330);
+document.getElementById('dim').innerHTML = Math.round(D.BW) + ' × ' + Math.round(D.BH) + ' mm<br>高さ 41 mm（レーダー込み）';
+
+function resize(){ const w = el.clientWidth, h = el.clientHeight; renderer.setSize(w, h, false); cam.aspect = w/h; cam.updateProjectionMatrix(); }
+new ResizeObserver(resize).observe(el); resize();
+function loop(t){ paint(t); ctr.update(); renderer.render(scene, cam); requestAnimationFrame(loop); }
+requestAnimationFrame(loop);
+})();
+</script>
