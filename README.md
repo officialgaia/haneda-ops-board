@@ -110,17 +110,22 @@ LED は 1〜14 の番号で呼びます（全体図・カード・型紙・電�
 Wi-Fiの名前とパスワードは公開しないよう、リポジトリには入れていません。
 `firmware/haneda_board/config.example.h` をコピーして `config.h` という名前にし、`YOUR_SSID` と `YOUR_PASSWORD` を書き換えてから書き込んでください。
 
-## ADS-Bレーダー（`adsb-radar/` フォルダ）
+## ADS-Bレーダー
 
-このボードと組み合わせて使う、頭上の飛行機を液晶にレーダー表示する装置のファイル一式です。
+このボードと組み合わせて使う、頭上の飛行機を液晶にレーダー表示する装置のファイルも、同じフォルダに入っています。
+**ファイル名が `radar_` で始まるものがADS-Bレーダー用**です。
 
-| フォルダ | 中身 |
+| 場所 | 中身 |
 | --- | --- |
-| `adsb-radar/firmware/adsb_radar/` | レーダー本体のプログラム |
-| `adsb-radar/firmware/lcd_test/` | 液晶の点検用プログラム |
-| `adsb-radar/case/` | ケースの3Dプリント部品（STL・STEP）と設計スクリプト |
-| `adsb-radar/schematic/` | 回路図とユニバーサル基板の配置図 |
-| `adsb-radar/images/` | ケースの完成イメージ |
-| `adsb-radar/材料リスト.md` | 必要な部品 |
+| `firmware/adsb_radar/` | レーダー本体のプログラム |
+| `firmware/lcd_test/` | 液晶の点検用プログラム |
+| `stl/radar_*.stl` | ケースの3Dプリント部品（ふた・正面の試し刷り・つまみ・スタンド） |
+| `step/radar_*.step` | 同じ部品のSTEP（正面ケースを含む） |
+| `design/radar_*.py` | ケースの設計スクリプト |
+| `wiring/radar_*` | 回路図とユニバーサル基板の配置図 |
+| `images/radar_*.png` | ケースの完成イメージ |
+| `radar_材料リスト.md` | 必要な部品 |
 
-Wi-Fiの名前とパスワードは公開していません。`adsb-radar/firmware/adsb_radar/config.example.h` をコピーして `config.h` という名前にし、書き換えてから書き込んでください。
+Wi-Fiの名前とパスワードは公開していません。`firmware/adsb_radar/config.example.h` をコピーして `config.h` という名前にし、書き換えてから書き込んでください。
+
+設計スクリプトが書き出すファイル名には `radar_` が付かないので、作り直したときは名前を合わせてください。

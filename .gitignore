@@ -1,3 +1,3 @@
 firmware/haneda_board/config.h
 .DS_Store
-adsb-radar/firmware/adsb_radar/config.h
+firmware/adsb_radar/config.h
